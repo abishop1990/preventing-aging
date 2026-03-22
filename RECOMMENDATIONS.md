@@ -24,7 +24,32 @@ Recommendations are ordered by evidence strength. Each includes specific doses, 
 
 ### 4. Diet
 
-*Awaiting agent data — Mediterranean, protein, fiber*
+The strongest dietary evidence points to a Mediterranean-style, high-fiber, plant-forward pattern — not any single food or macro ratio.
+
+**Mediterranean diet** (Eleftheriou et al. 2018, 30 cohorts, 225,600 deaths, PMID: 30401007):
+- Highest vs. lowest adherence: **HR 0.79** (95% CI 0.77-0.81) — 21% mortality reduction
+- Driven by: moderate fruit/vegetables, legumes, whole grains, olive oil, fish, low red meat
+
+**Dietary fiber** (Ramezani et al. 2024, 64 cohorts, 3.5M subjects, PMID: 38011755):
+- High vs. low fiber: **HR 0.77** (95% CI 0.73-0.82) — 23% mortality reduction
+- Fiber from nuts/seeds for CVD mortality: **HR 0.57** — a 43% reduction
+- Insoluble fiber more effective than soluble for mortality
+
+**Protein — the age-dependent paradox** (Levine/Longo 2014, NHANES, PMID: 24606898):
+- **Ages 50-65**: High protein (≥20% calories) → **75% higher all-cause mortality**, 4x cancer mortality. Driven by IGF-1/mTOR activation. Effect abolished if protein was plant-derived.
+- **Ages 65+**: The relationship **reverses**. High protein becomes protective against cancer and all-cause mortality (sarcopenia/frailty prevention dominates).
+- For older adults: 1.0-1.6 g/kg/day supported for muscle preservation, especially with resistance training. Plant protein attenuates mTOR concerns.
+
+**Ultra-processed foods accelerate biological aging** (Wang et al. 2025, UK Biobank, n=172,225, PMID: 40719960):
+- Highest vs. lowest UPF: **HR 1.15** (95% CI 1.07-1.23). PhenoAge acceleration mediated 14.4% of the effect.
+- Each 10% increment of UPF in diet: **HR 1.10** (PMID: 40033461)
+
+**Omega-3 / DHA** (O'Keefe et al. 2024, UK Biobank + 17 cohorts, 160K subjects, PMID: 38506781):
+- Highest vs. lowest plasma DHA: **HR 0.79** (95% CI 0.74-0.85) — 21% mortality reduction
+
+**Blue Zones reality check** (Candal-Pedreira et al. 2025, PMID: 40479568): Only Ogliastra, Okinawa, and Nicoya have strong scientific verification. Loma Linda has **no published scientific studies** despite being the most cited. Common threads across verified zones: high legumes, high vegetables, low animal protein, low ultra-processed food.
+
+**Recommendation**: Eat mostly plants — legumes, vegetables, whole grains, nuts, olive oil, fish. Minimize ultra-processed food. Get 25-30g+ fiber daily from diverse sources. Under 65: keep protein moderate and plant-forward. Over 65: increase protein to 1.2-1.6 g/kg (sarcopenia prevention outweighs mTOR concern). Don't chase superfoods — the pattern matters more than any single ingredient.
 
 ### 5. Don't Smoke / Quit Smoking
 
@@ -35,9 +60,27 @@ Smoking accelerates every hallmark of aging simultaneously — DNA damage, telom
 - Cessation shows partial recovery in epigenetic age markers — it's never too late to quit
 - Secondhand smoke exposure in childhood accelerates epigenetic aging (Patil et al. 2025, PMID: 41281718)
 
-### 6. Alcohol
+### 6. Minimize or Eliminate Alcohol
 
-*Awaiting agent data — has "moderate drinking is protective" survived Mendelian randomization?*
+**"Moderate drinking is protective" has been decisively refuted.** The J-curve was an artifact of confounding (sick quitter bias). Zero is the optimal amount.
+
+**Mendelian randomization** (genetic instruments that remove confounding, Kassaw et al. 2024, 278,093 UK Biobank participants, PMID: 38508868):
+- **Linear association** with mortality — no safe threshold, no J-curve
+- All-cause mortality: **OR 1.27** (95% CI 1.16-1.39) per standard unit increase
+- CVD mortality: OR 1.30; Cancer mortality: OR 1.20
+
+**2023 JAMA meta-analysis** (Zhao et al., 107 studies, PMID: 37000449):
+- After adjusting for former-drinker bias, occasional and low-volume drinkers showed **no mortality benefit** vs. lifetime non-drinkers
+- Female drinkers had **significantly higher** mortality risk (RR 1.22)
+
+**Alcohol accelerates biological aging** (Wang et al. 2023, Framingham Heart Study, PMID: 37889500):
+- One additional drink/day = **+0.71 years PhenoAge acceleration** in middle-aged adults
+- Liquor worst (+0.82 years GrimAge), wine and beer slightly less
+- Telomere shortening: 10→32 units/week = **equivalent of 3 years of biological aging** (Topiwala et al. 2022, MR study, PMID: 35879401)
+
+**WHO/Lancet 2023-2025 consensus**: "The level of consumption that minimises risk is **0 g of ethanol per week**." Alcohol is a Group 1 carcinogen (same category as asbestos, radiation, tobacco).
+
+**Recommendation**: The optimal amount of alcohol for longevity is zero. Every drink accelerates biological aging measurably. If you drink, less is always better.
 
 ---
 
@@ -64,7 +107,25 @@ This is not soft advice. The effect sizes rival smoking and obesity.
 
 ### 8. Cognitive Engagement
 
-*Awaiting agent data — cognitive reserve, retirement timing*
+Continued cognitive activity is one of the strongest modifiable factors for dementia prevention.
+
+**Cognitive leisure activities and dementia** (Yates et al. 2016, meta-analysis, PMID: 27502691):
+- **HR 0.58** (95% CI 0.46-0.74) — 42% reduced dementia risk from cognitive activities
+
+**Low education is the #1 modifiable dementia risk factor** (Stephan et al. 2024, *Lancet Healthy Longev*, PMID: 38824956):
+- Population attributable fraction: **17.2%** of dementia cases attributable to low education (unweighted)
+- Seven combined modifiable factors (education, hypertension, obesity, smoking, inactivity, depression, diabetes) account for 55% of dementia cases
+
+**Retirement and cognitive decline** (Takeuchi et al. 2024, JAGES, n=48,221, PMID: 39802220):
+- Continued employment vs. retirement: **OR 0.45** for dementia — though reverse causation (early decline → early retirement) cannot be excluded
+
+**Bilingualism** (Li & Coretta 2026, Bayesian meta-analysis, PMID: 41006960):
+- Bilinguals: **3.45 years later** symptom onset (95% CrI: 2.8-4.1). Replicated. But doesn't prevent incidence — delays onset only.
+
+**Social isolation's cognitive harm is direct, not emotional** (Hale et al. 2026, causal inference study, n=30,421, PMID: 41399016):
+- Only 6% of isolation's cognitive effect operates through loneliness — the rest is structural/direct
+
+**Recommendation**: Stay cognitively engaged — work, volunteer, learn languages, solve problems. The evidence doesn't favor any specific brain training product over genuine engagement with complex activities. Continued productive activity (paid or volunteer) after traditional retirement age shows the strongest associations.
 
 ### 9. Stress Management
 

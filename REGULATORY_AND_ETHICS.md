@@ -249,19 +249,49 @@ The NIA ITP uses cohorts of 150-400 mice per sex per site, across three simultan
 
 ---
 
-## The Structural Thesis
+## The Longevity Dividend: What's at Stake Economically
 
-The evidence landscape in aging research is not shaped primarily by the science. It's shaped by the regulatory and economic structure:
+Goldman et al. 2013 (*Health Affairs*, PMID: 24101058) used the Future Elderly Model to estimate:
+- Delayed aging scenario: +2.2 years of life expectancy, mostly in good health
+- **Estimated economic value: $7.1 trillion over 50 years** (2010-2060)
+- Addressing cancer alone yields only +0.5 years. Heart disease alone: +0.5 years. **Delayed aging beats both combined** because aging is the common cause of all age-related disease.
+
+The top 5% of Medicare beneficiaries consume ~50% of expenditures — overwhelmingly multi-morbid elderly (Nikolich-Žugich et al. 2016, PMID: 26419976). Healthspan extension *compresses* expensive end-of-life morbidity. Lifespan extension without healthspan extension amplifies it.
+
+**Pension concern is solvable**: Goldman's model shows near-zero net fiscal impact if retirement age is indexed to healthy life expectancy. The 3-stage life model (education → work → retirement at 65) was designed for 61-year average lifespans in 1935.
+
+---
+
+## The Structural Thesis — Now With Receipts
+
+The evidence landscape in aging research is not shaped primarily by the science. It's shaped by the regulatory and economic structure. **This is not speculation — it's stated explicitly in published literature, including FDA's own words.**
 
 1. **FDA won't approve "aging"** → pharma won't fund trials → only generic/supplement companies pursue it → trials are small and underfunded → endpoints are missed → we conclude "it doesn't work in humans"
+   - Newman & Barzilai 2016 (*J Gerontol A*, PMID: 27535968): foundational paper naming regulatory barriers
+   - **von Haehling et al. 2025 (*J Cachexia Sarcopenia Muscle*, PMID: 40485364): At a Dec 2024 FDA workshop, FDA stated sarcopenia safety standards would match diabetes trials, making programs "so large that from an economic standpoint only therapies that significantly impact on morbidity/mortality outcomes have a chance to be considered commercially feasible."** This is FDA explicitly confirming the barrier.
 
-2. **DSHEA lets supplements sell without proof** → supplement companies have no incentive to run rigorous trials → NMN/fisetin/resveratrol evidence remains weak → the market fills with unproven products because the business model doesn't require evidence
+2. **DSHEA lets supplements sell without proof** → no incentive for rigorous trials → NMN/fisetin/resveratrol evidence stays weak → market fills with unproven products
+   - Fisetin is only now getting a rigorous RCT — by being framed as a cancer survivorship drug (Ji et al. 2026, *Ther Adv Med Oncol*, PMID: 41835341). The disease-wedge was the only way.
 
-3. **Generic drugs have no patent incentive** → rapamycin and metformin (strongest preclinical candidates) can't attract pharma investment → TAME has been stuck for a decade → PEARL was funded by a tiny company with major COI
+3. **Generic drugs have no patent incentive** → TAME stuck for a decade → PEARL funded by tiny startup with COI
+   - de Grey 2019 (*Rejuvenation Res*, PMID: 31595812): "$75M from philanthropy, not pharma" — an explicit editorial on the market failure
+   - resTORbio tried to solve this by creating a patentable mTOR inhibitor (RTB101). Phase 3 failed. Company collapsed. (Mannick et al. 2021, *Lancet Healthy Longev*, PMID: 33977284)
+   - Kulkarni & Barzilai 2022 (*Aging Cell*, PMID: 35343051): Proposes a formal pipeline for generic drug repurposing, acknowledging the usual pharma mechanism doesn't apply.
 
-4. **The disease-specific wedge strategy fragments the evidence** → senolytics are tested for osteoarthritis, rapamycin for Alzheimer's, metformin for "multimorbidity" → no trial tests "aging" directly → each disease-specific trial is small → none accumulate into a coherent aging evidence base
+4. **The disease-specific wedge fragments the evidence** → no trial tests "aging" directly → each disease-specific trial is small
+   - Kritchevsky et al. 2025 (preprint, PMID: 39989956): 28-expert Delphi process — **no consensus exists on a unified "aging" trial endpoint**
+   - Bhasin et al. 2023 (*J Gerontol A*, PMID: 37325959): FDA-participatory meeting explicitly stating "lack of regulatory guidance has impeded development of function-promoting therapies"
+   - Schönstein 2024 (*Gerontologist*, PMID: 38813871): No FDA-compliant "successful aging" endpoint exists
 
-5. **Japan's permissive system shows the speed/evidence tradeoff** → faster approval, but HeartSheet approved on 7 patients and later withdrawn → 333x AE underreporting → innovation without evidence is not progress
+5. **Japan's permissive system shows the speed/evidence tradeoff** — HeartSheet approved on 7 patients and later withdrawn
+   - Hakariya et al. 2025 (*Clin Pharmacol Ther*, PMID: 39807768): Independent academic analysis framing HeartSheet as a cautionary tale
+
+6. **Regulatory arbitrage fills the gap** — patients go offshore, get harmed
+   - Bauer et al. 2018 (PMID: 30063299): 35 adverse events including 8+ deaths across 14 countries
+   - Liz Parrish/BioViva traveled to Colombia for AAV-telomerase gene therapy to avoid FDA — no safety data published since
+   - 300 US businesses still market unapproved perinatal stem cell products (Turner et al. 2024, PMID: 38340106)
+
+**The capstone paper**: Kroemer, Ferrucci, Sierra et al. 2025 (*Cell*, PMID: 40250404) — 12 leading geroscientists including NIA's Ferrucci and Hevolution's Sierra explicitly state that gerotherapeutics will only advance "pending results from randomized clinical trials and regulatory approval" — treating **regulatory approval as the rate-limiting step**. The science is ready. The system is not.
 
 **The uncomfortable conclusion:** We may already have interventions that slow human aging. We can't prove it because the system isn't designed to test the question.
 

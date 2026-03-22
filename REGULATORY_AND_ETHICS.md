@@ -28,9 +28,38 @@ The TAME trial (Targeting Aging with Metformin) is as much a regulatory play as 
 
 Citations: Barzilai et al. 2016 *Cell Metab* (PMID: 27304507); Justice et al. 2016 *J Gerontol A* (PMID: 27535966); Justice et al. 2018 *Geroscience* (PMID: 30151729)
 
-### WHO ICD-11 and the Classification Battle
+### WHO ICD-11: The Compromise
 
-The WHO considered adding an aging-related code (MG2A) to ICD-11. This was controversial — classifying aging as a condition (even partially) would open the door to insurance coverage, drug approval pathways, and research funding. The outcome of this debate shapes whether aging research can access mainstream medical infrastructure.
+WHO did add aging-related codes to ICD-11 — but as a compromise, not a full disease classification:
+
+- **MG2A**: Originally "Old age," renamed in 2022 to "Ageing-associated decline in intrinsic capacity." A primary code under "General Symptoms."
+- **XT9T**: An extension code ("Ageing-related") allowing aging to be tagged as a causal/risk factor. Cannot stand alone — must modify a primary diagnosis.
+
+The key paper driving this: Khaltourina et al. 2020 (*Mechanisms of Ageing and Development*, PMID: 32251691) applied WHO's own disease criteria to biological aging and showed it meets all of them. Brazil's geriatrics community opposed the change with the #VelhiceNãoÉDoença ("Old Age is Not a Disease") campaign, arguing it would reinforce ageism.
+
+**What XT9T enables**: Epidemiological tracking, insurance coding of aging-related conditions, and a foothold for drug development. **What it doesn't do**: Classify aging as a primary disease. The FDA is not bound by ICD-11 codes for its approval framework.
+
+### The Patent Problem: Why the Best Drugs Can't Get Trials
+
+The most evidence-based longevity drug candidates (rapamycin, metformin, acarbose) are all **off-patent generics**. This creates a structural market failure:
+
+- **No patent = no pharma incentive** — a company cannot recoup $100M+ in trial costs for a drug anyone can manufacture
+- **TAME has been stuck for a decade** because no pharma company will fund a metformin aging trial. It relies on NIA, Hevolution Foundation, and philanthropic donors.
+- **PEARL was funded by AgelessRx** — a tiny longevity medicine company where all authors are employees/shareholders
+- **Alternative funding models**: NIA grants, Hevolution Foundation (Saudi PIF-backed), Cures Within Reach (nonprofit generic repurposing), philanthropic foundations. All undersized relative to need.
+
+**The perverse result**: The safest, cheapest, most evidence-based drugs (generics) lack commercial incentive for new indication trials, while the least regulated, least tested compounds (supplements) face zero barriers to market entry.
+
+### EU: Stricter on Supplements, Similar Gaps on Aging
+
+The EU's ATMP (Advanced Therapy Medicinal Products) framework differs from FDA:
+- **Slower**: EMA requires larger clinical datasets; 18-24+ month review vs. FDA's expedited RMAT pathway
+- **GMO requirement**: All in vivo gene therapies require GMO approval in EU — an additional barrier
+- **Hospital exemption** (Article 28): Theoretically allows patient-specific ATMPs without marketing authorization, but no explicit guidance for aging therapies
+- **24+ ATMPs approved** in EU since 2009 — **zero with aging/longevity indication**
+- **EMA does not recognize aging as a valid indication**, same as FDA
+
+**Key difference on supplements**: EU's EFSA requires pre-market authorization for health claims with a >95% rejection rate. "Healthy aging," "anti-aging," and "promotes longevity" claims are **prohibited** in the EU. NMN and quercetin failed EFSA authorization but are freely marketed in the US. This creates a 5-10x larger longevity supplement market in the US — DSHEA is an American phenomenon.
 
 ### No Aging Biomarker Has Been FDA-Qualified
 
@@ -184,27 +213,39 @@ The 2018 federal Right to Try Act requires a **terminal diagnosis**. Aging does 
 
 ### Treatment vs. Enhancement
 
-If aging is treated medically, where is the line between treatment and enhancement?
+If aging is treated medically, where is the line?
 - Treating Alzheimer's = treatment. Preventing cognitive decline in a healthy 40-year-old = enhancement?
-- This distinction matters because insurance, regulation, and public funding all depend on the "disease" framing
-- The philosophical debate remains unresolved (De Winter 2015, PMID: 25240472)
+- **Masny 2023 (*Bioethics*, PMID: 36525613)**: Justice *requires* unconditional access to anti-aging as a "complete life" entitlement — collapsing the distinction entirely
+- **Schweda & Marckmann 2013 (*Bioethics*, PMID: 22500556)**: The line should be drawn by democratic deliberation, not appeals to "naturalness"
+- **McKiddy 2025 (*AMA J Ethics*, PMID: 41411401)**: Whether to prescribe gerotherapeutics depends on whether the intervention serves or exacerbates health inequalities
+
+The regulatory system doesn't resolve this — it avoids it. FDA's refusal to classify aging as a disease is, in effect, a policy decision that aging is not a medical problem.
 
 ### Equity and Access
 
-If anti-aging interventions work:
-- **Who gets them?** Currently: wealthy self-experimenters (Bryan Johnson spends $2M/year), off-label patients paying out of pocket, medical tourists
-- **What about everyone else?** No insurance coverage, no FDA approval, no public health infrastructure
-- The longevity field risks becoming a luxury good — extending healthspan for the rich while the poor age normally
+- **Who gets anti-aging now?** Wealthy self-experimenters (Bryan Johnson: $2M/year), off-label patients paying out of pocket, medical tourists
+- **Farrelly 2022 (*HEC Forum*, PMID: 36348214)**: The "aging status quo" is already deeply unjust — wealthy people already live a decade longer. Framing anti-aging as an equity *threat* misses that the current system is the equity *emergency*.
+- **Counter-concern**: No insurance coverage, no FDA approval, no public health infrastructure → longevity risks becoming a luxury good
+- **Framing matters** (Aparicio 2024, PMID: 39585500): Public support for "staying healthy longer" is much higher than for "living longer." The healthspan frame resonates; the immortality frame repels.
 
-### The "Duty to Age" Argument
+### The "Duty to Age" vs. "Duty to Prevent Suffering"
 
-Conservative bioethicists (Leon Kass, Francis Fukuyama) have argued that aging and death are essential parts of the human experience — that removing them would diminish life's meaning, disrupt social structures, and create unsustainable population pressures.
+**Bioconservative position** (Kass 2002, Fukuyama 2002, Sandel 2007):
+- Mortality gives life urgency and meaning
+- Human nature (including aging) grounds dignity and equal rights
+- Engineering longevity is a failure to accept human limitation
 
-Counter-argument (transhumanists, geroscientists): aging causes the majority of human suffering and death. We don't argue for preserving cancer or heart disease as "part of life." Aging is no different — it's a biological process that causes harm and can be intervened upon.
+**Geroscience response** (all PubMed-indexed):
+- **Han & de Magalhães 2026 (*Ageing Res Rev*, PMID: 41654143)**: "The burden now falls on defenders of forced ageing to explain why preventable suffering should continue." Naturalistic fallacy (natural ≠ good). Note: de Magalhães has industry COI.
+- **Wareham 2015 (*Theor Med Bioeth*, PMID: 26246312)**: Overpopulation from slowed aging is "highly unlikely" — comparable to 20th-century lifespan gains which didn't produce catastrophe
+- **Cutas 2008 (*J Med Ethics*, PMID: 18757626)**: No argument about what death contributes to existence can justify preventing people from seeking to live longer
+- **Wareham 2020 (PMID: 32152896)**: The "loneliness problem" — outliving your social network creates profound isolation. A practical concern, not a metaphysical one.
 
-### Animal Research Ethics
+### Animal Research Ethics — An Unexamined Gap
 
-The NIA Interventions Testing Program — the gold standard for mouse longevity evidence — tests compounds across three sites using genetically heterogeneous mice. Each compound tested requires hundreds of mice to live and die over their natural lifespan. The ethical justification depends on the potential to prevent human suffering, but the scale of animal use is substantial and ongoing.
+The NIA ITP uses cohorts of 150-400 mice per sex per site, across three simultaneous sites, running full lifespan studies. Each compound test requires hundreds of mice living and dying over 2-3 years. The scale is substantial.
+
+**No dedicated bioethics papers on ITP-scale longevity animal research exist in PubMed.** Oversight is entirely IACUC-procedural, not philosophically analyzed. Given the high translation failure rate (resveratrol, GDF11, and many others failed to translate to humans), the utilitarian calculus of animal use is difficult to justify prospectively. This is a genuine ethics gap the field has not confronted.
 
 ---
 

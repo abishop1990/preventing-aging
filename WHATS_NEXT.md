@@ -10,7 +10,63 @@ This document asks: **what could break us out of that?**
 
 ## 1. Trials That Could Change Everything
 
-*Awaiting Sonnet agent — paradigm-shifting trials 2026-2030*
+These are the active trials most likely to shift the field from "common sense is all we have" to "we have a drug that works." Ordered by expected impact × probability.
+
+### GLP-1 Agonists in Neurodegeneration — The Surprise Front-Runner
+
+**Why this could be first:** Semaglutide/liraglutide are already FDA-approved, in millions of patients, with mass infrastructure. They just need to show aging-specific benefit.
+
+- **EVOKE trial** (liraglutide in Alzheimer's) and **ELAD trial** (semaglutide in AD) — results expected **2025-2027**
+- Epidemiological signal: T2D patients on GLP-1RAs show substantially reduced all-cause dementia risk
+- SELECT trial: cardiovascular mortality reduction in non-diabetic obese (already proven)
+- Sabbagh et al. 2026 (*Nature Aging*, PMID: 41419667): comprehensive review calling GLP-1RAs an emerging geroscience modality
+- If cognitive slowing confirmed in RCT → **first broadly accessible geroscience drug, available at every pharmacy today**
+
+### TAME Trial — The Regulatory Paradigm Shift
+
+Still enrolling: 3,000 participants, ages 65-79, 14 US sites, composite aging endpoint. First results **~2028-2029**.
+
+TAME's primary value is regulatory, not scientific. A positive result would establish "aging" as an FDA-approvable indication, opening the floodgates for every other geroscience trial. Even if metformin's effect is modest, the regulatory precedent would be transformative.
+
+TAME biomarker infrastructure (23-protein panel) is already being deployed cross-study (Delhaes et al. 2026, PMID: 41655127).
+
+### Dog Aging Project TRIAD — First Mammalian Lifespan Trial Outside a Lab
+
+Design published Feb 2025 (PMID: 39951177). **~470 dogs, rapamycin vs. placebo, lifespan as primary endpoint.** Fully enrolled and running.
+
+Dogs share human living environments and diseases. If rapamycin extends dog lifespan, it provides the strongest preclinical evidence ever assembled to push human trials. First mortality data could emerge **2027**; definitive results **2028-2030**.
+
+### IL-11 Inhibitors — Waiting for Fibrosis Data
+
+No human aging trials yet. Eleven Therapeutics (Cook group spinout) and GSK are in **Phase 1 for fibrosis** (IPF, cardiac). The 2024 *Nature* mouse data (22-25% lifespan extension) is extraordinary, but human aging trials are **2-4 years away**. Fibrosis results serve as proof-of-concept for the aging hypothesis.
+
+### Senolytics — CNS Penetration Confirmed, Phase 3 Bottleneck
+
+D+Q Phase 1 Alzheimer's (n=5, PMID: 40274471): **dasatinib confirmed to reach the brain** in humans. Inflammatory gene downregulation observed. Phase 2 with cognitive endpoints in design — results **2027-2028**.
+
+**But no senolytic has entered Phase 3** — bottlenecked on senescent cell biomarker validation. Mayo Clinic found current p16 primer designs cross-detect isoforms, potentially invalidating trial results (Farr et al. 2025, PMID: 39823170). First Phase 3 realistically **2027-2028** pending biomarker standardization.
+
+### Epigenetic Reprogramming — Still Pre-Human
+
+Life Biosciences (Sinclair spinout): working toward FDA IND for ocular indication. **No Phase 1 results published** as of March 2026. Altos Labs: publishing foundational science, no trials announced. First human data **2027-2029** for eye disease; systemic aging indication **2030+**.
+
+### Combination Geroscience Trials — The Industry is Organizing
+
+**ICFSR Task Force 2025** (PMID: 41863810) — with Pfizer, Hevolution Foundation, Calico, and Rejuvenate Biomed at the table — identified combination multi-hallmark therapy as the highest-priority unmet need. They're building a minimum common dataset standard for all geroscience trials. Combination trials expected to **launch 2026-2028**.
+
+ITP already showed rapamycin + acarbose is superadditive in male mice (PMID: 36179270). No human combination aging trial exists yet. This is the biggest gap.
+
+### Timeline Summary
+
+| Trial | Expected Results | If Positive, Changes... |
+|---|---|---|
+| **GLP-1 in AD (EVOKE/ELAD)** | 2025-2027 | First pharmacy-available geroscience drug |
+| **TRIAD (rapamycin in dogs)** | 2027-2030 | Strongest-ever preclinical push for human rapalog trials |
+| **TAME (metformin)** | 2028-2029 | FDA accepts aging as treatable indication |
+| **D+Q Phase 2 Alzheimer's** | 2027-2028 | First cognitive benefit from senolytic |
+| **IL-11 inhibitor (fibrosis)** | 2027-2028 | Proof-of-concept for most exciting preclinical target |
+| **Combination trials** | 2028+ | Multi-hallmark approach tested in humans |
+| **Epigenetic reprogramming** | 2027-2029 (eye) | Most transformative if it works |
 
 ---
 
@@ -76,9 +132,22 @@ If the regulatory system prevents proper testing, can new trial models go around
 
 ---
 
-## 5. Regulatory Reform
+## 5. Regulatory Reform — What Would Unlock the Field
 
-*Awaiting Sonnet agent — concrete reform proposals*
+The single most impactful change would be **FDA biomarker qualification for DunedinPACE or GrimAge2** as a surrogate endpoint. This would allow shorter, cheaper trials using biological age as the outcome instead of waiting for disease/death — cutting trial costs by 10-100x and timelines from decades to years.
+
+**What's happening:**
+- **Hevolution Foundation** ($1B+ annually): largest new funder targeting the generic drug trial gap
+- **ICFSR Task Force** (PMID: 41863810): Pfizer, Calico, Hevolution building minimum common dataset for geroscience trials
+- **Adaptive platform trials** (like RECOVERY for COVID): test multiple aging drugs in one infrastructure — proposed but not yet launched for aging
+- **TAME as regulatory wedge**: if positive, establishes aging as an FDA-approvable composite indication
+- **No Congressional legislation** specifically targeting aging research reform has been identified in published literature
+
+**What would change everything:**
+1. FDA accepts DunedinPACE as surrogate endpoint → trials go from 10 years/3000 people to 2 years/200 people
+2. A RECOVERY-style platform trial for aging → test rapamycin, senolytics, lamivudine, AKG, spermidine simultaneously
+3. NIH/NIA budget increase specifically earmarked for generic drug aging trials
+4. Patent reform or incentive structure for generic drug repurposing (e.g., extended exclusivity for new indications)
 
 ---
 

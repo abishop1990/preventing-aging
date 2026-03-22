@@ -12,15 +12,81 @@ Recommendations are ordered by evidence strength. Each includes specific doses, 
 
 ### 1. Cardiorespiratory Fitness (VO2 Max)
 
-*Awaiting agent data — exercise dose-response with HRs*
+**VO2 max is the single strongest predictor of longevity in the entire medical literature.** Nothing else — no drug, no supplement, no diet — comes close to these effect sizes.
+
+**The Cleveland Clinic study** (Mandsager et al. 2018, n=122,007, 8.4-year follow-up, PMID: 30646252):
+- Elite fitness (top 2.3%) vs. Low fitness (bottom 25%): **HR 0.20** — an **80% lower risk of death**
+- Low fitness mortality penalty (HR 5.04) **exceeded smoking (HR 1.41), diabetes (HR 1.40), and coronary artery disease (HR 1.29)**
+- **No ceiling effect observed.** Mortality decreased monotonically through the elite tier. Being extremely fit is never harmful by this data.
+
+**Meta-analysis of meta-analyses** (Lang et al. 2024, 26 reviews, >20.9M observations, PMID: 38599681):
+- High vs. low CRF: **HR 0.47** (95% CI 0.39-0.56) — 53% lower all-cause mortality
+- Per 1-MET increase: **HR 0.83-0.89** — each MET gained reduces mortality 11-17%
+
+**Minimum effective dose** (Wen et al. 2011, 416,175 people, PMID: 21846575):
+- As little as **15 min/day** of moderate exercise reduced mortality by **14%** and added **3 years of life expectancy**
+- Each additional 15 min/day further reduced mortality by 4%
+
+**Vigorous bouts matter** (Stamatakis et al. 2022, *Nature Medicine*, PMID: 36482104):
+- Even **4.4 min/day** of vigorous incidental activity (stairs, brisk walking) in non-exercisers: **26-30% lower all-cause mortality, 32-34% lower CVD mortality**
+
+**Zone 2 vs. HIIT**: No head-to-head mortality RCT exists. Both reduce mortality. HIIT improves VO2 max faster per minute invested. Zone 2 has the deepest long-term epidemiological data. Best approach: do both.
+
+**Recommendation**: This is the #1 priority. Build VO2 max with 3-4 sessions/week combining:
+- Zone 2 cardio (conversation-pace sustained effort): 150+ min/week
+- VO2 max intervals (near-max effort, 4x4 min or similar): 1-2x/week
+- Even 15 min/day is meaningful if you're currently sedentary. Any increase in fitness reduces mortality with no upper limit.
 
 ### 2. Resistance Training
 
-*Awaiting agent data — dose-response, muscle mass as mortality predictor*
+Resistance training is additive to cardio — the combination produces the largest mortality reduction of any exercise pattern.
+
+**Any resistance training vs. none** (Shailendra et al. 2022, PMID: 35599175):
+- All-cause mortality: **RR 0.85** (15% reduction)
+- Cancer mortality: **RR 0.86** (14% reduction)
+- **Optimal dose: ~60 min/week → RR 0.74** (27% reduction). J-shaped curve — benefits plateau then may reverse above ~90 min/week.
+
+**Resistance + aerobic vs. neither** (Saeidifard et al. 2019, Mayo Clinic, PMID: 31104484):
+- **HR 0.60** — a **40% lower all-cause mortality**. This is the combination effect.
+
+**Grip strength predicts mortality** (García-Hermoso et al. 2018, 1.9M participants, PMID: 29425700):
+- Higher vs. lower grip strength: **HR 0.69** (31% lower mortality)
+- Per 5-kg decrease in grip: **HR 1.16** (Wu et al. 2017, 3M participants, PMID: 28549705)
+
+**Recommendation**: 2-3 sessions/week, ~20-30 min each (~40-60 min/week total). Focus on compound movements (squat, deadlift, press, row, pull-up patterns). The goal is preserving muscle mass and strength — grip strength alone is one of the strongest mortality predictors in the literature.
 
 ### 3. Sleep
 
-*Awaiting agent data — optimal duration, glymphatic mechanism verification*
+Sleep is not passive recovery — it's an active biological maintenance process. The glymphatic system clears metabolic waste (amyloid-beta, tau) during NREM sleep, and sleep disorders are among the strongest accelerators of biological aging.
+
+**Duration and mortality** (Ungvari et al. 2025, 79 cohort studies, PMID: 40072785):
+- Short sleep (<7h): **HR 1.14** (+14% all-cause mortality)
+- Long sleep (≥9h): **HR 1.34** (+34% mortality, though partly reverse causation)
+- **Optimal: 7-8 hours/night**
+
+**Sleep regularity is independently lethal** (Kalkanis et al. 2025, 59 studies, PMID: 41259946):
+- Irregular sleepers: **20-88% higher all-cause mortality**, independent of duration and quality
+- Also: 26-53% higher dementia risk
+
+**Sleep affects biological aging by epigenetic clocks** (Diao et al. 2025, n=3,566, PMID: 40442824):
+- Better sleep score → lower GrimAgeAccel and PhenoAgeAccel
+- **DunedinPACE mediated 6.2% of the sleep → lower mortality association** — first study linking sleep to mortality partially via pace-of-aging
+- Mendelian randomization confirms: **insomnia causally accelerates GrimAge** (Zhao et al. 2025, PMID: 40032851)
+
+**Sleep apnea is the biggest sleep-aging accelerator** — intermittent hypoxia creates repeated ischemia-reperfusion injury:
+- Telomere shortening: **SMD -0.451** (meta-analysis of 49 studies, Chang et al. 2026, PMID: 41655394)
+- Most consistent predictor of GrimAge and DunedinPACE acceleration across all sleep disorders (Autio et al. 2025, PMID: 40176161)
+- Glymphatic impairment directly imaged in untreated OSA patients (Keil et al. 2026, PMID: 41713702)
+
+**Glymphatic system**: Partially validated in humans via new MRI techniques (Hirschler et al. 2025, *Nature Neuroscience*, PMID: 41087750). Clears amyloid-beta, tau, and metabolic waste during NREM sleep. Full causal human data is ~3-5 years away.
+
+**What to do** (ranked by evidence):
+1. **Get screened for sleep apnea** if you snore or wake unrefreshed — CPAP has the largest biological aging effect size of any sleep intervention
+2. **Keep a consistent wake time** — regularity independently predicts mortality
+3. **CBT-I for chronic insomnia** — RCT evidence that it reverses inflammatory aging markers (IL-6, TNF-α) over 15 months (Irwin et al. 2024, PMID: 38777285). First-line over sleep medications.
+4. **Target 7-8 hours** — avoid chronic short sleeping
+5. **Exercise** — best behavioral enhancer of sleep architecture
+6. **Cool bedroom (65-68°F)** — promotes deep NREM. Mechanistic support; no aging RCT data.
 
 ### 4. Diet
 

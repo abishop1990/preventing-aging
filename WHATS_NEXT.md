@@ -137,17 +137,19 @@ If the regulatory system prevents proper testing, can new trial models go around
 The single most impactful change would be **FDA biomarker qualification for DunedinPACE or GrimAge2** as a surrogate endpoint. This would allow shorter, cheaper trials using biological age as the outcome instead of waiting for disease/death — cutting trial costs by 10-100x and timelines from decades to years.
 
 **What's happening:**
-- **Hevolution Foundation** ($1B+ annually): largest new funder targeting the generic drug trial gap
+- **Hevolution Foundation** ($1B+ annually, Saudi PIF-backed, CEO Mehmood Khan): largest new funder targeting the generic drug trial gap. **Hevolution provided the funding that unblocked TAME enrollment** after years of stagnation — without them, the field's flagship trial would still be waiting. (Khan 2023, *Cold Spring Harb Perspect Med*, PMID: 37037599)
 - **ICFSR Task Force** (PMID: 41863810): Pfizer, Calico, Hevolution building minimum common dataset for geroscience trials
 - **Adaptive platform trials** (like RECOVERY for COVID): test multiple aging drugs in one infrastructure — proposed but not yet launched for aging
 - **TAME as regulatory wedge**: if positive, establishes aging as an FDA-approvable composite indication
 - **No Congressional legislation** specifically targeting aging research reform has been identified in published literature
 
 **What would change everything:**
-1. FDA accepts DunedinPACE as surrogate endpoint → trials go from 10 years/3000 people to 2 years/200 people
-2. A RECOVERY-style platform trial for aging → test rapamycin, senolytics, lamivudine, AKG, spermidine simultaneously
-3. NIH/NIA budget increase specifically earmarked for generic drug aging trials
+1. FDA accepts DunedinPACE as surrogate endpoint → trials go from 10 years/3000 people to 2 years/200 people. **Realistic timeline: submission ~2028-2030, qualification ~2030-2033.** The "Holy Grail" (accelerated drug approval based on clock data) is **2033-2040** in the optimistic scenario.
+2. A RECOVERY-style platform trial for aging → test rapamycin, senolytics, lamivudine, AKG, spermidine simultaneously. **No design paper exists yet.** The Kritchevsky 2025 Delphi (PMID: 39989956, 28 experts) found no full consensus on composite endpoints — a prerequisite for any platform trial.
+3. NIH/NIA budget increase specifically earmarked for generic drug aging trials. **No Congressional legislation specifically targeting aging research reform exists as of March 2026.** NIA budget is under pressure.
 4. Patent reform or incentive structure for generic drug repurposing (e.g., extended exclusivity for new indications)
+
+**The strategic choice the field made**: They deliberately did NOT ask FDA to classify aging as a disease. Instead, TAME uses a composite multimorbidity endpoint as a regulatory wedge — if it works, aging becomes treatable by stealth, without FDA ever formally reclassifying it. (Barzilai et al. 2016, PMID: 27304507)
 
 ---
 

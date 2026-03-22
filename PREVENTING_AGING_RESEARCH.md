@@ -1,5 +1,5 @@
-# THE SCIENCE OF IMMORTALITY: A COMPREHENSIVE RESEARCH REPORT
-## Preventing Aging — The Complete State of Human Knowledge (2025)
+# PREVENTING AGING: A COMPREHENSIVE RESEARCH REPORT
+## The Science of Why We Age and What Can Be Done About It (2025)
 
 > **Research compiled from 20+ parallel deep-research sessions covering all major areas of longevity science.**
 > **Knowledge base: published literature and developments through August 2025.**
@@ -244,7 +244,15 @@ Downstream consequences: impaired sirtuins → mitochondrial dysfunction, epigen
 - **MIB-626 Phase 2**: 2,000 mg/day in older men; NAD+ substantially raised; physical performance trends positive
 - Japanese trials (2022-2024): 300-600 mg/day showed improved sleep, fatigue, eye function in small trials
 
-**Bottom line**: NAD+ elevation is reliably demonstrated; functional health outcomes in humans need larger, longer trials.
+**2024 Meta-Analysis Verdict — TWO independent meta-analyses pour cold water on NMN hype:**
+
+> **Evidence quality: MODERATE for NAD+ elevation, LOW for functional outcomes.**
+
+- **Chen et al. 2024 (*Current Diabetes Reports*)**: Meta-analysis of 8 RCTs (342 adults, 250–2000 mg/d, 14 days to 12 weeks): **"No significant benefit of NMN on fasting glucose, fasting insulin, glycated hemoglobin, HOMA-IR, or lipid profile."**
+- **Zhang et al. 2024 (*Critical Reviews in Food Science and Nutrition*)**: Meta-analysis of 12 RCTs (513 adults): NMN reliably elevates blood NAD+, but **"most of the clinically relevant outcomes were not significantly different between NMN supplementation and control group."** Explicitly warns: **"an exaggeration of the benefits of NMN supplementation may exist in the field."** 5 of 12 included studies had high risk of bias.
+- The single positive RCT (Yoshino 2021, *Science*) showing muscle insulin signaling improvement was small (n=25) and in a specific population (postmenopausal prediabetic women); this result has not been replicated at scale.
+
+**Bottom line**: NAD+ elevation is reliably demonstrated. But as of 2024, **no meta-analysis of human RCTs supports functional health benefits from NMN supplementation.** The supplement industry has far outpaced the evidence. NAD+ biology is real; the consumer products exploiting it are unproven.
 
 ### The Sirtuin Proteins
 
@@ -255,6 +263,15 @@ NAD+-dependent deacylases with major roles in aging:
 | SIRT1 | Nucleus/cytoplasm | PGC-1α, FOXO, NF-κB, histones | Master metabolic/epigenetic regulator |
 | SIRT3 | Mitochondria | SOD2, Complex I, IDH2 | Primary mitochondrial deacetylase; declines with age |
 | SIRT6 | Nucleus | H3K9ac, H3K56ac, telomere maintenance | **Most important longevity sirtuin** — overexpression extends male mouse lifespan ~15% |
+
+**The Resveratrol Question — Contested**
+
+> **Evidence quality: LOW for direct sirtuin activation in humans.**
+
+Resveratrol was Sinclair's original "sirtuin activator" (2003 *Nature*). However:
+- **Pfizer researchers (2010–2013)** demonstrated that the original SIRT1 activation assay used a fluorophore-labeled substrate (Fluor de Lys) that created an artifact — resveratrol activated SIRT1 only when this non-physiological substrate was present, not with native substrates
+- Sinclair's group countered (2013 *Science*) that SIRT1 can be directly activated through an allosteric mechanism involving specific hydrophobic motifs in native substrates — but this requires specific substrate sequences
+- **Net assessment**: Resveratrol has real biological effects (anti-inflammatory, AMPK activation, possible indirect sirtuin modulation via AMPK→NAD+ pathway) but the claim that it is a potent direct SIRT1 activator like the original 2003 paper suggested is not supported by the weight of evidence. Its poor bioavailability (~1% oral) further limits human relevance at supplement doses. The more potent synthetic STAC SRT2104 (Sirtris/GSK) failed clinical trials and the program was abandoned.
 
 ### Rapamycin/mTOR — The Most Validated Pharmacological Longevity Drug
 
@@ -678,12 +695,17 @@ The most transformative approach: using transient Yamanaka factor expression (OS
 | **GPLD1** | Liver (exercise-induced) | *Science* 2020: Liver-brain axis; injection into old sedentary mice improved neurogenesis and cognition — "exercise pill" candidate |
 | **Oxytocin** | Declines with age | Supplementation partially restores muscle repair |
 
-### The GDF11 Controversy
+### The GDF11 Controversy — LARGELY DEBUNKED
+
+> **Evidence quality: LOW. The original rejuvenation claims have not been replicated and are contradicted by multiple independent studies.**
 
 - Initially (Wagers lab, 2013-14): GDF11 declines with age and is a rejuvenating factor
 - Challenge (Glass lab/Novartis, 2015-16): More specific assays showed GDF11 does NOT decline with age; prior assays confused GDF11 with myostatin (GDF8); GDF11 was actually catabolic in older mice
-- **Current status**: Highly context-dependent; most researchers treat with caution
-- **Elevian** (Harvard Wagers/Rubin spinout) continues pursuing GDF11 therapeutics, believing in the pathway for specific disease contexts (stroke recovery)
+- **2023 Kraler et al. (*Cardiovascular Research*)**: Circulating GDF11 actually **exacerbated myocardial injury** in mice and was **associated with increased infarct size in humans** — directly challenging the "heart rejuvenation" narrative
+- **2024 Strosahl et al. (*BMC Genomics*)**: GWAS analysis describes the topic as "increasingly controversial" and states "the field has reached an impasse" on GDF11's anti-aging effects
+- **2024 Kizer et al. (*J Gerontol A*)**: Prospective human cohort found no protective association between circulating GDF11 and heart failure risk
+- **Current consensus**: GDF11 as a systemic rejuvenation factor is not supported by the weight of evidence. The original parabiosis benefits were likely driven by other factors (plasma dilution, PF4, TIMP2) rather than GDF11 specifically
+- **Elevian** (Harvard Wagers/Rubin spinout) continues pursuing GDF11 therapeutics for narrow disease contexts (stroke recovery) but the broad anti-aging claims should be considered discredited
 
 ### Irina Conboy's Plasma Dilution Insight
 

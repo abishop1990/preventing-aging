@@ -185,10 +185,17 @@ Regulated by: **NF-κB** (master inflammation switch), mTORC1, and the **cGAS-ST
 - Derivatives being developed to spare platelets (PROTAC degraders, antibody-drug conjugates)
 
 **Fisetin** (strawberries, apples)
-- Most potent senolytic flavonoid in screening studies
-- 2018 mouse study: ~10% median/maximum lifespan extension
-- Poor bioavailability; nanoformulations under study
-- Human trials: FIESTA trial (Mayo, Alzheimer's/frailty)
+
+> **Evidence quality: LOW. Lifespan claim unreplicated. Never tested by NIA ITP. No human efficacy data.**
+
+- Most potent senolytic flavonoid in cell culture screening
+- 2018 Yousefzadeh et al. (*EBioMedicine*): lifespan extension in C57BL/6 mice — **single study, NOT independently replicated, flagged by "900-day rule" critique** (Pabis et al. 2024) for short-lived controls
+- **Not tested by NIA ITP** — the gold standard for mouse lifespan replication (multi-site, heterogeneous mice). This is a critical gap.
+- 2025: Intermittent fisetin improved frailty/grip strength in old mice (Murray et al., *Aging Cell*) — healthspan signal but not lifespan replication
+- 2025: Fisetin **failed** to improve outcomes in aged mice with influenza — actually suppressed immune infiltration (Luna et al., *Aging Cell*)
+- Poor bioavailability (~1% oral); nanoformulations under study
+- **FIESTA trial (Mayo)**: No published results as of March 2026
+- **Only human study** (Lee & Burns 2024, n=10): 5 of 10 subjects showed *increased* biological age. Authors concluded "not recommended until more extensive studies are done"
 
 **CAR-T Senolytics (Amor et al., *Nature* 2020)**
 - uPAR (urokinase plasminogen activator receptor) identified as surface marker on senescent cells
@@ -204,19 +211,23 @@ Regulated by: **NF-κB** (master inflammation switch), mTORC1, and the **cGAS-ST
 | Cell burden | Reduces | Does not reduce |
 | Duration | Episodic treatment possible | Requires ongoing dosing |
 
-### Clinical Trial Landscape
+### Clinical Trial Landscape — Updated March 2026
 
-| Trial | Drug | Condition | Status |
+> **Evidence quality: MODERATE for safety; LOW for efficacy. No primary endpoint met in any adequately powered D+Q human trial. Critical new CNS safety concern.**
+
+| Trial | Drug | Condition | Status (updated) |
 |-------|------|-----------|--------|
-| IPF pilot | D+Q | Pulmonary fibrosis | Positive (2019) |
-| Diabetic kidney | D+Q | Nephropathy | Positive biomarkers (2021) |
+| IPF pilot | D+Q | Pulmonary fibrosis | Open-label positive (2019, n=14); **RCT follow-up (2023, n=12): tolerable but underpowered, no efficacy signal** |
+| Diabetic kidney | D+Q | Nephropathy | Positive biomarkers (2019, n=9); **no larger human RCT followed — moved back to preclinical** |
 | UNITY Phase 2 | UBX0101 | Knee osteoarthritis | **Failed primary endpoint** (2021) |
-| UBX1325 Phase 1/2 | BCL-XL inhibitor | Diabetic macular edema | Positive VA signals (2022-23) |
-| AFFIRM-ABLE | D+Q | Alzheimer's disease | Ongoing |
-| FIESTA | Fisetin | Alzheimer's/frailty | Ongoing |
-| SToMP-AD | D+Q | Alzheimer's | Ongoing |
+| Bone metabolism | D+Q | Osteoporosis | **Largest D+Q RCT (Farr et al. 2024, *Nat Med*, n=60)**: missed primary endpoint. Benefit only in women with high baseline senescent cell burden. |
+| AD Phase 1 | D+Q | Alzheimer's | Gonzales et al. 2023 (*Nat Med*, n=5): dasatinib reached CSF; safe. Garbarino et al. 2025: biomarker changes but no validated senolytic outcomes |
+| STAMINA | D+Q | AD risk/frailty | Millar et al. 2025 (n=12): feasible/safe, MoCA hint in subgroup |
+| FIESTA | Fisetin | Alzheimer's/frailty | **No published results as of March 2026** |
 
-**Translational Geroscience Network (TGN)**: 7 academic centers running parallel senolytic trials with standardized protocols, coordinated by Mayo Clinic.
+**Safety flag**: Lombardo et al. March 2026 (*PNAS*): D+Q induces **oligodendrocyte dysfunction and demyelination** in mouse corpus callosum — significant CNS safety concern directly relevant to Alzheimer's applications.
+
+**TGN**: Only one published result (STAMINA, n=12). The network is active but outcomes are almost entirely pending.
 
 ---
 
@@ -284,11 +295,16 @@ Resveratrol was Sinclair's original "sirtuin activator" (2003 *Nature*). However
 
 **Blagosklonny's Hyperfunction Theory**: Aging is caused by quasi-programmed mTOR/growth pathway hyperfunction in post-reproductive life. Rapamycin suppresses this directly.
 
-**Human trials:**
-- Mannick et al. (2014, 2018, *STM*): Everolimus (mTOR inhibitor) restored immune responses in elderly — improved vaccine efficacy
-- PEARL trial: Low-dose intermittent rapamycin in healthy aging adults
-- Dog Aging Project: Rapamycin improved cardiac function in middle-aged dogs (RCT)
-- Widespread off-label use (5-10 mg/week) growing in longevity medicine community
+**Human trials — updated with 2024-2025 results:**
+
+> **Evidence quality: HIGH for mouse lifespan extension; LOW-MODERATE for human aging benefits (no primary endpoint met in any human trial to date).**
+
+- **Mannick et al. (2014, 2018, *STM*)**: Everolimus improved vaccine response in elderly — but **the pivotal Phase 3 trial (2021, *Lancet Healthy Longev*, n=1024) FAILED its primary endpoint**: RTB101 did not reduce clinically symptomatic respiratory illness (26% vs 25%, OR 1.07, p=0.65). resTORbio folded after this failure. The initial immune-boosting findings have **not been replicated**.
+- **PEARL trial (2025, Moel et al., *Aging*)**: 48-week RCT of 5mg or 10mg weekly rapamycin in healthy adults. **Primary endpoint (visceral adiposity) was null** (p=0.942). Safety was acceptable — AEs similar to placebo. Some positive secondary signals in women only (lean mass, pain). Notable COI: all authors are AgelessRx employees/shareholders.
+- **Dog Aging Project (TRIAD)**: Study design paper published Feb 2025 (*Geroscience*). Large-scale RCT in middle-aged companion dogs. **No efficacy or lifespan results yet** — still in progress. The earlier 2017 pilot (24 dogs, 10 weeks) showed cardiac function signals only.
+- **Alzheimer's pilot (Gonzales et al. 2025, *Commun Med*)**: 1 mg/day for 8 weeks in 10 MCI patients — rapamycin was **not detectable in CSF**, no cognitive benefit, systolic BP and HbA1c increased.
+- **ACCP formal caution (2025)**: American College of Clinical Pharmacology issued a position statement noting **no regulatory approval and no rigorous evidence** supports sirolimus for aging prevention.
+- Off-label use (5-10 mg/week) continues growing in longevity medicine despite these null results
 
 ### The TAME Trial — History-Making Clinical Research
 
@@ -389,15 +405,18 @@ Emerging synergistic approach: Clear senescent cells (senolytics) → then telom
 
 ### The CALERIE Trial — Best Human CR Evidence
 
+> **Evidence quality: HIGH. Gold-standard 2-year RCT. DunedinPACE slowing confirmed. Real downsides identified.**
+
 **CALERIE-2**: 218 non-obese adults, 25% CR target vs. ad libitum, 2 years.
 
 **Results:**
 - Achieved ~11.9% CR (not 25% target)
-- Cardiometabolic improvements: ↓BP, ↓LDL, ↓triglycerides, improved insulin sensitivity
+- Cardiometabolic improvements: ↓BP, ↓LDL, ↓triglycerides, improved insulin sensitivity (Kraus et al. 2019, *Lancet Diabetes Endocrinol*)
 - Reduced inflammation: significant ↓CRP and TNF-α
-- **2022 *Nature Aging***: DunedinPACE clock showed ~2-3% **slowing of the pace of aging** — first RCT demonstrating CR slows epigenetic aging in humans
-- Quality of life: surprisingly improved (mood, sexual function)
-- Bone density: modest loss (concern for older individuals)
+- **Waziry et al. 2023 (*Nature Aging*)**: DunedinPACE showed significant **slowing of the pace of aging** — first RCT demonstrating CR slows epigenetic aging in humans. However, **static clocks (PhenoAge, GrimAge) did NOT change** — only the pace metric moved.
+- **Spadaro et al. 2022 (*Science*)**: CR *improved* thymopoiesis and reduced inflammaging — immune rejuvenation, not suppression
+- Quality of life: improved mood, sleep, sexual function (Martin et al. 2016, *JAMA Intern Med*)
+- **Real downsides**: Significant bone density loss at fracture-prone sites (lumbar spine -1.2%, total hip -1.8%, Villareal et al. 2016); ~2.2 kg lean mass loss. No long-term disease/mortality follow-up data exists.
 
 ### Fasting-Mimicking Diet (FMD) — Valter Longo
 
@@ -406,10 +425,10 @@ Emerging synergistic approach: Clear senescent cells (senolytics) → then telom
 **Key clinical results:**
 - **2017 pilot RCT (*STM*)**: 3 FMD cycles → reduced weight, trunk fat, BP, IGF-1, fasting glucose, TG; improved ketones
 - **2024 *Cell Metabolism***: FMD cycles reduced HbA1c in T2D patients comparably to some medications
-- **2024 (Longo group)**: 3 FMD cycles reduced epigenetic age by ~2.5 years, partially reversing upon return to normal eating
+- **Brandhorst & Levine et al. 2024 (*Nature Communications*)**: 3 FMD cycles reduced biological age by ~2.5 years (blood biomarker measure), independent of weight loss. Also reduced insulin resistance and hepatic fat.
 - Active cancer trials showing improved chemotherapy tolerability
 
-**Commercial product**: ProLon (L-Nutra). Conflict of interest concerns noted.
+**Commercial product**: ProLon (L-Nutra). **Major COI**: Longo has equity in L-Nutra and USC receives royalties — transparently disclosed but warrants caution in interpreting Longo lab results.
 
 ### Time-Restricted Eating (TRE)
 
@@ -506,13 +525,17 @@ PGC-1α coactivates NRF1/NRF2 → TFAM → mtDNA replication + OXPHOS subunit ex
 - Developer (Stealth BioTherapeutics) faced financial difficulties; compound remains scientifically important
 
 **Urolithin A (Amazentis/Timeline)**
+
+> **Evidence quality: MODERATE for biomarker effects; LOW for functional outcomes. Primary endpoints repeatedly missed.**
+
 - Gut microbiome metabolite from pomegranates/walnuts; activates PINK1/Parkin mitophagy
-- **ATLAS trial Phase 2b (*Nature Aging* 2022)**: 66 older sedentary adults, 4 months:
-  - Improved muscle endurance
-  - Improved plasma acylcarnitine profiles (mitochondrial function marker)
-  - Significant mitochondrial gene expression improvement in muscle biopsies
-- Phase 3 trials ongoing; 2024 data suggests muscle strength improvements
-- Sold commercially as Mitopure (Timeline brand)
+- **ATLAS trial (Singh et al. 2022, *Cell Rep Med*, n=88)**: Primary endpoint (peak power output) **NOT significant**. Secondary: hamstring strength +12% (p=0.03), acylcarnitine improvements.
+- **Liu et al. 2022 (*JAMA Network Open*, n=66)**: Primary endpoints (6-min walk, maximal ATP production) **NOT significant** vs. placebo. Muscle endurance improved as secondary endpoint.
+- **MitoImmune (Denk et al. 2025, *Nature Aging*, n=50)**: Expanded naive CD8+ T cells, improved immune function after 28 days — genuinely interesting immune-aging finding.
+- **Independent replication**: One small Chinese study (Zhao et al. 2024, n=20) partially replicated strength gains. One fully independent heart failure study (Jamialahmadi et al. 2024, n=10) was **entirely negative**.
+- **No Phase 3 trials registered** — pursuing supplement pathway, not drug approval
+- **COI note**: Most positive data from Amazentis-funded studies where lead authors are company employees
+- Sold commercially as Mitopure (Timeline brand) — marketing outpaces the evidence
 
 **BAM15 (Mitochondrial Uncoupler)**
 - Safer-than-DNP uncoupler with wide therapeutic window
@@ -575,7 +598,15 @@ All major neurodegenerative diseases represent concentrated versions of the same
 
 **Rapamycin**: Most validated — mTOR → autophagy axis. ITP: +9-22% lifespan in mice.
 
-**Spermidine**: Inhibits EP300 histone acetyltransferase → autophagy induction independent of mTOR. Epidemiology: higher dietary intake → reduced all-cause mortality (Austrian cohort, *Cell* 2018). **SmartAge trial (2022, *Cortex*)**: Randomized trial showed significant improvement in memory performance in older adults with subjective cognitive impairment.
+**Spermidine**: Inhibits EP300 histone acetyltransferase → autophagy induction independent of mTOR.
+
+> **Evidence quality: MODERATE for epidemiology; LOW for clinical outcomes (SmartAge primary endpoint FAILED).**
+
+- **Epidemiology (Kiechl et al. 2018, *Am J Clin Nutr*, Bruneck Study)**: HR 0.74 per 1-SD higher intake (20-year follow-up, 829 participants). Equivalent to ~5.7 years of younger age. Replicated in SAPHIR and UK Biobank cohorts.
+- **SmartAge trial (Schwarz et al. 2022, *JAMA Network Open*, n=100, 12 months)**: Primary endpoint (mnemonic discrimination) **NOT significant** (P=0.47). The earlier 3-month pilot trend was not confirmed. Dose was very low (0.9 mg/day).
+- **POLYCAD trial (Denmark, n=187, 24 mg/day, completion 2026)** is the most important ongoing study — tests 27x higher dose than SmartAge.
+- **Hofer et al. 2024 (*Nature Cell Biology*)**: Confirmed spermidine is essential for fasting-mediated autophagy across species including human cells — strong mechanistic support.
+- **COI note**: Frank Madeo (principal investigator) has equity in The Longevity Labs, a spermidine supplement company.
 
 **Urolithin A**: Mitophagy inducer (PINK1/Parkin + AMPK). Phase 2b: improved muscle endurance, mitochondrial gene expression.
 
@@ -623,10 +654,12 @@ Key findings:
 - **CDC42 inhibition (CASIN)**: CDC42 rises in aged HSCs, controlling polarity. CASIN treatment reversed HSC aging, including myeloid skewing in mice
 - **NAD+ restoration**: Improves mitochondrial function in aged HSCs
 
-### TRIIM Trial — First Human Aging Reversal Evidence
+### TRIIM Trial — Contested
+
+> **Evidence quality: LOW. n=9, no placebo control, no blinding, not independently replicated after 6+ years. TRIIM-X results never published.**
 
 **TRIIM (Thymus Regeneration, Immunorestoration, and Insulin Mitigation)**
-Led by Gregory Fahy (Intervene Immune), published 2019 (*Aging Cell*):
+Led by Gregory Fahy (Intervene Immune), published 2019 (*Aging Cell*, PMID: 31496122):
 - 9 healthy males, ages 51-65
 - Intervention: **recombinant human GH + DHEA + metformin**
 - Results:
@@ -634,8 +667,10 @@ Led by Gregory Fahy (Intervene Immune), published 2019 (*Aging Cell*):
   - Increased naive T cell output (immune rejuvenation)
   - **Epigenetic clock analysis (Steve Horvath): average biological age reversal of ~2.5 years**
   - Effect persisted 6 months post-treatment
-- Limitations: n=9, no control group, all male
-- **TRIIM-X**: Follow-up trial with larger sample, both sexes, longer duration — ongoing as of 2024
+- **Critical limitations**: n=9, **no control group**, no blinding, all male. Fahy & Brooke are officers/shareholders of Intervene Immune Inc.
+- **TRIIM-X**: Promised follow-up with ~85 participants — **no peer-reviewed results published as of March 2026** despite 6+ years since original publication. Fahy's recent publications are in cryobiology, not aging.
+- **GH/IGF-1 paradox**: A large body of evidence (Longo, Bartke) shows *reduced* GH/IGF-1 extends lifespan in model organisms, and elevated IGF-1 increases cancer risk. Administering GH to reverse one biomarker while potentially accelerating others is a fundamental concern.
+- **No independent replication**: No other group has tested GH+DHEA+metformin for thymus regeneration in healthy aging adults.
 
 ### Thymic Involution — The Immune Aging Clock
 
@@ -1201,12 +1236,11 @@ Multiple groups using AI to screen existing drugs for aging-related benefits:
 | Trial | Intervention | Status |
 |-------|-------------|--------|
 | TAME | Metformin | Enrolling; results ~2030 |
-| PEARL | Rapamycin | Interim data publishing |
-| TRIIM-X | GH + DHEA + metformin | Ongoing |
-| AFFIRM-ABLE | Senolytics (D+Q) + Alzheimer's | Ongoing |
-| Dog Aging Project | Rapamycin in dogs | Ongoing |
-| Multiple FMD trials | Longo FMD | Multiple ongoing |
-| Amazentis Phase 3 | Urolithin A | Reporting 2024-25 |
+| PEARL | Rapamycin | **Published 2025: primary endpoint NULL** |
+| TRIIM-X | GH + DHEA + metformin | **No results published after 6+ years** |
+| Dog Aging Project (TRIAD) | Rapamycin in dogs | Design published 2025; **no efficacy results yet** |
+| Multiple FMD trials | Longo FMD | Positive bio-age signal (Brandhorst 2024); COI noted |
+| POLYCAD | Spermidine (24mg/day) | Completion anticipated Aug 2026 |
 | Insilico ISM001-055 | AI-designed drug (IPF) | Phase 2 |
 
 ---
@@ -1214,31 +1248,34 @@ Multiple groups using AI to screen existing drugs for aging-related benefits:
 <a name="synthesis"></a>
 ## 21. SYNTHESIS: TIMELINE TO LONGEVITY ESCAPE VELOCITY
 
-### Current Confidence Levels by Approach
+### Current Confidence Levels by Approach — REVISED WITH VERIFICATION (March 2026)
 
-**Highest confidence (human evidence exists):**
-- Exercise (aerobic + resistance): The single most important intervention. No drug comes close.
-- Sleep optimization: Strong mechanistic data
-- Caloric moderation + plant-based diet: CALERIE + Blue Zones epidemiology
+**Highest confidence (replicated human RCT data):**
+- Exercise (aerobic + resistance): The single most important intervention. No drug comes close. VO2 max is the strongest predictor of all-cause mortality.
+- Sleep optimization: Strong mechanistic and epidemiological data
+- Caloric moderation: CALERIE RCT confirmed DunedinPACE slowing. Real downsides (bone loss, muscle loss).
 - Social connection: Large meta-analyses
 - Not smoking: Self-evident
+- SGLT2 inhibitors: Best existing human clinical data of any aging-pathway drug (EMPA-REG, CANVAS, DAPA-HF: 25-35% cardiovascular death reduction)
 
-**Moderate confidence (animal data strong, human phase 1/2):**
-- Senolytics (D+Q, fisetin): Biomarker evidence in humans; waiting for hard endpoints
-- Rapamycin/rapalogs: Immune benefit in humans proven; aging effects likely but unconfirmed at scale
-- SGLT2 inhibitors: Best indirect evidence of aging biology modification
-- NAD+ precursors (NMN/NR): NAD+ elevation proven; outcomes not yet
+**Moderate confidence (strong animal data, but human trials have NOT yet met primary endpoints):**
+- Rapamycin: ITP gold standard in mice (+9-22% lifespan). But PEARL trial primary endpoint NULL, Mannick Phase 3 FAILED, ACCP cautioned against off-label use. Safety appears OK at low doses.
+- Senolytics (D+Q): Baker mouse proof definitive. But no human primary endpoint met. New CNS safety concern (demyelination, 2026 PNAS). Largest RCT (n=60 bone) missed primary endpoint.
+- FMD (Longo): Promising bio-age reduction signal but major COI; needs independent replication at scale
 
-**Promising but premature (animal data, early human):**
-- Partial epigenetic reprogramming (OSK): Most exciting; most uncertain for humans
-- Telomerase gene therapy: Blasco's mouse data remarkable; human safety unknown
-- Spermidine: Good epidemiology; SmartAge trial positive; needs larger trials
-- Urolithin A: Phase 2 positive; Phase 3 ongoing
+**Promising but unproven (human evidence is weak, absent, or negative):**
+- Partial epigenetic reprogramming (OSK): Most exciting mechanistically; zero human safety data yet
+- NAD+ precursors (NMN/NR): NAD+ elevation proven; but **two 2024 meta-analyses found NO functional benefits in humans**. Hype far exceeds evidence.
+- Spermidine: Strong epidemiology (HR 0.74) but SmartAge trial **primary endpoint FAILED** at 0.9mg/day. Awaiting POLYCAD (24mg/day, 2026).
+- Urolithin A: Consistent biomarker effects but **primary endpoints repeatedly missed**. Most data from manufacturer-funded studies.
+- Fisetin: Single unreplicated mouse lifespan study; NOT tested by ITP; only human study (n=10) was negative.
+- TRIIM (GH+DHEA+metformin): n=9, unblinded, no controls, not replicated. TRIIM-X results never published. GH/IGF-1 paradox is a fundamental concern.
 
-**Theoretical/Preclinical:**
-- IL-11 inhibition: 2024 mouse data extraordinary; human trials being designed
+**Theoretical/Preclinical (strong animal data, no human data yet):**
+- IL-11 inhibition: 2024 *Nature* mouse data extraordinary and well-validated; human trials being designed
 - BAM15 uncoupler: Remarkable mouse data; no large human trials
 - CAR-T senolytics: Proof of concept only
+- Telomerase gene therapy: Blasco's mouse data remarkable; human safety unknown
 
 ### The Longevity Escape Velocity Question
 

@@ -262,6 +262,42 @@ The top 5% of Medicare beneficiaries consume ~50% of expenditures — overwhelmi
 
 ---
 
+## The Profit Alignment Problem
+
+The FDA approval system is designed around patentable molecules. This creates a fundamental misalignment with aging research:
+
+**The drugs most likely to work are the least profitable to test:**
+
+| Drug | Patent Status | Evidence | Trial Funding | Result |
+|---|---|---|---|---|
+| **Rapamycin** | Generic ($0.50/pill) | Best mouse lifespan data ever (ITP) | AgelessRx (tiny startup, all-author COI) | PEARL: primary null |
+| **Metformin** | Generic (pennies) | Strong mechanistic data | $75M philanthropy over a decade | TAME: still no results |
+| **Lamivudine** | Generic (HIV drug) | Validated LINE-1/inflammaging mechanism | Nobody | No aging trial exists |
+| **Acarbose** | Generic | ITP: +22% male lifespan | Nobody | No human aging trial |
+
+**The drugs that get pharma investment keep failing:**
+
+| Drug | Company | Investment | What Happened |
+|---|---|---|---|
+| **RTB101** (mTOR inhibitor) | resTORbio | ~$100M+ | Phase 3 failed. Company collapsed. (PMID: 33977284) |
+| **UBX0101** (senolytic) | Unity Biotechnology | ~$200M+ | Phase 2 failed primary endpoint. Stock crashed 60%. |
+| **UBX1325** (senolytic) | Unity Biotechnology | Remaining capital | Narrowed to one ophthalmic indication |
+
+**Supplements make money by not generating evidence:**
+- NMN: $6B+ global market. Two meta-analyses show zero functional benefit. No company has incentive to run a trial that might prove their product doesn't work.
+- DSHEA guarantees profit without proof. This isn't a bug — it's the business model.
+
+**The result**: We have a $6 billion supplement industry selling unproven products, a pharmaceutical industry that won't fund generic drug trials, and a regulatory system that can't approve "aging" as an indication. The interventions most likely to slow human aging are sitting on the shelf because nobody profits from proving they work.
+
+**What would fix it:**
+- Hevolution Foundation ($1B+ endowment, Saudi PIF-backed) is the largest new funder specifically targeting this gap
+- Cures Within Reach (nonprofit generic drug repurposing)
+- NIA/NIH direct funding — but undersized relative to need
+- FDA biomarker qualification for DunedinPACE would enable shorter, cheaper trials
+- Adaptive platform trials (test multiple drugs in one infrastructure, like RECOVERY for COVID)
+
+---
+
 ## The Structural Thesis — Now With Receipts
 
 The evidence landscape in aging research is not shaped primarily by the science. It's shaped by the regulatory and economic structure. **This is not speculation — it's stated explicitly in published literature, including FDA's own words.**

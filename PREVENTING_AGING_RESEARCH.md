@@ -140,11 +140,17 @@ The central question: Can cells be genuinely reset to a youthful state?
 - Horvath's pan-mammalian clock shows methylation resets to near-zero at fertilization across all mammals
 - Nuclear transfer (SCNT) into young oocytes rejuvenates aged nuclei
 
-**Important caveats:**
+**Important caveats — updated with 2024-2026 verification:**
+
+> **Evidence quality: HIGH for mouse data; ZERO human safety data exists for OSK/OSKM partial reprogramming.**
+
 - Not all aging changes are epigenetic (mutations, protein aggregates, structural damage remain)
-- Clock reversal ≠ functional rejuvenation necessarily (clocks are proxies)
-- Single cell rejuvenation may not translate to tissue/organ rejuvenation
-- Cancer risk from any pluripotency-inducing treatment requires careful monitoring
+- **Clock reversal ≠ functional rejuvenation**: Ying et al. 2025 (*Nature Aging*) showed chronological age prediction and mortality prediction are essentially uncorrelated (R=0.12). Moving a clock number does not prove rejuvenation.
+- **Sinclair 2020 *Nature* (OSK vision restoration) has NOT been independently replicated** after 5+ years — notable for such a high-profile claim. No retraction, but no independent confirmation either.
+- **Cancer/teratoma risk is real and dose-dependent**: Ocampo et al. 2016 showed continuous OSKM was lethal; even cyclic expression produced teratomas in high-copy mice. Serrano et al. 2016 found reprogrammed cells formed malignant tumors in 5/5 xenografts.
+- **Chemical reprogramming caution**: Mitchell et al. 2026 (Gladyshev lab, *Aging Cell*) — higher-dose chemical reprogramming cocktail caused "drastic reduction in body weight necessitating euthanasia" with toxic lipid accumulation in mice. Lower doses showed no effect on transcriptomic age.
+- **Altos Labs**: Actively publishing (Lu et al. 2025 *Cell* on mesenchymal drift reversal), but remains entirely preclinical. No clinical trials announced.
+- **Turn Biotechnologies**: No peer-reviewed publications found on PubMed as of March 2026.
 
 ---
 
@@ -306,14 +312,25 @@ Resveratrol was Sinclair's original "sirtuin activator" (2003 *Nature*). However
 - **ACCP formal caution (2025)**: American College of Clinical Pharmacology issued a position statement noting **no regulatory approval and no rigorous evidence** supports sirolimus for aging prevention.
 - Off-label use (5-10 mg/week) continues growing in longevity medicine despite these null results
 
-### The TAME Trial — History-Making Clinical Research
+### The TAME Trial — Perpetually Pending
 
 **TAME (Targeting Aging with Metformin)**, led by Nir Barzilai (Einstein):
 - ~3,000 participants, ages 65-79
 - Primary endpoint: composite of first cancer, CVD, dementia, or death
 - **Historic significance**: First FDA-endorsed trial explicitly treating **aging itself** as the target indication — a landmark regulatory precedent
-- Funding: AFAR, Hevolution Foundation, private donors (~$75M total)
-- Enrollment: Active at ~14 US centers; results expected ~2030
+
+> **Evidence quality for metformin as longevity drug: LOW and weakening.**
+
+- **Trial status**: Still described as "ongoing" in 2025-2026 reviews. No results published. No public timeline for completion. Has been "about to start" for roughly a decade.
+- **ITP mouse data**: Metformin was **NOT positive** by the ITP's primary analysis (log-rank test). A 2024 reanalysis (Jiang et al., *GeroScience*) found only a marginal male-only effect on early mortality using an alternative statistical test. Far weaker than rapamycin, acarbose, or canagliflozin.
+- **RCT meta-analysis (Griffin et al. 2017, *Diabetologia*)**: 13 RCTs, ~4,000 patients — **no significant reduction in all-cause mortality** (RR 0.96, 95% CI 0.84-1.09) or CV death.
+- **MET-PREVENT trial (Witham et al. 2025, *Lancet Healthy Longev*)**: RCT in frail elderly (n=72) — **primary outcome NULL** (no effect on walk speed). Concerning: 34% hospitalization rate in metformin group vs. 8% placebo.
+- **DPP 21-year follow-up (Heckman-Stoddard et al. 2025)**: Metformin did NOT reduce cancer incidence (HR 0.90, CI 0.73-1.10).
+- **Exercise blunting — MAJOR CONCERN**: Multiple RCTs confirm metformin blunts aerobic exercise adaptations:
+  - Konopka et al. 2019 (*Aging Cell*): attenuated VO2max gains and skeletal muscle mitochondrial respiration
+  - Malin et al. 2026 (*JCEM* and *Diabetes Obes Metab*): blunted vascular and metabolic insulin sensitivity after exercise
+  - Bruss/Konopka et al. 2025 (*J Appl Physiol*): suppressed mitochondrial and transcriptional response to exercise
+- **Bottom line**: For a non-diabetic person who exercises regularly, metformin may do **net harm**. The exercise-blunting effect undermines the single most evidence-based anti-aging intervention.
 
 ### Other Diabetes Drugs Extending Lifespan (ITP)
 
@@ -823,7 +840,15 @@ The aging of the immune system itself:
 
 ### Epigenetic Clocks — The Revolution in Age Measurement
 
-DNA methylation clocks allow us to measure biological age independently of chronological age. Interventions that reduce clock age represent genuine rejuvenation at the molecular level.
+DNA methylation clocks measure biological age independently of chronological age. However, critical caveats apply.
+
+> **Evidence quality: HIGH for mortality prediction; UNPROVEN for intervention validation. Clock reversal has NOT been shown to extend human lifespan.**
+
+**Key validation finding**: Ying et al. 2025 (*Nature Aging*) systematically evaluated 39 biomarkers across 20,000+ individuals. Critical result: **the ability of clocks to predict chronological age does NOT correlate with mortality prediction capacity** (R=0.12, P=0.67). GrimAge2 had the strongest mortality association (HR=2.57). Vetter et al. 2026 found DunedinPACE was the single strongest mortality predictor among 14 consensus aging biomarkers.
+
+**The "thermometer problem"**: Clocks measure correlates of aging, not aging itself. Manipulating the correlate does not guarantee manipulation of the underlying process — lowering the thermometer does not cure the fever. Cell composition shifts, targeted methylation changes, and lifestyle factors affecting clock-specific CpG sites can produce misleading "rejuvenation" readings.
+
+**GrimAge2 vs. DunedinPACE**: Both are top-tier but measure different things. GrimAge2 = cumulative damage ("where are you?"). DunedinPACE = current pace ("how fast are you aging now?"). Field consensus: use both. For intervention trials, DunedinPACE may be more responsive; for prognosis, GrimAge2 may be more informative.
 
 | Clock | Creator | Year | What It Measures |
 |-------|---------|------|-----------------|

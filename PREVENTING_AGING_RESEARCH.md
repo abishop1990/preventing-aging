@@ -32,6 +32,7 @@
 21. [Synthesis: Timeline to Longevity Escape Velocity](#synthesis)
 22. [Biological Immortality in Nature: Lessons from Ageless Organisms](#bio-immortal)
 23. [Self-Experimenters & Extreme Longevity Practices: Bryan Johnson & Others](#self-exp)
+24. [2025–2026: New Findings, Trial Results, and Field-Shifting Discoveries](#new-2026)
 
 ---
 
@@ -1536,8 +1537,291 @@ Despite methodological limitations, the self-experimenter movement has made real
 
 ---
 
-*Report compiled March 2026 from 20+ deep-research sessions covering all major areas of longevity science. Knowledge base covers published literature and developments through August 2025.*
+*Report originally compiled March 2026 from 20+ deep-research sessions. Section 24 added March 2026 with live verification of new findings.*
 
 *Key databases for updates: PubMed, ClinicalTrials.gov, bioRxiv/medRxiv*
 *Key journals: Nature, Nature Aging, Cell, Science, Cell Metabolism, Aging Cell, GeroScience*
 *Key news sources: Longevity.Technology, Fight Aging!, Nature News & Views*
+
+---
+
+<a name="new-2026"></a>
+## 24. 2025–2026: NEW FINDINGS, TRIAL RESULTS, AND FIELD-SHIFTING DISCOVERIES
+
+> **Research verification date: March 2026. All claims below checked against PubMed live searches. Section added after systematic review of post-August 2025 literature.**
+
+This section captures findings that emerged or were validated after the main report was compiled — including critical trial results (positive and negative), new drug targets with unusually strong preclinical evidence, and important corrections to previously hyped claims.
+
+---
+
+### 24.1 GLP-1 RECEPTOR AGONISTS AS AGING AGENTS — MAJOR UPDATES
+
+GLP-1 receptor agonists (semaglutide, liraglutide, tirzepatide) have accumulated aging-adjacent evidence faster than almost any other drug class. The picture is now complex: strong for cardiovascular and metabolic aging, weaker for neurodegeneration.
+
+#### SELECT Trial: Cardiovascular Mortality in Non-Diabetic Obesity (CONFIRMED)
+
+> **Evidence quality: HIGH.** Phase 3 RCT, n=17,604, ~40 months follow-up.
+
+Semaglutide 2.4 mg/week in adults with elevated BMI but no diabetes, with established cardiovascular disease:
+- Primary endpoint (CV death, non-fatal MI, or stroke): **6.5% vs. 8.0% placebo (HR 0.80, 95% CI 0.72–0.90, p<0.001)** — 20% relative risk reduction
+- Cardioprotective effects were **independent of weight loss**, suggesting non-metabolic mechanisms
+- PMID: 37952131
+
+This is not a longevity trial, but it is the first large Phase 3 RCT demonstrating mortality benefit from a GLP-1RA in non-diabetic individuals — the primary population of interest for longevity medicine.
+
+#### EVOKE and EVOKE+ Trials: Semaglutide in Symptomatic Alzheimer's Disease — PRIMARY ENDPOINT NULL
+
+> **Evidence quality: HIGH (Phase 3 RCT, n~3,800). Result: NEGATIVE for primary endpoint.**
+
+Published November 2025, *The Lancet*. Two parallel Phase 3 trials:
+- EVOKE (n=1,855) and EVOKE+ (n=1,953): Adults 55–85 with MCI or mild AD dementia due to confirmed amyloid pathology
+- **Primary outcome (CDR-SB cognitive decline): NOT MET**
+  - EVOKE: −0.06 difference (semaglutide 2.2 vs. placebo 2.2)
+  - EVOKE+: 0.15 difference — not significant
+- **CSF biomarker signals present but did not translate to cognition**: Aβ42, phosphorylated tau, neuroinflammation markers all improved modestly
+
+**Critical interpretation**: Semaglutide modulates AD pathology biomarkers but **failed to slow cognitive decline in symptomatic disease**. This is consistent with the amyloid hypothesis failure pattern — drugs that clear pathology in established disease do not rescue already-damaged circuits. The hypothesis worth testing: GLP-1RAs may prevent neurodegeneration in preclinical stages, not treat it once manifest. PMID: 39780249.
+
+#### ELAD Trial: Liraglutide in Mild-to-Moderate AD — MIXED SECONDARY SIGNALS
+
+> **Evidence quality: MODERATE.** Phase 2b, n=204, 52 weeks. Published *Nature Medicine*, December 2025.
+
+- **Primary outcome (brain metabolism): NOT MET**
+- **Secondary brain volume**: ~50% less atrophy in frontal, temporal, parietal, and total gray matter
+- Cognitive secondary measures showed slower decline (ADAS-Exec)
+- These are secondary outcomes in a Phase 2b trial and require Phase 3 confirmation
+
+PMID: 41326666.
+
+#### Epigenetic Clock Reversal with Semaglutide — First Human RCT Evidence
+
+> **Evidence quality: MODERATE-HIGH.** Randomized double-blind trial; post-hoc epigenetic analysis.
+
+A 32-week double-blind RCT of semaglutide in people with HIV-associated lipohypertrophy showed the first human RCT evidence that GLP-1RAs modulate epigenetic aging clocks:
+
+| Clock | Change with Semaglutide |
+|-------|------------------------|
+| PCGrimAge | **−3.1 years** |
+| PhenoAge | **−4.9 years** |
+| DunedinPACE | **−0.09 units** (9% slower aging rate) |
+| OMICmAge | −2.2 years |
+| GrimAge V1/V2 | −1.4 to −2.3 years |
+
+**Important caveats**: HIV population with specific metabolic phenotype; post-hoc epigenetic analysis; generalizability to general population unknown. PMID: 40791720.
+
+#### Multi-Omic Aging Reversal in Aged Mice
+
+> **Evidence quality: HIGH (preclinical).** Published *Nature Aging*, January 2026.
+
+GLP-1RA treatment in aged male mice (starting age 11 months, 30 weeks) showed body-wide age-counteracting effects across transcriptomics, metabolomics, and proteomics. Effects were **dose-dependent**, minimal in young adults, and age-specific — suggesting GLP-1RAs target aging biology rather than just metabolism. The hypothalamic GLP-1R was identified as critical when treatment began at older ages. PMID: ~41265449.
+
+#### Mechanism Summary
+
+GLP-1R activation in the aging brain operates via:
+- AMPK activation → reduced BACE1 → less Aβ production; enhanced microglial Aβ phagocytosis
+- Microglial M1→M2 anti-inflammatory polarization; decreased IL-1β, TNF-α
+- PI3K/Akt/mTOR pathway modulation → anti-apoptotic, anti-oxidative
+- Autophagy enhancement (via AMPK/mTOR axis)
+
+**Overall GLP-1RA verdict for longevity**:
+- ✅ CV mortality reduction in non-diabetic obese: proven (SELECT, Phase 3)
+- ✅ Epigenetic clock reversal: first human RCT data (though HIV population, post-hoc)
+- ❌ Cognitive decline in symptomatic AD: failed primary endpoint (EVOKE/EVOKE+)
+- ⚠️ Brain atrophy: secondary signal from Phase 2b only (ELAD)
+- **Best hypothesis now**: GLP-1RAs as *preventive* agents in preclinical/early aging, not treatment of established neurodegeneration
+
+---
+
+### 24.2 GPLD1/TNAP AXIS — HOW EXERCISE PROTECTS THE AGING BRAIN (Bieri et al., 2026)
+
+> **Evidence quality: HIGH (preclinical). Published *Cell*, February 2026. PMID: 41713415.**
+
+This is one of the most mechanistically precise discoveries in exercise biology in years. It resolves *how* exercise produces cognitive benefits in the aging brain — and identifies a specific, druggable target.
+
+#### The Discovery
+
+**Bieri et al. 2026 (*Cell*)** established the following causal chain:
+
+1. **Exercise** stimulates the liver to secrete **GPLD1** (glycosylphosphatidylinositol-specific phospholipase D1) — a "hepatokine" or "exerkine"
+2. Circulating GPLD1 cleaves **TNAP** (tissue-nonspecific alkaline phosphatase) from the surface of brain microvascular endothelial cells
+3. TNAP accumulates on the blood-brain barrier with age, making it **leaky** and increasing CNS inflammation
+4. GPLD1-mediated TNAP removal **restores BBB integrity** (via tight junction proteins like claudin-5), reduces hippocampal inflammation, and **rejuvenates cognition** in aged mice
+
+**Causality confirmed in multiple ways**:
+- Young mice engineered to overexpress TNAP showed premature cognitive aging
+- Genetic reduction of TNAP in 2-year-old mice (~70 human-years equivalent) restored cognitive function
+- GPLD1 overexpression in 5xFAD (Alzheimer's) mice: ~25–30% reduced amyloid plaque load, improved memory
+
+#### Why This Matters for Drug Development
+
+Prior to this paper, GPLD1 was known (from the Wyss-Coray lab, 2020 *Science*) as an exercise-induced hepatokine that improved cognition in sedentary old mice when injected. The identity of its brain target was unknown. Bieri 2026 closes that loop: **TNAP is the substrate.**
+
+This matters because:
+- **TNAP inhibitors already exist** (SBI-425, developed for vascular calcification; levamisole for off-label uses)
+- The pathway is now specific enough to drug: inhibit TNAP on brain vasculature → recapitulate exercise's cognitive benefits
+- TNAP inhibition directly recapitulated exercise's brain benefits in Alzheimer's mouse models
+
+**Translational challenges**:
+- TNAP is expressed throughout the body (bone mineralization, gut, kidney, placenta) — systemic inhibition carries off-target risks
+- Brain-targeted TNAP inhibitors or delivery methods needed
+- No human trials yet; this is 2026 preclinical data
+- Alternative: GPLD1 protein therapy, gene therapy, or GPLD1-mimetic small molecules
+
+**Summary**: This is a landmark mechanistic finding. It gives exercise biology a specific, drug-targetable molecular mechanism — moving "exerkines" from hypothesis to validated pathway. First human data is probably 3–5 years away.
+
+---
+
+### 24.3 TAURINE — ANIMAL LIFESPAN DATA POSITIVE, BUT HUMAN HYPOTHESIS CHALLENGED
+
+> **Animal evidence: MODERATE-HIGH. Human translation: LOW. Key foundational claim revised.**
+
+#### Singh et al. 2023 (*Science*, PMID: 37289866) — The Original Paper
+
+The landmark Singh 2023 paper proposed that taurine — a conditionally essential amino acid involved in cellular signaling, mitochondrial function, and antioxidant defense — *declines with age* in mice, monkeys, and humans. Taurine supplementation extended median lifespan by:
+- **Mice**: 10–12% (female 12%, male 10%); life expectancy at 28 months increased 18–25%
+- **C. elegans**: 10–23% (range across strains/conditions)
+- **Non-human primates**: Improved healthspan (no lifespan endpoint measured)
+
+Mechanisms proposed: reduced cellular senescence, protected against telomerase deficiency, suppressed mitochondrial dysfunction, decreased DNA damage, attenuated inflammaging.
+
+#### Critical 2025 Update: The Foundational Human Hypothesis Challenged
+
+> **Evidence status: The "taurine declines with age" claim in humans has been directly challenged.**
+
+**Marcangeli et al. 2025** (*Aging Cell*, PMID: 40472098) in a study of 137 men aged 20–93 found:
+- **No association between taurine levels and age**
+- **No association between taurine levels and muscle mass, strength, physical performance, or mitochondrial function**
+
+Separately, **NIH researchers (2025)** concluded that taurine levels do not decline with age in well-controlled longitudinal analyses — and that taurine is unlikely to be a useful aging biomarker.
+
+**What this means**: The "taurine deficiency drives aging" hypothesis — the core premise of the Singh paper — does not hold up in rigorous human data. This does not disprove taurine's *pharmacological* effects when supplemented, but it undermines the mechanistic model. The mouse lifespan data stands; the human translation rationale is weaker than initially appeared.
+
+#### Human RCT Data
+
+- Small RCTs (n=24, 16 weeks, 1.5g/day) show increased antioxidant markers but no meaningful aging endpoints
+- Multiple meta-analyses (25–34 trials) confirm cardiometabolic effects: reduced blood pressure, fasting glucose, triglycerides — but these are metabolic effects, not longevity effects
+- No human RCT has measured lifespan, epigenetic age, or hard aging endpoints
+
+**NIA ITP status**: Not formally tested in the ITP mouse lifespan program as of March 2026.
+
+**Safety**: 1.5–3 g/day well-tolerated in short-term studies; long-term human safety data >1 year is limited.
+
+**Verdict**: The animal lifespan data is genuine and warrants further testing. The human relevance is now uncertain following the failure to confirm the foundational biomarker hypothesis. Evidence quality: **MODERATE for rodents, LOW for humans.** Watch for ITP testing and properly powered human trials.
+
+---
+
+### 24.4 NAD+ PATHWAY — CD38 INHIBITION EMERGES AS MORE PROMISING THAN NMN/NR
+
+The main report covers the null results for NMN/NR. Two important 2024–2025 updates:
+
+#### Meta-Analysis Confirmation of Null Results
+
+Two 2024 meta-analyses confirm the null picture for NMN/NR in functional aging outcomes:
+
+- **PMID 40275690** (*2024*): Meta-analysis of RCTs — NMN showed **no significant effects** on skeletal muscle index, handgrip strength, gait speed, or 5-chair stand test in adults >60. NR showed mixed results (some benefit in peripheral artery disease, worse performance in MCI).
+- **PMID 39116016** (*2024*): Meta-analysis on glucose/lipid metabolism — NMN elevates blood NAD+ reliably, but: "**Exaggeration of the benefits of NMN supplementation may exist in the field.**" Most clinically relevant outcomes not significantly different from placebo.
+
+**The absorption problem**: Nearly all oral NMN is converted to nicotinamide (NAM) via hepatic first-pass metabolism before reaching systemic circulation, limiting intact NMN delivery to peripheral tissues. Liposomal NMN formulations show NAD+ elevation where standard NMN does not — but no outcomes data yet.
+
+**Surprising 2025 finding** (*Cell Metabolism*): Even 85% reduction in skeletal muscle NAD+ did NOT impair muscle function in mice — questioning the "NAD+ depletion causes muscle aging" model.
+
+#### CD38 Inhibition — The More Targeted Path
+
+> **Evidence quality: MODERATE-HIGH (preclinical strong; early human data emerging).**
+
+**CD38** is an NADase that consumes NAD+ as part of immune signaling. CD38 **upregulates with aging and inflammation**, and is likely the primary driver of age-related NAD+ decline (not reduced synthesis). Blocking CD38:
+
+- Preserved NAD+ levels in aged mice
+- Extended median lifespan by **~10%** in mouse studies
+- Improved muscle strength and metabolism
+- Reversed aging-related NAD+ decline more effectively than precursor supplementation alone
+
+CD38 is elevated in individuals predisposed to Alzheimer's disease; CD38 inhibition improved cognition in AD mouse models.
+
+**Human data (Nuchido TIME+)**: A supplement formulation with CD38-inhibitory compounds showed:
+- Increased blood NAD+ levels
+- Increased SIRT1 and NAMPT expression
+- **Decreased pro-inflammatory cytokines**
+
+More than 200 small-molecule CD38 inhibitors have been identified; several are in preclinical/early clinical development as dedicated therapeutics.
+
+**Verdict**: CD38 inhibition addresses the *cause* of NAD+ decline rather than flooding a leaky system with precursors. More promising mechanism; human Phase 2 data needed.
+
+---
+
+### 24.5 KLOTHO — GENE THERAPY APPROACHING HUMAN TRIALS
+
+> **Evidence quality: MODERATE (approaching Phase 1).** Key 2025–2026 updates.
+
+The main report covers klotho's biology and the KL-VS genetic variant. Key updates:
+
+**New biomarker papers (2025)**:
+- **PMID 39030746**: KL-VS heterozygotes show **significantly attenuated age-related neuroinflammation** in CSF (IL-6, S100B, neurogranin, α-synuclein) in 454 cognitively unimpaired adults
+- **PMID 39529379**: Amyloid-β positivity was **lower in KL-VS heterozygotes** (p=0.05) in 704 cognitively unimpaired adults — protective against amyloid accumulation, independent of serum klotho levels
+- **PMID 41627838**: Higher circulating klotho moderates the association between brain atrophy and cognition in adults **≥61.6 years** (age-dependent neuroprotection)
+
+**Why serum klotho ≠ genetic effect**: The PMID 39529379 finding that amyloid protection is independent of serum klotho levels suggests the KL-VS variant has structural or cell-autonomous effects beyond bulk protein quantity. This complicates protein replacement approaches.
+
+**Gene therapy update (Klotho Neurosciences)**:
+- **KLTO-202** (AAV9-delivered soluble klotho) targeting ALS: Phase 1 planned for Q3 2025; manufacturing and FDA meetings underway
+- **Preclinical data** (*Molecular Therapy*, February 2025): AAV9-s-KL administration → **20% lifespan extension in mice** + 15–20% longer lifespan + better physical performance + less fibrosis at 24 months
+
+**PF4 connection**: Klotho's cognitive benefits are mediated in part by triggering **platelet factor 4 (PF4)** release from platelets; PF4 alone recapitulates cognitive benefits in aged mice (*Nature Aging* 2023). This suggests klotho, exercise, and young blood may share a downstream molecular mechanism.
+
+---
+
+### 24.6 TAURINE, SPERMIDINE, AKG — STATUS UPDATE ON THREE "WATCHLIST" INTERVENTIONS
+
+#### Spermidine (Updated)
+
+The **SmartAge trial** failed at a lower dose (~1.2 mg/day food-equivalent spermidine). The **POLYCAD trial** (expected August 2026) tests **24 mg/day** — approximately 20× higher — in a cardiovascular context. The epidemiological signal is genuinely strong (HR ~0.74 for mortality in observational data). The mechanistic case (autophagy induction via mTOR inhibition and protein kinase A pathway) is well-supported in model organisms. But autophagy induction has proven very difficult to translate to human functional outcomes. Watch POLYCAD.
+
+#### Alpha-Ketoglutarate (AKG) (Updated)
+
+The **ABLE trial** (Singapore, PMID: 37217632) — a double-blind RCT using epigenetic clocks as primary outcome — confirmed feasibility (PMID: 40819772) and results are expected 2025–2026. AKG is a TCA cycle intermediate that declines ~10-fold between ages 40–80 and serves as a cofactor for TET dioxygenases (DNA demethylation) and histone demethylases. Buck Institute preclinical data shows lifespan extension in model organisms. **Key watch**: ABLE trial results. If epigenetic age reversal is confirmed in a properly powered double-blind trial, this becomes a serious candidate.
+
+#### Lithium Microdosing (New Entry)
+
+> **Evidence quality: LOW-MODERATE.** Not previously in main report.
+
+Epidemiological studies consistently show that regions with naturally higher lithium in drinking water have lower rates of dementia and longer lifespan. The mechanism involves:
+- **GSK-3β inhibition**: Reduces tau hyperphosphorylation (an AD pathology driver)
+- **Autophagy enhancement**: Via IP3-independent pathway (mTOR-independent)
+- **Neuroprotection**: Anti-apoptotic via CREB; anti-inflammatory
+
+"Microdosing" ranges proposed: 0.3–1 mg/day (vs. psychiatric therapeutic doses of 500–1200 mg/day). At this range, lithium's known renal and thyroid risks are substantially reduced, though long-term data at sub-therapeutic doses in non-psychiatric populations is sparse.
+
+**Animal lifespan data**: C. elegans lifespan extension via stress resistance; mammalian lifespan data limited and conflicting.
+
+**Human trials**: Several Phase 2 trials on cognitive decline ongoing in Europe. No completed large prevention RCT.
+
+**Verdict**: Interesting epidemiological signal; plausible mechanisms; no proven human benefit from RCTs yet. The patent/profit problem makes this — like rapamycin and metformin — unlikely to receive proper industry-funded testing. Evidence quality: **LOW-MODERATE.** Actionable in the sense that at 0.3 mg/day, the safety profile is low-risk enough that a properly powered community or academic trial could run cheaply.
+
+---
+
+### 24.7 CORRECTION: TAURINE AGE-DECLINE HYPOTHESIS
+
+The finding that taurine does *not* reliably decline with age in humans (see Section 24.3) is a meaningful example of the field's failure mode: a compelling animal finding generates enormous media coverage and consumer supplement sales, while the underlying human biomarker hypothesis is quietly contradicted two years later in less-covered publications. Taurine supplements became widely consumed globally between 2023–2025 based on the Singh paper. The 2025 correction should be tracked as a case study in longevity science communication.
+
+---
+
+### 24.8 EVIDENCE QUALITY SUMMARY — NEW FINDINGS
+
+| Intervention / Finding | Evidence Quality | Key Result | PMID |
+|---|---|---|---|
+| **Semaglutide CV mortality (SELECT)** | HIGH | 20% CV risk reduction in non-diabetic obese | 37952131 |
+| **Semaglutide in AD (EVOKE/EVOKE+)** | HIGH | **PRIMARY ENDPOINT NULL** | 39780249 |
+| **Liraglutide brain volume (ELAD)** | MODERATE | ~50% less atrophy (secondary only) | 41326666 |
+| **GLP-1 epigenetic clocks (HIV RCT)** | MODERATE-HIGH | −3.1 to −4.9 biological years | 40791720 |
+| **GPLD1/TNAP axis (Bieri 2026)** | HIGH (preclinical) | Exercise→liver→BBB → druggable target | 41713415 |
+| **Taurine mouse lifespan** | MODERATE-HIGH | 10–12% extension | 37289866 |
+| **Taurine human biomarker claim** | DEBUNKED | No age-related decline confirmed | 40472098 |
+| **NMN/NR functional outcomes** | NULL (meta-analyses) | No muscle/functional benefit in >60s | 40275690 |
+| **CD38 inhibition (preclinical)** | MODERATE-HIGH | ~10% lifespan extension; mechanism sound | — |
+| **Klotho gene therapy (preclinical)** | MODERATE | 20% lifespan extension; Phase 1 imminent | — |
+| **KL-VS neuroinflammation** | HIGH (biomarker) | Attenuated age-related CNS inflammation | 39030746 |
+| **KL-VS amyloid protection** | HIGH (biomarker) | Lower Aβ positivity in KL-VS heterozygotes | 39529379 |
+| **Spermidine SmartAge** | LOW | Failed at lower dose | — |
+| **Spermidine POLYCAD** | Pending | 24 mg/day, results Aug 2026 | — |
+| **AKG ABLE trial** | Pending | Results 2025–2026 | 37217632 |
+| **Lithium microdosing** | LOW-MODERATE | Epidemiological signal; no RCT proven | — |

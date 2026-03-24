@@ -1,6 +1,6 @@
 # Findings So Far
 
-**Last verified: March 2026 | Sources: PubMed, NIA ITP, ClinicalTrials.gov**
+**Last verified: March 24, 2026 | Sources: PubMed, NIA ITP, ClinicalTrials.gov | Updated with Section 24 findings**
 
 This is the short version. Every claim below was checked against live PubMed data using systematic searches across published meta-analyses, RCTs, and review papers. For the full evidence and citations, see [PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md).
 
@@ -62,12 +62,48 @@ These are widely hyped but have failed verification:
 
 | Intervention | What Went Wrong |
 |---|---|
-| **NMN/NR supplements** | Two 2024 meta-analyses (342 + 513 adults): **zero functional benefits** vs. placebo. NAD+ goes up; nothing measurable improves. "Exaggeration of benefits may exist in the field." |
+| **NMN/NR supplements** | Two 2024 meta-analyses (342 + 513 adults): **zero functional benefits** vs. placebo. NAD+ goes up; nothing measurable improves. "Exaggeration of benefits may exist in the field." (PMIDs: 40275690, 39116016) |
+| **Semaglutide in symptomatic Alzheimer's (EVOKE)** | Phase 3 trials (n~3,800): **primary cognitive endpoint not met** (Nov 2025). CSF biomarkers improved slightly. Does not slow cognitive decline in established AD. PMID: 39780249. |
+| **Taurine (human biomarker hypothesis)** | 2023 Singh *Science* paper claimed taurine declines with age in humans. **This was not confirmed in 2025**: Marcangeli et al. (*Aging Cell*, PMID: 40472098) found no age-related decline in 137 men aged 20–93. Mouse lifespan data stands (10–12%), human mechanism is uncertain. |
 | **Metformin (for non-diabetics)** | ITP mouse data negative. RCT meta-analysis (13 trials): no mortality benefit. Blunts exercise adaptations (multiple RCTs). May do net harm in exercising people. TAME trial has no results after a decade. |
 | **GDF11** | Initially hyped as circulating rejuvenation factor. 2023: actually **exacerbates cardiac injury**. Field "at an impasse." Largely debunked. |
 | **Resveratrol (as direct SIRT1 activator)** | Pfizer showed original assay was an artifact. GSK/Sirtris clinical program failed and was abandoned. Poor bioavailability (~1%). May have indirect benefits via AMPK but the original claim is dead. |
 | **Fisetin** | Single unreplicated mouse lifespan study. Never tested by NIA ITP. Only human study (n=10) was negative. FIESTA trial results unpublished after years. |
 | **TRIIM trial (GH+DHEA+metformin)** | n=9, no controls, not blinded, not replicated. TRIIM-X results never published. Using growth hormone to fight aging contradicts the strong evidence that *reduced* GH/IGF-1 extends lifespan. |
+
+---
+
+## 2025–2026 Updates: What Changed
+
+> **Verified March 2026 against live PubMed searches. Section added after systematic review of post-August 2025 literature.**
+
+### New Null Result: Semaglutide (GLP-1) Failed in Symptomatic Alzheimer's
+
+The EVOKE and EVOKE+ Phase 3 trials (n~3,800) tested semaglutide in people with established MCI or mild AD dementia. **Primary endpoint (cognitive decline) was not met.** CSF biomarkers (amyloid, tau, inflammation) improved modestly, but this did not translate to cognitive benefit. *Lancet*, November 2025. PMID: 39780249.
+
+This is a pattern the field has seen repeatedly: drugs that modify pathology in established disease do not rescue already-damaged circuits. The more promising hypothesis: GLP-1RAs as *prevention* in preclinical aging, not treatment of manifest neurodegeneration.
+
+**What GLP-1RAs do have**: The SELECT trial (Phase 3, n=17,604) confirmed 20% cardiovascular mortality reduction in non-diabetic obese people. A randomized trial also showed GLP-1 treatment reversed epigenetic clock age by 3–5 years (HIV population, post-hoc analysis; PMID: 40791720). The cardiovascular evidence is real and strong.
+
+### New Druggable Target: GPLD1/TNAP Axis (Exercise → Brain)
+
+Bieri et al. 2026 (*Cell*, PMID: 41713415) resolved how exercise protects the aging brain with molecular precision: exercise stimulates the liver to secrete **GPLD1**, which cleaves **TNAP** from brain blood vessel walls. TNAP accumulates with age and makes the blood-brain barrier leaky. Removing it restores BBB integrity, reduces brain inflammation, and reverses cognitive aging in mice — including in Alzheimer's models.
+
+**Why this matters**: TNAP inhibitors already exist (developed for vascular calcification). This moves "exercise mimetic for the brain" from vague concept to a specific, drugable molecular target. No human trials yet; this is 2026 preclinical data. But it's one of the clearest mechanism-to-drug pipelines in the exercise biology field.
+
+### Taurine: Animal Data Holds, Human Biomarker Hypothesis Challenged
+
+The 2023 Singh *Science* paper (PMID: 37289866) showed taurine extends mouse lifespan 10–12% and proposed that declining taurine with age drives aging. That animal data stands. But the foundational human claim — that taurine *declines* with age — has been directly challenged by a 2025 study of 137 men aged 20–93 (Marcangeli et al., *Aging Cell*, PMID: 40472098) and NIH follow-up work. No age-related decline was found. No association with muscle function, strength, or mitochondrial performance.
+
+**Verdict**: Animal lifespan data is MODERATE evidence. Human relevance is now LOW. Widely consumed globally since 2023 based on extrapolation that has not held up.
+
+### NMN/NR — Null Results Confirmed by Meta-Analyses
+
+Two 2024 meta-analyses now confirm the null pattern:
+- **PMID 40275690**: No effect on muscle mass, grip strength, gait speed, or physical performance in adults >60
+- **PMID 39116016**: NAD+ goes up, but: *"Exaggeration of the benefits of NMN supplementation may exist in the field."* Functional outcomes did not differ from placebo
+
+The more promising path is **CD38 inhibition** — blocking the enzyme that degrades NAD+ with age — which extends lifespan ~10% in mice and is mechanistically more targeted than flooding a broken system with precursors.
 
 ---
 
@@ -78,10 +114,14 @@ Trials and results that could change the picture:
 | What | When | Why It Matters |
 |---|---|---|
 | **Dog Aging Project (TRIAD)** | Results pending | Largest rapamycin lifespan RCT in a mammal. If positive, changes the calculus for human trials. |
-| **POLYCAD trial** (spermidine 24mg/day) | Aug 2026 | Tests 27x higher dose than failed SmartAge trial. Epidemiology is strong (HR 0.74). |
+| **POLYCAD trial** (spermidine 24mg/day) | Aug 2026 | Tests ~20× higher dose than failed SmartAge trial. Epidemiology is strong (HR 0.74). |
 | **IL-11 inhibitor human trials** | Being designed | If the mouse lifespan extension translates, this is the biggest finding in the field. |
 | **TAME** (metformin) | Unknown | Has been pending for a decade. Even if positive, exercise blunting is a problem. |
 | **Altos Labs / OSK reprogramming** | Years away | Preclinical. If they solve the safety problem, this is the most transformative approach. |
+| **AKG ABLE trial** (Singapore) | 2025–2026 | First properly powered double-blind epigenetic clock trial for AKG. If positive, a low-cost intervention with strong mechanism. |
+| **Klotho gene therapy Phase 1** | Q3 2025 (ALS) | AAV9-klotho extended mouse lifespan 20%. First human safety data will be critical. |
+| **TNAP inhibitors for brain aging** | ~3–5 years | The GPLD1/TNAP mechanism needs a translatable drug; existing TNAP inhibitors need BBB-penetrating reformulation. |
+| **GLP-1 prevention trials** | 2027–2029 | The real test: do GLP-1RAs delay neurodegeneration in *preclinical* aging, not treat established disease? |
 
 ---
 

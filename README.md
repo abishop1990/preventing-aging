@@ -6,11 +6,11 @@ Research into the science of why we age and what can actually be done about it �
 
 **[FINDINGS.md](./FINDINGS.md)** — What we know so far. The short version with evidence ratings.
 
-**[PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md)** — The full research document (~1,500 lines, 23 sections, all citations).
+**[PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md)** — The full research document (~2,000+ lines, 27 sections, all citations). Sections 24–27 added March 2026 covering nootropics, peptides, stem cells, gene therapy, senolytic vaccines, epigenetic reprogramming, and advanced biomarkers.
 
 **[REGULATORY_AND_ETHICS.md](./REGULATORY_AND_ETHICS.md)** — Why the evidence looks the way it does. FDA classification, supplement loopholes, stem cell crackdowns, international comparison, and the structural thesis.
 
-**[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 31 interventions (machine-readable).
+**[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 52 interventions (machine-readable). Updated March 2026.
 
 ## What This Is
 

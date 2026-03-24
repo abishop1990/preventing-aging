@@ -33,6 +33,9 @@
 22. [Biological Immortality in Nature: Lessons from Ageless Organisms](#bio-immortal)
 23. [Self-Experimenters & Extreme Longevity Practices: Bryan Johnson & Others](#self-exp)
 24. [2025–2026: New Findings, Trial Results, and Field-Shifting Discoveries](#new-2026)
+25. [Peptides and Mitochondrial Microproteins: MOTS-c, Humanin, Epitalon](#peptides)
+26. [Advanced Senotherapy: Vaccines, LINE-1/NRTIs, and Senomorphics](#senotherapy)
+27. [Cognitive Aging: Nootropics, Brain-Specific Interventions, and New Clocks](#cognitive)
 
 ---
 
@@ -1537,7 +1540,7 @@ Despite methodological limitations, the self-experimenter movement has made real
 
 ---
 
-*Report originally compiled March 2026 from 20+ deep-research sessions. Section 24 added March 2026 with live verification of new findings.*
+*Report originally compiled March 2026. Sections 24–27 added March 2026 with live PubMed verification.*
 
 *Key databases for updates: PubMed, ClinicalTrials.gov, bioRxiv/medRxiv*
 *Key journals: Nature, Nature Aging, Cell, Science, Cell Metabolism, Aging Cell, GeroScience*
@@ -1825,3 +1828,397 @@ The finding that taurine does *not* reliably decline with age in humans (see Sec
 | **Spermidine POLYCAD** | Pending | 24 mg/day, results Aug 2026 | — |
 | **AKG ABLE trial** | Pending | Results 2025–2026 | 37217632 |
 | **Lithium microdosing** | LOW-MODERATE | Epidemiological signal; no RCT proven | — |
+
+---
+
+<a name="peptides"></a>
+## 25. PEPTIDES AND MITOCHONDRIAL MICROPROTEINS: MOTS-c, HUMANIN, EPITALON
+
+> **Research verification: March 2026. All claims checked against PubMed live searches.**
+
+Peptide biology is one of the most active frontiers in longevity research. A key distinction: most commonly discussed "peptides" (BPC-157, TB-500, selank, semax) are acute tissue-repair or nootropic tools with no longevity evidence. This section focuses on the small number of peptides with genuine aging-mechanism relevance: the mitochondrially-encoded microproteins (MOTS-c and Humanin) and Epitalon.
+
+**Bottom line upfront**: Zero human longevity RCTs exist for any peptide as of March 2026. This is the defining limitation of the entire field.
+
+---
+
+### 25.1 MOTS-c (Mitochondrial Open Reading Frame of the 12S rRNA-c)
+
+> **Evidence quality: MODERATE (animal data strong; zero human longevity trials).**
+
+**Discovery**: Changhan David Lee's group (USC, 2015) discovered MOTS-c as a peptide encoded within the mitochondrial genome — the first demonstration that mitochondria encode functional hormetic signaling molecules beyond the 13 canonical proteins.
+
+**Mechanism**: MOTS-c is a 16-amino-acid peptide that translocates from mitochondria to the nucleus in response to metabolic stress. It activates AMPK (independent of upstream kinases), regulates the folate-methionine cycle, restores insulin sensitivity, and acts as a potent exercise mimetic:
+
+- Single injection of MOTS-c in obese mice = improved insulin sensitivity within days
+- MOTS-c activates the same nuclear targets as aerobic exercise (PGC-1α, FOXO3a)
+- Plasma MOTS-c rises during exercise in humans and declines with age
+
+**Lifespan data**:
+- MOTS-c treatment extended lifespan in *C. elegans* by ~18%
+- A 2021 study (Kim et al.) showed MOTS-c extends lifespan in aged male mice (late-life treatment starting at 18 months); improved muscle function, gait, grip strength, body composition
+- Declines with age in human plasma; centenarians show higher MOTS-c than age-matched controls
+
+**Human data**: Observational only. No human lifespan RCT. The USC group is pursuing pharmaceutical development but no IND has been filed as of March 2026.
+
+**Why this might be important**: MOTS-c appears to be a genuine mitochondrial-nuclear communication signal that mediates cellular stress responses. Its decline with age and restoration of function in aged animals is consistent with it being a real aging-relevant molecule — not just an acute metabolic effector. The "exercise in a pill" framing is real biology, though pill-form exercise mimetics have repeatedly failed to replicate exercise's full benefits in other drug targets.
+
+**Evidence quality**: MODERATE preclinical. LOW for human anti-aging application. Watch for IND filing.
+
+---
+
+### 25.2 HUMANIN
+
+> **Evidence quality: MODERATE (centenarian genetics + animal data; minimal human intervention data).**
+
+**Discovery**: Discovered in 2003 from a cDNA library derived from a surviving neuron of an Alzheimer's patient brain. Encoded within 16S rRNA gene of the mitochondrial genome.
+
+**Mechanism**:
+- Binds and activates the IGFBP3/TMEM219 receptor complex
+- Potent anti-apoptotic: blocks Bax-mediated mitochondrial outer membrane permeabilization
+- Suppresses neuroinflammation; inhibits amyloid-β toxicity *in vitro*
+- Activates STAT3 signaling; neuroprotective effects in AD models
+
+**Centenarian connection**: Younger children of centenarians have significantly *higher* circulating humanin levels than controls of the same age. Certain mitochondrial haplogroups associated with longevity (J, T, U haplogroups) encode humanin variants with enhanced activity. This is among the strongest genetic-longevity links for any peptide.
+
+**Lifespan/healthspan data**:
+- Humanin overexpression in mice reduces atherosclerosis, reduces insulin resistance, extends lifespan ~12% in one study
+- Declines with age in human plasma; correlates inversely with IGF-1 (the longevity-relevant axis)
+
+**Human intervention data**: None. No human clinical trials for aging or longevity.
+
+**Evidence quality**: MODERATE. The genetic epidemiology (centenarian connection) is real and compelling. The mechanistic story (mitochondrial peptide signaling aging) is coherent. But therapeutic translation requires stable delivery (humanin is rapidly cleared), scalable synthesis, and human RCT data that do not yet exist.
+
+---
+
+### 25.3 EPITALON (Ala-Glu-Asp-Gly Tetrapeptide)
+
+> **Evidence quality: LOW. Soviet-era data; no independent Western replication; no RCT in humans.**
+
+**Background**: Developed by Vladimir Khavinson at the St. Petersburg Institute of Biogerontology, Epitalon is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) derived from the larger pineal gland peptide Epithalamin. Proposed mechanisms: telomerase activation, melatonin synthesis restoration, antioxidant effects, GH/IGF-1 axis modulation.
+
+**The data**: Khavinson's group published dozens of papers across Soviet and post-Soviet literature showing lifespan extension in rodents, improved immune function, and claims of longevity in small human longitudinal studies. A 2025 cell culture paper (PMID 40908429) confirmed Epitalon activates telomerase in HEK293 cells *in vitro*.
+
+**Critical problems**:
+- The entire evidence base comes from one research group (Khavinson) in one country
+- No independent Western replication of the lifespan claims
+- No blinded, placebo-controlled human RCT
+- The telomerase activation *in vitro* claim (new 2025) does not demonstrate aging reversal — telomerase activation in cell culture is not a longevity intervention
+- Widely sold as a supplement online based entirely on this non-replicated evidence
+
+**Verdict**: Not credible as an evidence-based anti-aging intervention. The mechanism is plausible enough to warrant rigorous independent testing, which has never been done. Classified as **LOW** evidence — not debunked, but not validated.
+
+---
+
+### 25.4 PEPTIDES THAT ARE NOT RELEVANT TO AGING
+
+For completeness, three popular peptides with minimal aging relevance:
+
+**BPC-157 (Body Protection Compound)**: A 15-amino acid synthetic peptide stabilized from gastric juice. Shows tissue repair effects in rodent models (tendon, ligament, gut healing). No human RCTs. No aging mechanism. Not an FDA-approved drug. Relevant to acute injury recovery, not longevity.
+
+**Thymosin / Thymalin**: Thymic peptides theoretically relevant because thymic involution (the thymus shrinks ~3% per year after puberty) drives T-cell aging. Thymalin and thymosin alpha-1 have some data in immune reconstitution. However, the more promising thymus rejuvenation strategy — using GH + DHEA + metformin (the TRIIM approach) — targets thymic volume directly and showed better results than peptide supplementation alone. Thymic peptide monotherapy lacks compelling RCT evidence for aging.
+
+**Selank / Semax**: Russian nootropic peptides with acute anxiolytic and cognitive effects via BDNF and serotonin modulation. No longevity data. Outside the scope of aging prevention.
+
+---
+
+### 25.5 Evidence Summary — Peptides
+
+| Peptide | Evidence Quality | Human Longevity Data | Key Mechanism | Status |
+|---------|----------------|----------------------|---------------|--------|
+| **MOTS-c** | MODERATE (preclinical) | None | AMPK activation, exercise mimetic | Preclinical; no IND |
+| **Humanin** | MODERATE (genetics + animal) | None (observational only) | Anti-apoptotic; IGF-1 axis | No clinical trials |
+| **Epitalon** | LOW | None (no RCT) | Telomerase activation (in vitro) | Unvalidated; single lab |
+| **BPC-157** | LOW | None | Tissue repair (acute) | Not aging-relevant |
+| **Thymosin** | LOW | None (aging-specific) | Thymic reconstitution | Unproven for aging |
+| **GDF15** | N/A (biomarker) | Observational | Stress/wasting signal | Monitor, not supplement |
+
+---
+
+<a name="senotherapy"></a>
+## 26. ADVANCED SENOTHERAPY: VACCINES, LINE-1/NRTIs, AND SENOMORPHICS
+
+> **Research verification: March 2026.**
+
+The field has moved beyond first-generation senolytics (dasatinib + quercetin, fisetin) — both of which have largely failed human primary endpoints. Three more sophisticated approaches are now generating serious clinical momentum.
+
+---
+
+### 26.1 SENOLYTIC VACCINES
+
+The concept: train the immune system to recognize and eliminate senescent cells, the way the body already does in acute wound healing — but better, and persistently.
+
+#### GPNMB-Targeting Vaccine (Minamino Lab, Juntendo University)
+
+> **Evidence quality: HIGH (preclinical); approaching human translation.**
+
+**Publication**: PMID 37117524 (*Nature Aging*, 2023). Minamino's group identified glycoprotein nonmetastatic melanoma protein B (GPNMB) as a surface antigen highly expressed on senescent cells across multiple tissues.
+
+**What vaccination did in mice**:
+- Reduced metabolic dysfunction in mice on high-fat diet
+- Reduced motor and functional impairment in aged mice (50 weeks)
+- Extended lifespan significantly in progeroid mouse models (male mice showed marked survival extension)
+- Reduced SASP-associated inflammation
+
+**Why GPNMB is a promising target**: It is highly upregulated on senescent cells (>100× vs. non-senescent), expressed on the cell surface (accessible to antibodies), and its expression correlates with aging markers in human tissue. Importantly, immune recognition of GPNMB+ cells mimics what happens naturally in acute senescence clearance.
+
+**Human translation status**: Minamino's group is developing a human vaccine formulation; no IND or Phase 1 trial announced as of March 2026. Timeline: 2–3 years to first-in-human.
+
+#### SenoVax (Immorta Bio)
+
+> **Evidence quality: MODERATE (preclinical cancer models; IND approved; Phase 1 recruiting for cancer).**
+
+SenoVax has received FDA IND approval (#30745) and is entering Phase 1 in advanced lung cancer patients, with a mechanism targeting senescent cells broadly (not tumor cells directly). The aging application would follow after cancer safety data. Timeline for aging: 2027–2028 at earliest.
+
+#### FOXO4-DRI — Stalled Despite Excellent Preclinical Data
+
+The FOXO4-DRI peptide (Baar et al. 2017, *Cell*, PMID 28340347) disrupts the FOXO4-p53 interaction that keeps senescent cells alive. Remarkable preclinical data: restored fur quality, kidney function, voluntary activity in aged mice. Cleara Biotech licensed this. But — **no human trial exists 8 years after publication**. This represents the field's translation problem in miniature: outstanding mouse data, no human path.
+
+---
+
+### 26.2 LINE-1 RETROTRANSPOSONS, cGAS-STING, AND REVERSE TRANSCRIPTASE INHIBITORS
+
+> **Evidence quality: HIGH (mechanism); MODERATE (animal lifespan); MODERATE (first human data from lamivudine AD trial).**
+
+This is one of the most mechanistically crisp inflammaging pathways identified in the past five years.
+
+**The molecular chain**:
+1. **Heterochromatin loss** with age (SIRT6/SIRT7 depletion → loss of H3K9me3 silencing marks)
+2. **LINE-1 reactivation**: Long Interspersed Nuclear Element-1 retroelements — which make up ~17% of the human genome and are normally silenced — become transcriptionally active and produce cytoplasmic cDNA
+3. **cGAS detection**: The cytoplasmic DNA sensor cGAS recognizes this cytoplasmic cDNA as "foreign"
+4. **STING activation**: Triggers the cGAS-STING innate immune pathway → type I interferon response
+5. **Inflammaging**: Chronic, low-grade inflammation — the same pattern seen across all aging tissues
+
+**Key evidence for causality** (Simon et al. 2019, *Cell Metabolism*, PMID 31017591): LINE-1 derepression in aged SIRT6-deficient mice drives inflammation. Lamivudine (an NRTI — nucleoside reverse transcriptase inhibitor) **doubled lifespan** in SIRT6-KO progeroid mice by suppressing LINE-1 retrotransposition. Similarly, 2024 work (PMID 39416083) showed cGAS deficiency causes premature aging via LINE-1 derepression — confirming causality in the opposite direction.
+
+**NRTIs as geroprotectors**: Lamivudine and other antiretroviral drugs (originally developed for HIV) inhibit reverse transcriptase — the enzyme that LINE-1 elements use to copy themselves into cDNA. Applied to aging:
+- Reduced LINE-1 cDNA in aged tissues
+- Suppressed type I IFN signaling
+- Reduced senescent cell burden (p16INK4A expression)
+- Decreased DNA methylation age in treated mice
+
+**First human data (2025)**: The lamivudine Alzheimer's trial (NCT04552795; n=12, 24 weeks, 300 mg/day) published January 2025 in *npj Dementia* (PMID 40104524):
+- ✅ Safe and well-tolerated
+- ✅ Reduced CSF GFAP (neuroinflammation biomarker)
+- ✅ Increased plasma Aβ42/40 ratio (favorable AD biomarker shift)
+- ❌ No significant cognitive improvement at 6 months
+
+A parallel emtricitabine trial (NCT04500847, ~20 AD/MCI patients) is ongoing with results expected 2025.
+
+**Honest interpretation**: This is not a proven anti-aging therapy in humans. It is a biologically coherent mechanism (LINE-1 → cGAS-STING → inflammaging) with strong mouse data and promising biomarker signals in a small human trial. The 6-month trial is almost certainly too short to see functional outcomes. Larger, longer trials in non-AD aging populations are the logical next step but have not been started.
+
+**cGAS-STING inhibitors**: Several small molecules (H-151, C-176) selectively inhibit STING and show efficacy in aged and disease mouse models. The main barrier to human use: poor blood-brain barrier penetration. New CNS-penetrant analogs are in development; 3–5 years from human trials.
+
+---
+
+### 26.3 SENOMORPHICS — SUPPRESSING SASP WITHOUT KILLING SENESCENT CELLS
+
+While senolytics kill senescent cells, senomorphics suppress their Senescence-Associated Secretory Phenotype (SASP) — the inflammatory milieu that causes tissue damage. The key advantage: SASP suppression may be safer for chronic use, since senescent cells have tumor-suppressive roles that complete ablation might compromise.
+
+#### JAK Inhibitors (Ruxolitinib, Baricitinib)
+
+> **Evidence quality: HIGH (preclinical); MODERATE (human aging data pending).**
+
+JAK1/2 inhibition blocks STAT3-driven SASP transcription (IL-6, IL-8, MCP-1, GM-CSF). In aged mice (22–24 months), ruxolitinib treatment reduced systemic inflammation, enhanced physical capacity, preserved fat tissue homeostasis, and improved metabolic function — effects that were **age-dependent** (not seen in young mice), suggesting it targets aging biology specifically (Xu et al. 2015, *PNAS*, PMID 26578790).
+
+Both ruxolitinib and baricitinib are FDA-approved for other indications (myelofibrosis and rheumatoid arthritis respectively), which shortens the path to aging trials. The NIA Interventions Testing Program has expressed interest in testing JAK inhibitors but no published ITP lifespan results exist yet.
+
+#### Colchicine — Low-Dose NLRP3 Inhibition with Proven Human CV Benefit
+
+> **Evidence quality: HIGH for cardiovascular aging; MODERATE for general aging application.**
+
+Colchicine at low doses (0.5 mg/day) inhibits the NLRP3 inflammasome and was FDA-approved in 2023 for reduction of cardiovascular events based on the LoDoCo2 trial. This is direct evidence that NLRP3 inflammasome suppression reduces clinically meaningful aging-related outcomes in humans — the first such evidence for this pathway. Whether the benefit extends beyond CV disease to general aging biology is unknown but plausible given NLRP3's central role in inflammaging.
+
+MCC950, a more selective NLRP3 inhibitor, shows strong aging effects in preclinical models (improved metabolic function, reduced hepatic inflammation) but no human aging trial data yet.
+
+#### Navitoclax — Potent But Toxic; Mitigation Strategies in Development
+
+BCL-2/BCL-xL inhibition forces senescent cell apoptosis (making it also senolytic). Navitoclax shows outstanding senolytic efficacy in mice but causes dose-limiting thrombocytopenia (platelet death) in humans. Two strategies in development: (1) PZ15227, a BCL-xL-selective PROTAC that spares platelets; (2) Nav-Gal, a prodrug activated specifically by senescence-associated β-galactosidase. Both are preclinical only.
+
+#### Rapamycin as Senomorphic
+
+Rapamycin suppresses SASP via mTORC1-mediated inhibition of IL-1α translation — independent of its role in mTOR/autophagy pathway modulation. This senomorphic mechanism may explain why some of rapamycin's aging benefits survive even at doses too low for significant autophagy induction.
+
+---
+
+### 26.4 HYPERBARIC OXYGEN THERAPY (HBOT) — ONE UNCONTROLLED STUDY
+
+> **Evidence quality: LOW. Single-center observational study, n=35, no control group, high variance.**
+
+The Efrati group (Tel Aviv, PMID 33206062) reported that 60 sessions of HBOT in 35 healthy adults aged 64+ increased telomere length by 25–38% and reduced senescent T cells by 10–37%. This received enormous media coverage.
+
+**Critical issues**:
+- No control arm (single-arm observational only)
+- Standard deviations often ≥50% of mean effect size (e.g., +37.63% ± 52.73%)
+- No independent replication in any lab
+- Mechanism unexplained (why would high-pressure oxygen lengthen telomeres?)
+- No functional health outcomes measured
+
+**Verdict**: Not credible as an established longevity intervention. The study is hypothesis-generating at best. A well-designed sham-controlled RCT has not been performed. Filed as **LOW** evidence pending replication.
+
+---
+
+### 26.5 UPDATED IL-11 INHIBITION: CLINICAL TRANSLATION STATUS
+
+The Cook group's 2024 *Nature* finding (PMID 39020175) — anti-IL-11 extends mouse lifespan 22–25% — remains the most impressive pharmacological lifespan extension in mice by an existing-drug-class intervention. Updates on clinical translation:
+
+**LASN01 (Lassen Therapeutics)**: A first-in-class anti-IL-11Rα antibody. Phase 1 in 58 healthy volunteers: well-tolerated, >95% receptor inhibition at 300–600 mg, half-life >12 days (supports monthly dosing). Currently in Phase 1/2 for IPF and thyroid eye disease. **No aging trial initiated.**
+
+**9MW3811 (Mabwell + CALICO)**: In January 2025, Alphabet's CALICO signed a $596M deal ($25M upfront + up to $571M milestones) for Mabwell's anti-IL-11 mAb. China NMPA approved Phase 2 in pathological scarring (recruiting end-2025). CALICO's stated interest includes aging applications. **No aging trial announced yet.**
+
+**Timeline estimate**: First human aging trial 2027–2029. The CALICO investment is the clearest signal that serious institutional capital is moving into IL-11 as an aging drug target. This is the intervention with arguably the most compelling recent preclinical data and the clearest translational path (existing drug class, safety data in hand, large pharma interest).
+
+---
+
+<a name="cognitive"></a>
+## 27. COGNITIVE AGING: NOOTROPICS, BRAIN-SPECIFIC INTERVENTIONS, AND NEW CLOCKS
+
+> **Research verification: March 2026.**
+
+Cognitive aging is the longevity domain most aggressively marketed to consumers and most poorly served by the evidence. This section applies the same evidence standards as the rest of this report.
+
+**Critical framework**: Most supplements improve *function in degraded states* (disease, fatigue, stress) but do not *prevent aging mechanisms* in healthy brains. Prevention requires reversal of epigenetic age, demonstrated in adequately powered long-term RCTs. Almost none of the supplements below meet that standard.
+
+---
+
+### 27.1 WHAT ACTUALLY WORKS — EVIDENCE RANKING
+
+| Intervention | Aging Prevention? | Symptom Support? | Evidence Grade | Best Data |
+|---|---|---|---|---|
+| **Magnesium L-Threonate** | ✅ Possible | ✅ Yes | HIGH | RCT: ~7.5-year cognitive age reduction |
+| **Creatine** | ❌ Weak | ✅ Memory strain | MODERATE | Meta-analysis: +0.31 memory effect size; global cognition null |
+| **Lion's Mane** | ❌ No | ✅ Possible (MCI) | LOW-MODERATE | Preclinical strong; RCT weak |
+| **Bacopa monnieri** | ❌ No | ✅ Stress/mood | LOW-MODERATE | Anxiety benefit > cognition; recent RCT null |
+| **Phosphatidylserine** | ❌ No | ✅ Yes (MCI) | LOW-MODERATE | FDA qualified claim; MCI only |
+| **Omega-3 (DHA/EPA)** | ❌ No | ❌ No | LOW | VITAL trial: null for cognition |
+
+---
+
+### 27.2 MAGNESIUM L-THREONATE — THE STRONGEST SUPPLEMENT EVIDENCE
+
+> **Evidence quality: HIGH.** Only cognitive supplement with a randomized trial showing reversal of cognitive age.
+
+Magnesium L-Threonate (Magtein) uses L-threonic acid as a carrier that crosses the blood-brain barrier more efficiently than other magnesium forms, increasing brain magnesium levels and enhancing NMDA receptor activity and synaptic plasticity.
+
+**2024–2025 RCT data**: A double-blind, placebo-controlled trial in healthy adults with subjective sleep dissatisfaction showed:
+- **~7.5-year reduction in estimated brain cognitive age** vs. placebo at 6 weeks
+- Improved working memory and episodic memory
+- Faster reaction time
+- Some sleep quality improvements (HRV, HR)
+
+This is the strongest single cognitive supplement RCT finding in the literature for a healthy adult population. The effect size is modest but the direction (cognitive age reversal, not just symptom improvement) and the rigorous design are notable.
+
+**Caveats**: 6-week duration is short; "cognitive age" is an estimated composite, not an epigenetic clock measurement; independent replication is needed; this is one trial.
+
+**Recommendation**: The evidence is strong enough to consider. Low cost, excellent safety profile, broader benefits (sleep, anxiety, metabolic) from magnesium repletion at large.
+
+---
+
+### 27.3 OMEGA-3 — KILLED BY VITAL
+
+The VITAL trial cognitive sub-study (2022, large RCT) showed **no effect of EPA/DHA supplementation on cognitive decline** over 2.8 years. The hypothesis (DHA preserves brain structure) may require 5+ years to test given DHA's 2.5-year brain half-life, but at this point the burden of proof is on omega-3 proponents to run longer trials. The MEND protocol (omega-3 + exercise + diet) showed benefits only as a multimodal intervention — omega-3 alone did not drive the effect. Evidence: **LOW for cognitive aging prevention.**
+
+---
+
+### 27.4 RAPAMYCIN — PEARL TRIAL UPDATE (2024–2025)
+
+The PEARL trial (AgelessRx, n=114, 48 weeks, published 2024–2025):
+- **Safety**: Well-tolerated at both 5 mg/week and 10 mg/week doses
+- **Women on 10 mg**: Improved lean tissue mass; reduced pain scores
+- **Both sexes on 5 mg**: Improved subjective emotional well-being and general health
+- **Primary aging biomarkers**: No universal improvement; no lifespan data (trial too short)
+
+The Dog Aging Project TRIAD trial (210 of 580 dogs enrolled as of 2025, first 3-year completions expected) represents the most important rapamycin lifespan RCT in a mammal now running. NIH awarded $7M in 2025 to accelerate enrollment. First efficacy data expected 2026–2027.
+
+**Honest summary**: PEARL establishes safety and modest functional signals. Dog TRIAD is the pivotal experiment. Off-label human use appears safe at weekly pulsed doses based on PEARL and observational data, but carries no proven lifespan benefit yet.
+
+---
+
+### 27.5 NEW AGING CLOCKS: BEYOND GRIMSAGE AND DUNEDINPACE
+
+The epigenetic clock landscape has advanced significantly in 2024–2025.
+
+#### OMICmAge — Multi-Omic Clock
+
+Published *Nature Aging* 2024. The first DNA methylation clock integrating epigenetic biomarker *proxies* for proteins, metabolites, and clinical data:
+- Training cohort: n=3,451; validated on n=14,213 and n=18,672
+- **Outperforms GrimAge and DunedinPACE** in predicting incident CVD, diabetes, physical/cognitive decline, and all-cause mortality
+- Available via TruDiagnostic and other commercial labs
+
+#### Organ-Specific Proteomic Aging Clocks
+
+Published *Nature Aging* + *Lancet Digital Health* 2024–2025. Plasma proteomic signatures can now estimate biological aging rates for individual organs:
+- **~20% of people** show accelerated aging in at least one organ
+- **~1.7%** are "multi-organ agers"
+- Brain aging acceleration: **3.1× higher Alzheimer's risk** (comparable in effect to carrying APOE4)
+- Liver aging: HR 1.30 for multimorbidity burden
+- **Clinical implication**: Individual organ clocks enable targeted rejuvenation strategy — you're not aging uniformly, and the weakest organ predicts your mortality risk
+
+#### MRI-Based Multi-Organ Aging Clocks
+
+*Nature Medicine* 2025. Structural MRI features quantify biological age for 7 organs (brain, heart, liver, adipose, spleen, kidney, pancreas) non-invasively. AUC >0.8 for dementia prediction. Not routine yet ($1,000+ scan) but approaching clinical utility.
+
+#### P-tau217 — FDA-Approved AD Biomarker (May 2025)
+
+The Lumipulse G pTau217/β-Amyloid 1-42 plasma ratio was FDA-approved in May 2025 for adults 55+ with cognitive concern. Accuracy: 89–91% for brain amyloid pathology detection. Key fact: **~12% of 55-59 year-olds are already p-tau217 positive** (preclinical AD). This blood test allows detection of neurodegenerative aging trajectory 10–20 years before symptoms. It is not a general aging clock but it is the most actionable new aging biomarker to enter clinical practice in years.
+
+#### GlycanAge — IgG Glycosylation
+
+IgG glycosylation patterns (the "glycan biological age") reflect chronic inflammation state and are **more responsive to short-term lifestyle interventions** than DNA methylation clocks. GlycanAge raised $8.7M in December 2024 and is now offered in ~300+ preventive clinics. The main limitation: it measures inflammaging specifically, not the full aging biology spectrum. Useful as a lifestyle feedback tool; not a comprehensive aging measure. Evidence quality: **MODERATE as biomarker; no specific intervention evidence yet.**
+
+---
+
+### 27.6 STEM CELL THERAPIES FOR COGNITIVE AGING — LOMECEL-B UPDATE
+
+**Longeveron's Lomecel-B (Laromestrocel)** — allogeneic mesenchymal stem cells derived from young donors — published Phase 2b results in *Cell Stem Cell* (early 2026):
+- **n=148, ages 70+, mild-to-moderate frailty, 12-month follow-up**
+- **Primary outcome**: Single IV infusion improved 6-minute walk test by **63.4 meters vs. placebo** at month 9
+- **30.8% of treated patients reversed to "non-frail" status** vs. 14.8% placebo
+- **FDA path**: Phase 3 likely required before BLA submission; patent issued 2025 for inflammaging indication
+
+This is the most positive stem cell aging RCT result to date. The mechanism is paracrine anti-inflammatory: MSCs don't engraft permanently but secrete extracellular vesicles and growth factors that reset local inflammation. The caveat: this is Phase 2b from a single company; independent replication in Phase 3 is essential.
+
+**Why most MSC trials fail**: In vitro expansion causes MSC senescence, loss of potency, and altered secretome. Lot-to-lot variability is high. Aging is multifactorial and a single paracrine injection cannot address all hallmarks. Longeveron's approach (using young donor cells to maximize secretome potency) may have solved the expansion problem.
+
+---
+
+### 27.7 GENE THERAPY AND CRISPR FOR AGING — UPDATED STATUS
+
+**Life Biosciences ER-100** (AAV-delivered OSK partial reprogramming for optic neuropathy): FDA IND cleared; Phase 1 in Q1 2026. This is the first partial reprogramming program entering human trials. Safety data from this trial will be critical for the field.
+
+**Retro Biosciences** (Sam Altman-backed, ~$5B valuation attempt in 2025): AI-optimized Yamanaka factor variants (with OpenAI collaboration) show 50× higher reprogramming marker expression vs. wild-type *in vitro*. Animal studies underway; Australia human trials expected 2025–2026.
+
+**CASIN (CDC42 inhibitor for HSC rejuvenation)**: Aged mouse HSCs treated with CASIN showed **109% increase in median remaining lifespan** (4-day treatment in 124-week-old mice). No human IND filed; no pharmaceutical partner advancing this.
+
+**VERVE-102 (PCSK9 base editing for LDL-C)**: The second-generation PCSK9 CRISPR base editor showed 53% mean LDL reduction with no serious AEs in early cohorts (April 2025). Not an aging drug per se, but demonstrates that in vivo liver gene editing is clinically feasible and safe at this dose — directly relevant to aging research using AAV+CRISPR approaches.
+
+**Telomere gene therapy (Blasco)**: Robust mouse data (24% lifespan extension young mice, 13% old mice; no cancer increase). Telomere Therapeutics (Blasco's spinoff) pursuing pulmonary fibrosis and telomere syndrome indications first. No human aging trials.
+
+**The TERT/Libella story**: Libella Gene Therapeutics has been "weeks from trials" repeatedly since 2019. NCT04133454 exists in the registry. No published human data. Credibility low.
+
+---
+
+### 27.8 EVIDENCE QUALITY SUMMARY — NEW TOPICS
+
+| Intervention | Evidence Quality | Best Human Data | Primary Gap |
+|---|---|---|---|
+| **Senolytic vaccine (GPNMB)** | HIGH (preclinical) | None | Phase 1 needed |
+| **SenoVax** | MODERATE | IND approved; cancer Phase 1 recruiting | Aging trial after cancer data |
+| **LINE-1/NRTIs (lamivudine)** | MODERATE | 12 patients, biomarkers only | Larger trial in non-AD aging |
+| **STING inhibitors** | MODERATE | None | BBB penetrance problem |
+| **JAK inhibitors (ruxolitinib)** | HIGH (preclinical) | None (aging-specific) | NIA ITP interest; no trial |
+| **Colchicine (NLRP3)** | HIGH (CV RCT) | LoDoCo2: CV mortality benefit | Aging generalization unproven |
+| **HBOT** | LOW | n=35, no control, no replication | Properly controlled RCT needed |
+| **MOTS-c** | MODERATE (animal) | None | No IND; preclinical only |
+| **Humanin** | MODERATE (genetics) | None | No trials; delivery unsolved |
+| **Epitalon** | LOW | None | No independent replication |
+| **Magnesium L-Threonate** | HIGH | 7.5-yr cognitive age RCT | Needs replication; short follow-up |
+| **Omega-3 (cognition)** | LOW | VITAL: null | Large trial is negative |
+| **Lomecel-B (MSC)** | HIGH | Phase 2b: +63m 6MWT, frailty reversal | Phase 3 needed |
+| **Life Bio ER-100 (OSK)** | MODERATE | Phase 1 starting Q1 2026 | Safety data pending |
+| **OMICmAge clock** | HIGH | Validated n=30k+ | Clock reversal ≠ longevity |
+| **Organ-specific clocks** | HIGH | n=tens of thousands | Therapeutic targeting TBD |
+| **P-tau217** | HIGH | FDA-approved | AD-specific only |
+| **GlycanAge** | MODERATE | Validated biomarker | Narrow scope (inflammaging) |
+| **IL-11 inhibitors** | HIGH (preclinical) | LASN01 Phase 1 (safety) | Aging trial 2027-2029 |
+| **Rapamycin (PEARL)** | MODERATE | Phase 2: safety + modest efficacy | TRIAD dog data pending 2026-27 |

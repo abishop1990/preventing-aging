@@ -36,6 +36,7 @@
 25. [Peptides and Mitochondrial Microproteins: MOTS-c, Humanin, Epitalon](#peptides)
 26. [Advanced Senotherapy: Vaccines, LINE-1/NRTIs, and Senomorphics](#senotherapy)
 27. [Cognitive Aging: Nootropics, Brain-Specific Interventions, and New Clocks](#cognitive)
+28. [Telomere Biology Deep Dive: Gene Therapy, Editing, Biomarkers, and Commercial Hype](#telomere-deepdive)
 
 ---
 
@@ -2222,3 +2223,176 @@ This is the most positive stem cell aging RCT result to date. The mechanism is p
 | **GlycanAge** | MODERATE | Validated biomarker | Narrow scope (inflammaging) |
 | **IL-11 inhibitors** | HIGH (preclinical) | LASN01 Phase 1 (safety) | Aging trial 2027-2029 |
 | **Rapamycin (PEARL)** | MODERATE | Phase 2: safety + modest efficacy | TRIAD dog data pending 2026-27 |
+
+---
+
+## SECTION 28: TELOMERE BIOLOGY — WHAT ACTUALLY WORKS
+
+*Added March 2026 | Evidence basis: Jaskelioff 2011, Haycock 2017, Vlachos 2016, Alder 2015; commercial claims independently assessed*
+
+Telomeres are the repetitive TTAGGG sequences capping chromosome ends. They shorten with each cell division; when they reach a critical minimum, the cell enters replicative senescence or apoptosis. This is one of the original "hallmarks of aging" (López-Otín 2013/2023). The field has generated significant scientific insight and an outsized amount of commercial hype.
+
+**The core question:** Can we extend telomeres to extend lifespan? The honest answer in 2026: probably in mice, unproven in humans, harder than it sounds.
+
+---
+
+### 28.1 THE BASIC BIOLOGY
+
+Telomerase is the enzyme that extends telomeres. It has two core components:
+- **TERT** (Telomerase Reverse Transcriptase) — the catalytic subunit
+- **TERC/TR** (Telomerase RNA Component) — provides the template
+
+In adults, telomerase is active in stem cells, germ cells, and some immune cells but is largely silenced in somatic tissues. This is thought to be a tumor-suppression mechanism: most cancers reactivate telomerase (or use the alternative lengthening of telomeres / ALT pathway) to achieve replicative immortality.
+
+**The cancer paradox:** You need telomerase to avoid cellular senescence, but unrestricted telomerase is a cancer hallmark. Any therapeutic approach must navigate this tension.
+
+---
+
+### 28.2 TERT GENE THERAPY (AAV-TERT)
+
+**Evidence: MODERATE (animal); LOW (human) | COI: FLAGGED (Blasco spinoff)**
+
+The Blasco laboratory at the CNIO (Madrid) has produced the most rigorous academic data in this space:
+
+**Jaskelioff et al. 2011 (PMID: 21531975)**: AAV-mediated TERT delivery to aging mice extended median lifespan by approximately 21% in late-life-treated animals (treated at 12–24 months). Critically, cancer rates did NOT significantly increase. This paper is real, replicated in the Blasco group's follow-up work, and represents the strongest preclinical case for TERT therapy.
+
+**What the mouse data shows:** TERT reactivation in aged tissues reduces markers of cellular senescence, improves tissue regeneration, and extends healthspan as well as lifespan. Organ-level improvements were seen in muscle, liver, gut, kidney, and brain.
+
+**What it does NOT show:** Safety at longer timescales in cancer-prone individuals; translation to humans; whether the effect is additive with existing longevity interventions; or whether it works in the absence of pre-existing telomere shortening.
+
+**Telomere Therapeutics** (Blasco's spinoff, formerly known as Life Length spinoff): Pursuing therapeutic programs in dyskeratosis congenita (DC), idiopathic pulmonary fibrosis (IPF), and bone marrow failure — telomere-driven diseases rather than aging per se. This is the scientifically conservative entry point: prove safety and efficacy in monogenic telomere disorders before claiming aging reversal. No Phase 2 efficacy data published as of early 2026.
+
+**Why translation is hard:**
+1. Humans have much longer telomeres than mice at baseline and longer lifespans — the biology may not map directly
+2. AAV delivery to all tissues at therapeutic levels requires systemic administration with immunogenic risk
+3. Long-term cancer monitoring would require decades-long trials
+4. Regulatory path for a "slowing aging" indication does not exist — you'd have to choose a disease (DC, IPF) and prove efficacy there first
+
+---
+
+### 28.3 TA-65 AND SMALL-MOLECULE TELOMERASE ACTIVATORS
+
+**Evidence: LOW | COI: HIGH (TA Sciences commercial product)**
+
+TA-65 is cycloastragenol, a triterpenoid saponin derived from Astragalus membranaceus. It was identified by Geron Corporation's screening program and licensed to TA Sciences for commercialization.
+
+**The best published RCT** (Harley et al., 2011; ~100 subjects): TA-65 produced modest telomere lengthening (~25 bp/year difference vs. placebo) and some improvements in immune cell profiles. **The effect size is tiny.** Normal telomere length is ~5,000–15,000 bp; 25 bp/year is noise-level by most assays.
+
+**Critical problems:**
+- Most TA-65 studies are funded by or conducted by TA Sciences or affiliates
+- No study has shown a longevity benefit in humans
+- No study has measured cancer incidence in TA-65 users
+- The mechanism (partial telomerase activation via a non-transcriptional pathway) is plausible but not proven to be beneficial at these dose levels
+
+**Verdict: Not recommended.** The commercial interest is enormous; the independent evidence is not. No informed researcher currently endorses TA-65 as an evidence-based intervention.
+
+**Other small molecules:** Danazol and other androgens upregulate TERC expression and have shown modest benefit in telomere syndrome patients (see 28.6). No benefit for healthy aging. GRN510 and similar compounds remain in preclinical stages.
+
+---
+
+### 28.4 TELOMERE LENGTH AS A BIOMARKER
+
+**Evidence: MODERATE for association; LOW for causality**
+
+**Does short telomere length predict mortality?** Observational meta-analyses: yes, with consistent hazard ratios of ~1.2–1.5 for short vs. long LTL (leukocyte telomere length) across CVD, infection, and all-cause mortality. The association is real.
+
+**Is it causal?** This is where it gets complicated. Mendelian randomization studies (Haycock et al. 2017, PMID: 28604675) using genetic instruments for telomere length show:
+- Longer genetically-predicted telomeres → lower CVD risk (causal signal)
+- Longer genetically-predicted telomeres → higher cancer risk (especially melanoma, glioma, lung cancer)
+- Net lifespan effect: **weak and inconsistent**
+
+The leading interpretation: telomere length occupies a biological optimum — too short causes senescence-driven disease; too long enables cancer. This is the evolutionary explanation for why somatic telomerase is suppressed. Artificially shifting the distribution in one direction may help some diseases while worsening others.
+
+**Assay hierarchy (most to least accurate):**
+1. Flow-FISH — single-cell resolution, reference standard, low throughput
+2. Southern blot (TRF) — classic, accurate, labor-intensive
+3. TeloSeq (sequencing-based, Lai et al. 2018 PMID: 29518993) — high-throughput, emerging gold standard
+4. qPCR — widely used, cost-effective, technically variable; results not always comparable across labs
+
+**Clinical utility:** Leukocyte TL is a noisy signal. It reflects hematopoietic stem cell history, not necessarily the telomere status of brain, lung, or muscle. Tissue-specific measurement is more informative but impractical at scale.
+
+---
+
+### 28.5 DIRECT TELOMERE EDITING (CRISPR)
+
+**Evidence: LOW | No human data**
+
+In vitro proof-of-concept exists: CRISPR/Cas9 constructs with telomeric guide RNAs have been shown to extend telomere repeats in cultured cells (including in ALT-pathway cancer cells). But this faces severe barriers for therapeutic application:
+
+- **Delivery at scale:** Every somatic cell with short telomeres would require editing — essentially whole-body somatic gene therapy
+- **Off-target risk:** Telomeric repeats exist throughout the genome (interstitial telomeric sequences); off-target cuts are a major concern
+- **Verification:** Confirming uniform, safe editing across trillions of cells is not currently possible
+- **Alternative:** TERC modifications to engineer higher-activity telomerase variants are conceptually interesting but no published human-relevant data exists
+
+**Verdict: Fascinating biology, not a near-term therapeutic approach.** This is 10–20 years from clinical relevance at best, assuming safety problems can be solved.
+
+---
+
+### 28.6 TELOMERE SYNDROMES — WHAT THE DISEASES TEACH US
+
+**Evidence: MODERATE-HIGH (natural experiment)**
+
+The rare monogenic telomere disorders are the clearest demonstration that **telomere shortening causes accelerated aging-like pathology:**
+
+**Dyskeratosis congenita (DC):** Mutations in DKC1, TERC, TERT, TINF2, and others. Presents with bone marrow failure, nail dystrophy, oral leukoplakia, and high cancer risk. Affected individuals have dramatically shortened telomeres and classic premature aging features. Average lifespan ~40–50 years without bone marrow transplant.
+
+**Idiopathic Pulmonary Fibrosis (IPF):** ~30% of familial IPF cases carry telomere gene mutations (TERC, TERT, PARN, RTEL1). Short telomeres in type II pneumocytes drive premature senescence and progressive fibrosis. Alder et al. 2015 (PMID: 25717429) characterized this mechanism. This is the clearest case where tissue-specific telomere shortening directly causes organ-level disease.
+
+**Aplastic anemia, liver cirrhosis, myelodysplastic syndrome:** All can be telomere-syndrome manifestations.
+
+**Danazol for DC (PMID: 27959824 — Vlachos et al., NEJM 2016):** A randomized trial of the androgen danazol in ~25 DC patients. Androgens upregulate TERC transcription, partially restoring telomerase activity. Result: modest hematopoietic improvement (hemoglobin, neutrophils), but **no statistically significant telomere lengthening**. Some patients responded meaningfully; overall benefit modest. Androgens cause hepatotoxicity and virilization — not benign.
+
+**The lesson for aging:** These diseases prove that telomere maintenance is essential for stem cell compartments in humans. They do NOT prove that telomere extension beyond normal range extends lifespan. Correction of deficiency ≠ enhancement of normal function. The same principle applies to telomere therapies for non-syndrome individuals.
+
+---
+
+### 28.7 COMMERCIAL LANDSCAPE — RED FLAGS
+
+The telomere space has an unusually high density of commercial interest with an unusually low density of independent evidence. Proceed with extreme skepticism:
+
+**Libella Gene Therapeutics:** Repeatedly claimed to be "weeks from human trials" since 2019. NCT04133454 exists in ClinicalTrials.gov. No peer-reviewed publication of human data. Made claims about a patient who received AAV-TERT therapy without publishing the results in any journal. **Credibility: Very low. No independent data.**
+
+**Sierra Sciences (Bill Andrews):** Historically linked to TA-65 and small-molecule telomerase screening. Andrews is a legitimate telomere biologist; the transition to commercialization has outpaced the evidence. No major clinical readout.
+
+**TA Sciences / TA-65:** Extensively marketed, modestly studied. The few non-conflicted studies show minimal effect. The company-sponsored studies tend to find positive results. This is a textbook case of publication and sponsorship bias.
+
+**Life Length (telomere length testing service):** Offers commercial TL measurement — scientifically valid as a diagnostic, but clinical utility is limited given poor causality and assay variability.
+
+---
+
+### 28.8 ALT PATHWAY AND TERRA
+
+**Evidence: LOW for aging therapeutics**
+
+The Alternative Lengthening of Telomeres (ALT) pathway is a recombination-based mechanism for telomere maintenance active in ~10–15% of cancers (especially gliomas, sarcomas, osteosarcomas). It requires loss of ATRX/DAXX chromatin remodeling proteins. ALT activation in normal cells would be inappropriate and cancer-promoting — this is not a therapeutic avenue for aging.
+
+TERRA (Telomeric Repeat-Containing RNA) is a class of long non-coding RNAs transcribed from telomeric repeats. TERRA regulates telomere structure, DNA damage signaling, and heterochromatin. Research interest is high (Cusanelli & Chartrand 2015, PMID: 26001657), but no therapeutic application has emerged. Primarily basic science territory.
+
+---
+
+### 28.9 HONEST SYNTHESIS: WHERE THE FIELD STANDS
+
+The telomere theory of aging is mechanistically well-supported: cells divide, telomeres shorten, replicative senescence accumulates, tissue function degrades. This is real biology. But translating this into a human lifespan extension therapy has proven far more difficult than the early mouse data suggested.
+
+The field's most important recent shift is away from telomere extension as a primary strategy, toward **senescence clearance** (senolytics — Section 26) and **epigenetic reprogramming** (Section 27). If the downstream problem is accumulation of senescent cells, it may be more tractable to clear those cells (with dasatinib/quercetin, ABT-263, or future vaccines) than to rewind the telomere clock upstream.
+
+The most intellectually honest position: TERT gene therapy deserves careful clinical development through the telomere syndrome diseases (DC, IPF) where the causal pathway is clearest and the therapeutic need is highest. If that succeeds, the next question — whether it works in healthy aging — can be asked in appropriately powered trials. That is a decade away at minimum.
+
+For anyone self-experimenting with TA-65 or commercial telomere supplements: the evidence does not support their use for lifespan extension, and the long-term cancer risk at telomerase-activating doses has not been characterized.
+
+---
+
+### 28.10 EVIDENCE QUALITY SUMMARY — TELOMERE INTERVENTIONS
+
+| Intervention | Evidence Quality | Works (Humans)? | Key Data | COI |
+|---|---|---|---|---|
+| **TERT AAV gene therapy** | MODERATE (preclinical) | Unknown | +21% lifespan in aging mice; no cancer increase (PMID 21531975) | Founder-led |
+| **TA-65 / cycloastragenol** | LOW | No | ~25 bp/yr TL effect; no lifespan data; sponsored studies | HIGH |
+| **Danazol (telomere syndrome)** | MODERATE | Modest (DC only) | Modest hematopoietic benefit; no TL lengthening (PMID 27959824) | None |
+| **Libella TERT therapy** | VERY LOW | Unproven | No peer-reviewed human data | HIGH |
+| **CRISPR telomere editing** | LOW (in vitro) | Unproven | In vitro only; severe delivery barriers | None |
+| **Telomere length (biomarker)** | MODERATE | Association only | MR: weak causal effect; cancer trade-off (PMID 28604675) | None |
+| **ALT pathway activation** | LOW | No (unsafe) | Cancer-associated mechanism; no aging benefit | None |
+| **Imetelstat (TERT inhibitor)** | MODERATE (cancer) | Wrong direction | FDA-approved for MDS; shortens telomeres | Commercial |
+| **Telomere Therapeutics pipeline** | LOW-MODERATE | Unknown | Phase 1 in DC/IPF indications; no efficacy data | Founder-led |
+

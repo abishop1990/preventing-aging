@@ -6,11 +6,11 @@ Research into the science of why we age and what can actually be done about it �
 
 **[FINDINGS.md](./FINDINGS.md)** — What we know so far. The short version with evidence ratings.
 
-**[PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md)** — The full research document (~2,800+ lines, 32 sections, all citations). Sections 24–32 added March 2026 covering: nootropics, peptides, stem cells, gene therapy, senolytic vaccines, epigenetic reprogramming, advanced biomarkers, telomere biology, NIA ITP comprehensive review, thymic rejuvenation, ECM/AGEs, Urolithin A, circadian rhythms, sex differences, and social determinants.
+**[PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md)** — The full research document (~3,200+ lines, 37 sections, all citations). Sections 24–37 added March 2026 covering: nootropics, peptides, stem cells, gene therapy, senolytic vaccines, telomere biology, NIA ITP comprehensive review, thymic rejuvenation, ECM/AGEs, Urolithin A, circadian rhythms, sex differences, social determinants, glymphatic system, IGF-1/FOXO pathway, anti-inflammaging drug pipeline, methionine restriction, and international perspectives.
 
 **[REGULATORY_AND_ETHICS.md](./REGULATORY_AND_ETHICS.md)** — Why the evidence looks the way it does. FDA classification, supplement loopholes, stem cell crackdowns, international comparison, and the structural thesis.
 
-**[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 68 interventions (machine-readable). Updated March 2026.
+**[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 78 interventions (machine-readable). Updated March 2026.
 
 ## What This Is
 

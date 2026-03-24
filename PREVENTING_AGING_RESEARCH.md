@@ -41,6 +41,11 @@
 30. [Thymic Rejuvenation and Immunosenescence](#thymus)
 31. [Extracellular Matrix Aging, AGEs, and Urolithin A / Mitophagy](#ecm-ua)
 32. [Circadian Rhythms, Sex Differences, and Social Determinants of Aging](#circadian-sex-social)
+33. [The Glymphatic System — Sleep as Brain Maintenance](#glymphatic)
+34. [The IGF-1/FOXO Pathway — From C. elegans to Human Centenarians](#igf1-foxo)
+35. [Anti-Inflammaging Drug Pipeline: CANTOS, IL-1β, GDF-15, and NLRP3](#inflammaging-drugs)
+36. [Methionine Restriction, Dietary Protein, and the Longevity Trade-off](#methionine)
+37. [International Perspectives: Eastern and Non-English Longevity Research](#international)
 
 ---
 
@@ -2815,4 +2820,429 @@ This section is unusual in a longevity science document — but the evidence is 
 | **Loneliness → epigenetic aging** | MODERATE-HIGH | Actionable | Replication in diverse populations needed |
 | **ACEs and biological age** | MODERATE | Policy intervention | Long-term epigenetic reversal unproven |
 | **Purpose/ikigai** | MODERATE | Highly actionable | Confounding in observational data |
+
+
+---
+
+## SECTION 33: THE GLYMPHATIC SYSTEM — SLEEP AS BRAIN MAINTENANCE
+
+*Added March 2026 | Evidence basis: Xie et al. 2013 Science (PMID 24136970); Iliff et al. 2012 (PMID 22896057); Lucey 2021 cohort data; Bhatt 2022 sleep position work*
+
+---
+
+### 33.1 DISCOVERY AND MECHANISM
+
+The glymphatic system was described by Maiken Nedergaard's lab in 2012–2013, representing one of the most important neuroscience discoveries of the decade. The name combines "glial" and "lymphatic": like the body's lymphatic system, the glymphatic system is a waste-clearance network — but operating in the brain, driven by glial cells (specifically astrocytes).
+
+**Mechanism**: Cerebrospinal fluid (CSF) flows into the brain along periarterial spaces (the gaps between blood vessels and surrounding astrocyte endfeet). As CSF moves inward, it mixes with interstitial fluid (ISF) in the brain parenchyma, washing metabolic waste products out of the tissue. The waste-laden ISF then drains along perivenous spaces and eventually into the cervical lymphatic system. The exchange between CSF and ISF depends critically on **aquaporin-4 (AQP4)** water channels, which are expressed on astrocyte endfeet that wrap around brain blood vessels.
+
+**Why it matters for aging**: The brain is the most metabolically active tissue in the body. It generates massive amounts of metabolic waste — including amyloid-beta, tau, alpha-synuclein, lactate, glutamate, and oxidized lipids. Unlike peripheral tissues, the brain largely lacks conventional lymphatic vessels for waste removal. The glymphatic system is the brain's primary clearance mechanism for these waste products — and it shuts down or dramatically slows during wakefulness.
+
+---
+
+### 33.2 SLEEP DEPENDENCE OF GLYMPHATIC CLEARANCE
+
+Xie et al. 2013 (Science, PMID: 24136970) demonstrated that glymphatic transport is **60% more active during sleep than wakefulness** in mice. During slow-wave (NREM) sleep, interstitial space expands by ~60%, dramatically increasing the flow of CSF through brain tissue. The expanded space allows metabolite washout at rates simply not possible during waking hours.
+
+**Slow-wave sleep is the key stage**: Slow-wave sleep (deep NREM sleep, stages 3–4) generates large synchronized neural oscillations. These oscillations drive arterial pulsatility that mechanically pumps CSF through perivascular spaces. Light NREM sleep and REM sleep are less effective. As slow-wave sleep duration and quality decline with age (common from the 40s onward), this mechanical pumping action weakens.
+
+**Adenosine's role**: Sleep pressure builds via adenosine accumulation during wakefulness; adenosine drives the transition to NREM sleep. Caffeine works by blocking adenosine receptors — which is why regular caffeine use not only disrupts sleep architecture but may, over time, reduce slow-wave sleep quality. The aging-relevant implication: the late-life increase in sleep fragmentation means less consolidated slow-wave sleep → less efficient glymphatic clearance → faster amyloid accumulation.
+
+---
+
+### 33.3 AMYLOID, TAU, AND THE ALZHEIMER'S CONNECTION
+
+The clearance data is directly relevant to Alzheimer's disease. Amyloid-beta (Aβ) is produced continuously in healthy brains; the key question is whether the rate of clearance matches production. When clearance fails, Aβ accumulates into plaques. The glymphatic hypothesis: **Alzheimer's may be, in part, a sleep disorder** — or at least, poor sleep accelerates the amyloid cascade.
+
+**Human evidence**: Lucey et al. (multiple publications 2021–2023) measured CSF Aβ42 levels in individuals after experimental sleep disruption. Even a single night of poor sleep caused a ~25–30% increase in CSF amyloid-beta 42. Chronic sleep deprivation in observational cohorts correlates with faster amyloid accumulation on PET scans and higher tau levels in CSF. Importantly, the directionality appears bidirectional: amyloid accumulation also disrupts slow-wave sleep, creating a vicious cycle that may explain the steep cognitive decline phase of Alzheimer's.
+
+**Tau**: Tau clearance is also glymphatic-dependent. Tau released from neurons (whether from normal activity or neurodegeneration) must be cleared via glymphatic routes before aggregating. The p-tau217 biomarker now approved by the FDA (see Section 27) likely reflects both excess tau production and impaired clearance.
+
+**Alpha-synuclein**: Parkinson's disease pathology involves alpha-synuclein aggregation; there is emerging evidence that glymphatic failure contributes to alpha-synuclein accumulation in vulnerable brain regions. The anatomical overlap between regions of poor glymphatic coverage and regions of early Parkinson's pathology is being actively studied.
+
+---
+
+### 33.4 AGE-RELATED GLYMPHATIC DECLINE
+
+The glymphatic system deteriorates substantially with aging via at least three mechanisms:
+
+**AQP4 mislocalization**: In young brains, AQP4 is concentrated at astrocyte endfeet — the right place to facilitate perivascular water flux. With age, AQP4 distributes away from endfeet toward the cell body and processes. This mislocalization can reduce glymphatic transport efficiency by 40–60% by age 70. The mechanism involves declining polarity signals from the extracellular matrix (agrin, specifically), which normally anchor AQP4 at endfeet.
+
+**Perivascular space enlargement with dysfunction**: Counterintuitively, perivascular spaces enlarge with age and in cerebrovascular disease — but this reflects dysfunction, not enhancement. The enlarged spaces are filled with trapped fluid and debris that isn't clearing properly. Enlarged perivascular spaces on MRI are a recognized marker of small vessel disease and are associated with cognitive decline and dementia risk.
+
+**Arterial stiffness**: Glymphatic flow depends on the arterial pulsatility that drives CSF pumping. As arteries stiffen with age (the ECM problem discussed in Section 31), their pulsatility decreases. Less arterial pulse → less CSF pumping → less glymphatic clearance. This creates a direct mechanistic link between arterial stiffness (measured by pulse wave velocity) and brain waste clearance efficiency.
+
+---
+
+### 33.5 BODY POSITION, EXERCISE, AND BEHAVIORAL INTERVENTIONS
+
+**Sleep position**: Bhatt et al. (2022) found that lateral (side) sleeping positions improve glymphatic transport compared to supine or prone positions in rodents. The mechanism: lateral positioning aligns perivascular drainage pathways more efficiently. Human evidence is emerging but not yet definitive. Given that a simple behavioral change (side sleeping) is safe and potentially beneficial, this is worth noting as a low-cost intervention.
+
+**Exercise**: Physical activity increases cerebral blood flow, improves arterial compliance, and enhances slow-wave sleep quality — all of which should enhance glymphatic function. Direct measurements of glymphatic transport post-exercise confirm improved clearance in rodents. This is another mechanistic pathway by which exercise protects against dementia.
+
+**Alcohol**: Acute low-dose alcohol may briefly facilitate sleep onset but disrupts slow-wave sleep architecture and reduces overall sleep quality — reducing effective glymphatic clearance time. Chronic alcohol use causes significant glymphatic dysfunction, potentially contributing to alcohol-related cognitive decline and brain volume loss.
+
+---
+
+### 33.6 THERAPEUTIC ANGLES
+
+No approved glymphatic-targeting therapy exists. Research directions include:
+
+- **AQP4 potentiators**: Compounds that enhance AQP4 expression or restore endfeet localization could theoretically improve glymphatic function. Preliminary compounds have been identified in academic screens. No clinical program.
+- **Adenosine signaling**: Modulation of the adenosine system to increase slow-wave sleep quality without tolerance effects. This is more tractable than direct AQP4 manipulation.
+- **Slow-wave sleep enhancement**: Acoustic stimulation during slow-wave sleep (using sounds phase-locked to slow oscillations) has been shown to enhance slow-wave amplitude and improve some memory consolidation measures. Dreem headband (now Beacon Biosignals) has explored this commercially. No longevity RCT.
+- **DCE-MRI**: Dynamic contrast-enhanced MRI can measure glymphatic transport in living humans. This is emerging as a clinical tool for stratifying dementia risk and measuring intervention effects.
+
+---
+
+### 33.7 EVIDENCE SUMMARY
+
+| Mechanism/Intervention | Evidence Quality | Human Data | Key Gap |
+|---|---|---|---|
+| **Glymphatic clearance mechanism** | HIGH | Confirmed in humans (DCE-MRI) | Therapeutic translation |
+| **Sleep deprivation → amyloid increase** | HIGH | Yes (Lucey 2021, CSF Aβ) | Causality vs. correlation in AD |
+| **Age-related AQP4 mislocalization** | MODERATE-HIGH | Indirect (human PVS enlargement) | No AQP4-targeting therapy |
+| **Lateral sleep position benefit** | MODERATE | Emerging | Human RCT needed |
+| **Exercise → glymphatic improvement** | MODERATE | Indirect (CBF, SWS quality) | Direct human measurement lacking |
+| **AQP4 potentiators** | LOW (preclinical) | None | No clinical program |
+| **Slow-wave sleep enhancement** | MODERATE | Small trials | Longevity endpoint lacking |
+
+
+---
+
+## SECTION 34: THE IGF-1/FOXO PATHWAY — FROM WORM GENETICS TO HUMAN CENTENARIANS
+
+*Added March 2026 | Evidence basis: Kenyon 1993 C. elegans (PMID 8247153); Holzenberger 2003 mouse (PMID 12520305); Guevara-Aguirre 2011 Laron syndrome (PMID 21389293); Flachsbart 2009 FOXO3 meta-analysis (PMID 23269461)*
+
+---
+
+### 34.1 THE FOUNDATIONAL DISCOVERY: daf-2 AND C. ELEGANS
+
+In 1993, Cynthia Kenyon's lab at UCSF published a finding that permanently changed aging research: a single gene mutation doubles the lifespan of the nematode worm *Caenorhabditis elegans* (PMID: 8247153). The gene was *daf-2*, the worm's insulin/IGF-1 receptor. Loss-of-function mutations in *daf-2* extended median lifespan from ~18 to ~36 days — a 2× extension — without apparent loss of health or reproduction.
+
+The mechanism was entirely dependent on a second gene: *daf-16*, the worm's FOXO transcription factor. When *daf-2* signaling is reduced, *daf-16* translocates to the nucleus and activates hundreds of target genes involved in stress resistance, metabolism, immune function, and proteostasis. Crucially, this pathway is ancient and conserved: the mammalian equivalents of *daf-2* and *daf-16* are the insulin/IGF-1 receptor (IGF1R) and the FOXO family of transcription factors (FOXO1, FOXO3, FOXO4).
+
+Subsequent work revealed additional complexity: partial loss-of-function in *daf-2* (reducing but not eliminating IGF signaling) can produce even longer lifespans (up to 5× in *C. elegans*). The DAF-16/FOXO target gene repertoire includes superoxide dismutase (SOD-3), catalase, small heat shock proteins, immune effectors, and autophagy regulators — essentially a comprehensive cellular stress-resistance package.
+
+---
+
+### 34.2 THE MAMMALIAN PATHWAY AND ITS TRADE-OFFS
+
+**Mouse IGF-1R heterozygotes**: Holzenberger et al. 2003 (Nature, PMID: 12520305): Mice heterozygous for IGF-1R (one functional copy) lived approximately 26% longer than wildtype in females and 16% longer in males. This was achieved without growth retardation or developmental abnormalities — distinguishing reduced IGF-1R signaling from growth hormone deficiency per se.
+
+**The growth-longevity trade-off**: The IGF-1 pathway is the evolutionary machinery for "growth mode" — promoting cell division, anabolism, and reproduction when nutrients are plentiful. High IGF-1 signaling in youth drives development; chronically elevated IGF-1 in adulthood promotes cancer (by maintaining cells in a proliferative, anti-apoptotic state) and accelerates cellular aging (by suppressing FOXO-mediated stress responses). This is the textbook evolutionary trade-off between early-life fitness and late-life survival.
+
+**GH vs. IGF-1**: Growth hormone (GH) drives IGF-1 secretion from the liver. Multiple lines of evidence show that GH and IGF-1 elevation in aging is harmful: GH receptor knockout (Laron-type) mice live ~40% longer. The Ames dwarf mouse (Prop-1 mutation, lacking GH/TSH/prolactin) lives ~50% longer. These are the longest-lived mouse models known. Conversely, GH supplementation in healthy elderly humans (which elevates IGF-1 to youthful levels) has not improved longevity outcomes and may increase cancer risk.
+
+---
+
+### 34.3 LARON SYNDROME: NATURE'S HUMAN EXPERIMENT
+
+Laron syndrome is a rare autosomal recessive condition caused by loss-of-function mutations in the GH receptor gene (GHR). Affected individuals are profoundly GH-resistant: they have very high GH levels but cannot transduce GH signaling, resulting in extremely low IGF-1 (typically <30 ng/mL vs. normal ~100–300 ng/mL) and short stature (adults typically 100–130 cm tall).
+
+Jaime Guevara-Aguirre's cohort in Loja, Ecuador followed ~100 Laron syndrome patients over 22 years (PMID: 21389293). Key findings:
+- **Zero cases of cancer** in the Laron cohort vs. ~17% expected incidence in age-matched controls
+- **Zero cases of type 2 diabetes** despite many patients being obese
+- Relative protection from cardiovascular disease
+
+The cancer protection is particularly striking. The biological mechanism is clear: without IGF-1 signaling, cells are less proliferative and more prone to stress-induced apoptosis — exactly the opposite of the pro-oncogenic environment maintained by high IGF-1.
+
+**Caveats**: The Laron cohort is small (n~100). Lifespan data is complicated by early-life accidents and socioeconomic factors in the rural Ecuador population. The absence of cancer in a sample of ~100 may reflect small numbers rather than absolute protection. Nevertheless, the zero cancer / zero diabetes observation across decades of follow-up in a genetically defined cohort with extremely low IGF-1 is the strongest human evidence for the IGF-1/cancer trade-off.
+
+---
+
+### 34.4 FOXO3 AND HUMAN CENTENARIAN GENETICS
+
+If reduced IGF-1/FOXO suppression extends lifespan in worms and mice, we'd expect FOXO variants to be associated with human longevity. They are — and this is one of the most well-replicated GWAS findings in the longevity field.
+
+**The discovery**: Willcox et al. 2008 identified FOXO3 variants (initially rs2802292, rs13217795) associated with longevity in the Japanese-American Honolulu Heart Program cohort. This was immediately striking because the pathway was already mechanistically known from model organisms.
+
+**Replication across ethnicities**: The FOXO3 longevity association has now been replicated in Japanese, Italian, American, German, Chinese, Ashkenazi Jewish, and multiple other cohorts. A 2013 meta-analysis (Flachsbart et al., PMID: 23269461) across >25,000 individuals confirmed FOXO3 as the most consistently replicated longevity GWAS locus. Effect sizes are modest — odds ratios of 1.15–1.30 per protective allele for reaching 90+ or 100+ — but consistent.
+
+**What the FOXO3 variants actually do**: The longevity-associated SNPs are mostly intronic or in regulatory regions. The leading mechanistic hypothesis: they reduce baseline IGF-1/insulin-driven suppression of FOXO3, leaving the transcription factor slightly more active than in non-carrier individuals. The downstream effects mirror the experimental pathway: slightly better stress resistance, slightly enhanced autophagy, slightly better immune maintenance.
+
+**The ceiling**: FOXO3 variants explain only a small fraction of longevity variance. The genetic architecture of exceptional longevity is highly polygenic and environment-dependent. FOXO3 is the clearest genetic signal but is not "the longevity gene."
+
+---
+
+### 34.5 THERAPEUTIC IMPLICATIONS
+
+**Why not just suppress IGF-1?**: IGF-1 is required for muscle maintenance, bone density, neuronal survival, and insulin sensitivity in adults. Suppressing it pharmacologically would cause sarcopenia, osteoporosis, and metabolic dysfunction — the opposite of healthy aging. The therapeutic window, if any, is narrow.
+
+**Intermittent vs. chronic suppression**: The fasting-mimicking diet (Section 36) transiently lowers IGF-1 by 40–50% — potentially capturing some FOXO3 activation benefit during fasting cycles without the chronic side effects of sustained suppression. This is the theoretical basis of the Longo FMD approach.
+
+**FOXO3 activators**: Small molecules that directly activate FOXO3 or reduce AKT-mediated FOXO3 phosphorylation are in preclinical development. No clinical-stage FOXO3 activator exists as of early 2026. The challenge: FOXO3 has important roles in cancer suppression but also in immune cell function and hematopoiesis; systemic FOXO3 activation could have off-target effects.
+
+**GLP-1 receptor agonists and IGF-1**: Interestingly, semaglutide and related GLP-1RAs substantially reduce IGF-1 as part of their metabolic effects. Whether this contributes to their cardiovascular mortality reduction (SELECT trial) via this pathway is speculative but biologically plausible.
+
+---
+
+### 34.6 EVIDENCE SUMMARY
+
+| Finding | Evidence Quality | Key PMID |
+|---|---|---|
+| **daf-2 loss-of-function: 2× C. elegans lifespan** | HIGH (foundational) | 8247153 |
+| **IGF1R+/− mice: 16–26% lifespan extension** | HIGH | 12520305 |
+| **Laron syndrome: zero cancer/diabetes (small n)** | MODERATE (small cohort) | 21389293 |
+| **FOXO3 longevity GWAS (multi-ethnic replication)** | HIGH | 23269461 |
+| **GH supplementation: no longevity benefit in humans** | MODERATE | 18073360 |
+| **FMD → IGF-1 reduction → FOXO3 activation (humans)** | MODERATE | 28356564 |
+| **FOXO3 activator drugs** | LOW (preclinical only) | N/A |
+
+
+---
+
+## SECTION 35: ANTI-INFLAMMAGING DRUG PIPELINE — CANTOS, IL-1β, AND GDF-15
+
+*Added March 2026 | Evidence basis: CANTOS main trial (PMID 28654312); CANTOS cancer sub-study (PMID 29059438); LoDoCo2 (PMID 30728706); GDF-15 mortality cohorts*
+
+---
+
+### 35.1 THE CANTOS TRIAL — THE MOST IMPORTANT ANTI-INFLAMMAGING HUMAN DATA
+
+The CANTOS (Canakinumab Anti-inflammatory Thrombosis Outcomes Study) trial is arguably the most important piece of human evidence that chronic inflammation — independent of cholesterol or metabolic risk factors — drives aging-related disease. Published in 2017 (Ridker et al., NEJM, PMID: 28654312), CANTOS enrolled 10,061 post-myocardial infarction patients with persistently elevated hsCRP (≥2 mg/L), randomized to canakinumab (an anti-IL-1β monoclonal antibody) at 50, 150, or 300 mg quarterly or placebo.
+
+**Primary cardiovascular result**: The 150 mg dose achieved a 15% relative reduction in major adverse cardiovascular events (MACE) — HR 0.85 (95% CI 0.74–0.98), p=0.021. This is significant but modest, and the 300 mg dose did not show additional benefit (suggesting a dose-response plateau around 150 mg).
+
+**The cancer result — the blockbuster finding** (Ridker et al. 2017, Lancet, PMID: 29059438): In the same trial, canakinumab produced:
+- 51% reduction in lung cancer mortality
+- 67% reduction in lung cancer incidence
+- Significant reduction in fatal cancer overall
+
+The cancer finding emerged as a pre-specified exploratory analysis. The biology is compelling: IL-1β is a key tumor-promoting cytokine, driving pro-inflammatory tumor microenvironments, angiogenesis, and immune suppression around tumors. CANTOS provided the first large-scale human RCT evidence that an anti-inflammatory intervention reduces cancer incidence — not just cancer progression.
+
+**The safety trade-off**: Canakinumab significantly increased fatal infections (approximately 1 per 1,000 person-years excess risk) — reflecting the biological cost of suppressing IL-1β, a key innate immune signaling molecule. This safety concern is real and limits the intervention in immunocompromised or infection-prone individuals.
+
+**What CANTOS proves for aging science**: It demonstrates that the chronic low-grade inflammation associated with aging (inflammaging) is not merely a biomarker — it is CAUSAL for both cardiovascular disease and cancer, the two leading causes of aging-related death. This mechanistic proof is more valuable than any single effect size.
+
+**What CANTOS does NOT prove**: It does not prove that anti-inflammaging therapy extends healthy lifespan in non-post-MI individuals. All subjects had existing cardiovascular disease. The effect in healthy aging individuals with moderate inflammation is unknown.
+
+---
+
+### 35.2 IL-1β BIOLOGY AND THE NLRP3 INFLAMMASOME
+
+Understanding why IL-1β is the central inflammaging cytokine requires understanding its activation mechanism.
+
+**The NLRP3 inflammasome**: NLRP3 is a cytosolic pattern recognition receptor that assembles a multi-protein complex (the inflammasome) in response to "danger signals": crystalline uric acid, cholesterol crystals, amyloid fibrils, extracellular ATP, oxidized lipids, and other damage-associated molecular patterns (DAMPs) that accumulate with aging. When NLRP3 activates, it recruits the adapter protein ASC and procaspase-1; procaspase-1 cleaves into active caspase-1; caspase-1 then cleaves pro-IL-1β and pro-IL-18 into their active forms. Active IL-1β is then secreted to drive systemic inflammation.
+
+**Why NLRP3 becomes chronically active with aging**: The DAMPs that trigger NLRP3 accumulate with age — cholesterol crystals in atherosclerotic plaques, uric acid crystals in joints, amyloid in the brain. Mitochondrial dysfunction generates oxidized mitochondrial DNA that activates NLRP3. LINE-1 retrotransposon activation (Section 26) generates cytosolic DNA that activates cGAS-STING, which cross-activates NLRP3. The result: aging creates a chronic low-level NLRP3 activation state even in the absence of acute infection.
+
+**NLRP3 inhibitor pipeline**: Direct NLRP3 inhibitors represent the most mechanistically targeted approach to inflammaging:
+- **MCC950 (CMPD4)**: The most-studied preclinical NLRP3 inhibitor. Potent and selective in animal models; significant toxicity issues have limited human translation. No current clinical program for aging.
+- **Inzomelid (formerly OLT1177, Novartis)**: Oral NLRP3 inhibitor. Phase 2a completed in gout and heart failure. Better tolerated than MCC950 in early studies. Not yet tested in aging-specific trials.
+- **Dapansutrile (OLT1177 topical)**: Lower dose, topical formulation for joint inflammation.
+- **NBC6 (NodThera/Novo Nordisk)**: CNS-penetrant NLRP3 inhibitor; particularly interesting for neurodegeneration.
+
+**Colchicine vs. NLRP3 inhibitors**: Colchicine disrupts microtubule-mediated NLRP3 inflammasome assembly and NFAT signaling — a broader mechanism than specific NLRP3 inhibitors. LoDoCo2 proved its CV benefit (Section 26). Its advantage: decades of safety data, very low cost, generically available. Its limitation: broader mechanism with more off-target effects; GI side effects at standard doses.
+
+---
+
+### 35.3 GDF-15 — THE BEST SINGLE AGING BIOMARKER YOU'VE NEVER HEARD OF
+
+Growth Differentiation Factor 15 (GDF-15) is a member of the TGF-β superfamily. It is expressed at low levels in most tissues at baseline and dramatically upregulated in response to cellular stress: DNA damage, mitochondrial dysfunction, oxidative stress, hypoxia, cancer, and inflammation. It acts via the GFRAL receptor in the hindbrain to suppress appetite, reduce body weight, and cause nausea — explaining the anorexia and cachexia associated with cancer and serious illness.
+
+**As a mortality biomarker**: GDF-15 is emerging as arguably the strongest single biomarker for all-cause mortality across multiple large prospective cohorts:
+- In general population studies, each standard deviation increase in plasma GDF-15 carries an approximate hazard ratio of 1.5–2.9 for all-cause mortality
+- It outperforms hsCRP, IL-6, and TNF-α for mortality prediction in most head-to-head comparisons
+- It predicts cardiovascular death, cancer death, and non-cardiovascular/non-cancer death — suggesting it captures a general cellular stress signal
+
+**The paradox — when GDF-15 elevation is GOOD**: Several established longevity interventions INCREASE GDF-15:
+- **Metformin**: Elevates GDF-15 substantially via mitochondrial complex I inhibition and integrated stress response activation. This appears to be how metformin reduces appetite and body weight. The GDF-15 response may partially mediate metformin's potential longevity effects (AMPK activation is not the whole story).
+- **Caloric restriction**: Activates GDF-15 as a cellular stress signal during nutrient deprivation; this is part of the adaptive response to fasting, not a danger signal.
+- **Exercise**: Transiently increases GDF-15 after acute exercise via muscle-derived secretion.
+
+This creates a complex interpretation: chronically elevated baseline GDF-15 (reflecting chronic unresolved cellular stress) is a bad prognostic sign; transiently elevated GDF-15 from adaptive stressors (exercise, fasting, metformin) may be a healthy adaptive signal. The difference may be context-dependent and the distinction is not yet fully clinically operationalized.
+
+**Therapeutic targeting**: A GDF-15 analog (mimetic) could theoretically provide appetite suppression and weight loss without the other side effects of GLP-1 receptor agonists. Amgen has an active program here (AMG 786). This is an obesity drug, not an aging drug per se — but obesity is a major driver of accelerated biological aging.
+
+---
+
+### 35.4 TOCILIZUMAB, ANAKINRA, AND IL-6 PATHWAY
+
+**Tocilizumab (anti-IL-6 receptor, Roche/Genentech)**: Widely used for rheumatoid arthritis and cytokine release syndrome (COVID-19). The MEASURE cardiovascular outcome trial was largely negative for hard CV endpoints (PMID: 32788385). Interesting observation: long-term RA patients on tocilizumab appear to have slower biological aging (assessed by epigenetic clocks) than untreated RA patients with equivalent disease activity — but this is observational data with severe confounding.
+
+**Anakinra (IL-1 receptor antagonist)**: Shorter half-life recombinant IL-1Ra. Less potent IL-1β inhibition than canakinumab; requires daily injection. No cardiovascular outcome trial of the CANTOS scale. The DHART2 trial (acute decompensated heart failure) showed IL-1 inhibition with anakinra improved cardiorespiratory fitness (peak VO2) and quality of life. Evidence building for heart failure; not yet for aging per se.
+
+---
+
+### 35.5 EVIDENCE SUMMARY
+
+| Intervention | Evidence Quality | Human Data | Key Limitation |
+|---|---|---|---|
+| **Canakinumab (anti-IL-1β)** | HIGH | CANTOS: CV + cancer reduction | Post-MI only; infection risk; cost |
+| **NLRP3 inhibitors (Inzomelid)** | MODERATE | Phase 2a gout/HF | No aging trial |
+| **Colchicine (NLRP3 downstream)** | HIGH | LoDoCo2: CV benefit proven | No all-cause mortality signal; aging unproven |
+| **Tocilizumab (anti-IL-6R)** | MODERATE | MEASURE: CV null | IL-6 alone insufficient for CV disease |
+| **GDF-15 (biomarker)** | HIGH | Validated in large cohorts | Context paradox unresolved clinically |
+| **GDF-15 agonist (AMG 786)** | LOW | Phase 1–2 obesity | Not an aging drug; obesity adjacent |
+
+
+---
+
+## SECTION 36: METHIONINE RESTRICTION, DIETARY PROTEIN, AND LONGEVITY
+
+*Added March 2026 | Evidence basis: Miller et al. 2005 MetR mice (PMID 15454406); Levine et al. 2014 protein-mortality curve (PMID 24606898); Brandhorst et al. 2015 FMD mice (PMID 26094889); FGF21 mechanism (PMID 20473289)*
+
+---
+
+### 36.1 METHIONINE RESTRICTION: THE DIETARY LONGEVITY SIGNAL YOU CAN'T SUPPLEMENT
+
+**Mouse lifespan data**: Restricting dietary methionine (Met) to ~0.17% of diet (from the standard ~0.43–0.86%) extends median lifespan by 20–30% in multiple mouse strains — a magnitude comparable to caloric restriction (PMID: 15454406, Miller et al. 2005). Critically, methionine restriction achieves this WITHOUT reducing caloric intake, making it mechanistically distinct from CR and addressing the compliance problem inherent to food restriction.
+
+**What makes methionine special among amino acids?** Methionine sits at the heart of one-carbon metabolism. Methionine → SAM (S-adenosylmethionine) → drives DNA methylation, histone methylation, and dozens of epigenetic reactions. Methionine also donates to homocysteine, GSH synthesis, and the trans-sulfuration pathway (which produces taurine and cysteine). When methionine is restricted:
+- SAM levels fall → methylation patterns shift (effects on gene expression not fully characterized)
+- Homocysteine may rise (potential negative effect; complex interaction with B vitamins)
+- FGF21 is induced dramatically (the key mediator — see below)
+- IGF-1 falls
+- Body temperature drops slightly (a common longevity correlate)
+- Oxidative stress markers improve
+
+**FGF21 as the primary mediator**: Fibroblast Growth Factor 21 is a liver-secreted hormone upregulated strongly by dietary protein restriction, fasting, methionine restriction, and ketogenic diets. FGF21 acts on the hypothalamus (via beta-klotho receptor) and adipose tissue to improve insulin sensitivity, enhance fatty acid oxidation, reduce IGF-1, suppress appetite, and improve body composition. Multiple lines of evidence show FGF21-knockout mice do NOT benefit from methionine restriction — placing FGF21 downstream and required in the pathway.
+
+FGF21 has its own aging relevance independently of MetR: transgenic FGF21 overexpression extends mouse lifespan by ~36% in females and ~30% in males (PMID: 22065574). FGF21 analogs (pegbeltafermin, efruxifermin) are in clinical development for NAFLD/MASH. None have longevity endpoints.
+
+**The glycine/ITP connection**: The NIA ITP found ~6% female lifespan extension with glycine supplementation. A leading hypothesis is that glycine dilutes effective methionine in one-carbon metabolism — essentially a partial methionine restriction phenotype achieved through supplementation rather than dietary restriction. This would provide a simple, inexpensive way to partially capture MetR benefits. The mechanism needs direct verification (FGF21 measurements, SAM/SAH ratios in glycine-supplemented ITP mice) but is biologically plausible.
+
+---
+
+### 36.2 THE PROTEIN-LONGEVITY PARADOX ACROSS THE LIFESPAN
+
+**High protein in midlife is harmful; high protein in elderly is required.** This is the central finding from the large Levine et al. 2014 cohort study (n=6,381, NHANES III, 18-year follow-up, PMID: 24606898):
+
+- **Ages 50–65**: Adults in the highest protein intake tertile (>20% calories from protein) had a 75% increased all-cause mortality compared to the lowest tertile (<10%), after adjustment. Comparable risk magnitude to smoking 20 cigarettes/day for this age group.
+- **Ages 65+**: The relationship REVERSED. High protein intake in elderly individuals was associated with 21–60% LOWER mortality, depending on the protein source.
+
+The mechanism for the midlife reversal: dietary protein is the primary mTOR activator. High protein → high mTOR → suppressed autophagy → faster cellular aging. But in the elderly, adequate protein is required to prevent sarcopenia and maintain muscle mass; at lower intake, the anabolic resistance of aged muscle means even adequate calories don't fully compensate.
+
+**Leucine as the key signal**: Of all amino acids, leucine is the most potent mTOR activator (via the GATOR2/LRS sensor complex). Leucine-rich foods (animal proteins, particularly dairy and eggs) drive the greatest mTOR activation per gram of protein. Plant proteins are generally lower in leucine and methionine — potentially explaining part of the vegetarian longevity association.
+
+**The anabolic resistance problem in elderly**: Aged muscle has reduced sensitivity to amino acid-stimulated protein synthesis. The protein synthesis response per gram of leucine is 40–50% lower in 70-year-olds than 30-year-olds. This is why elderly individuals need MORE dietary protein per kg body weight than young adults to maintain muscle mass — the opposite of what you'd prescribe based purely on mTOR longevity logic.
+
+**Practical implication**: There is likely a protein intake curve that optimizes for longevity at different ages. Current data suggests:
+- Middle-aged adults (50–65): moderate protein (~1.0–1.2 g/kg/day), emphasizing plant sources (lower Met, leucine); time-restricted eating or fasting periods to get periodic mTOR suppression
+- Elderly adults (70+): higher protein (~1.5–2.0 g/kg/day), including adequate leucine for muscle protein synthesis; resistance training to improve anabolic sensitivity
+
+---
+
+### 36.3 THE FASTING-MIMICKING DIET (FMD) — VALTER LONGO'S APPROACH
+
+Valter Longo's group at USC has developed a periodic fasting-mimicking diet (FMD) — 5 days per month of low-calorie, low-protein, high-fat nutrition — designed to create the metabolic state of fasting (low IGF-1, low insulin, low mTOR) while remaining more practically compliant than complete fasting.
+
+**Mouse data** (Brandhorst et al. 2015, Cell Metabolism, PMID: 26094889): Mice on periodic FMD (reduced calorie/protein for 4 days every 2 weeks) showed ~10–15% lifespan extension, reduced cancer incidence, improved cognitive performance, and regenerative effects in multiple organs. IGF-1 levels during the FMD cycles dropped ~40%.
+
+**Human Phase 2 trial** (Wei et al. 2017, Science Translational Medicine, PMID: 28356564): 100 subjects randomized to 3 months of monthly FMD vs. control diet. FMD group showed: IGF-1 down ~15%, insulin down ~30%, systolic BP down ~4 mmHg, BMI down 0.8 kg/m², and a reduction in biological age as assessed by a multi-system algorithm. These are encouraging short-term biomarker effects.
+
+**Limitations**: No long-term human RCT with mortality or hard disease endpoints. The biomarker improvements are real but modest. Whether the brief monthly cycles create lasting biological benefit or simply reflect the biochemical state during fasting is unknown. Longo's commercial interest (the ProLon FMD product line via L-Nutra) creates COI. Independent academic replication with proper controls is needed.
+
+---
+
+### 36.4 DIETARY PATTERNS AND THE VEGETARIAN LONGEVITY SIGNAL
+
+Observational evidence (multiple large cohort studies: Adventist Health Study 2, Oxford EPIC, EPIC-Oxford) consistently shows vegetarians/vegans have 10–15% lower all-cause mortality compared to matched omnivores. However, confounding is substantial:
+- Vegetarians tend to be higher SES, more physically active, smoke and drink less
+- When all confounders are adjusted, the mortality reduction narrows to perhaps 5–8%
+- The mortality signal is driven primarily by reduced cardiovascular disease; cancer mortality differences are smaller
+
+The potentially relevant dietary mechanisms (beyond simply avoiding meat-related risks):
+- Lower methionine intake (plant proteins lower in Met and leucine)
+- Higher polyphenol intake (quercetin, resveratrol, catechins — each individually weak but combined may matter)
+- Higher fiber intake → better gut microbiome → lower TMAO, lower LPS-driven inflammation
+- Lower dietary AGE intake (cooking method matters; raw and plant foods generate fewer AGEs than high-temperature meat cooking)
+
+---
+
+### 36.5 EVIDENCE SUMMARY
+
+| Intervention | Evidence Quality | Human Data | Key Gap |
+|---|---|---|---|
+| **Methionine restriction (mice)** | HIGH (animal) | None (zero RCTs) | Human translation completely unstudied |
+| **FGF21 as MetR mediator** | HIGH (mechanistic) | Analog drugs in NAFLD Phase 2-3 | No longevity trial |
+| **Glycine supplementation (ITP)** | MODERATE | ITP: 6% female mouse lifespan | Mechanism unconfirmed; human data lacking |
+| **Protein-mortality curve (humans)** | MODERATE-HIGH | Levine 2014: large observational cohort | Observational; confounding possible |
+| **FMD (Longo)** | MODERATE | Phase 2: biomarkers positive | No mortality RCT; COI present |
+| **Vegetarian diet** | MODERATE (observational) | Large cohort associations | Confounded; effect size modest |
+| **Leucine/mTOR targeting** | MODERATE (mechanistic) | Indirect (protein restriction studies) | No leucine-restriction aging RCT |
+
+
+---
+
+## SECTION 37: INTERNATIONAL PERSPECTIVES — EASTERN AND NON-ENGLISH LONGEVITY RESEARCH
+
+*Added March 2026 | Covers: Japanese gerontology, Chinese centenarian populations, Korean research, Soviet/Russian contributions, Mediterranean epidemiology*
+
+The majority of this document draws from English-language journals (Nature, Cell, NEJM, Lancet, Science). This is appropriate because most of the world's peer-reviewed longevity science is published in English — including most research originating from Japan, China, and South Korea, where high-impact findings go directly to international journals. However, there are specific areas where non-English-language sources contain unique data, or where Eastern scientific traditions have produced insights that deserve direct assessment.
+
+---
+
+### 37.1 JAPAN — THE WORLD'S AGING RESEARCH LABORATORY
+
+Japan has the highest life expectancy of any major nation and hosts the world's most well-characterized centenarian populations. The country is, by demographic necessity, the most advanced in practical geriatrics and aging science.
+
+**Okinawa as a natural experiment**: The Okinawa Centenarian Study (Willcox et al., published in English across multiple decades) documented that pre-1990 Okinawa had the highest concentration of centenarians per capita globally, lowest rates of cardiovascular disease, breast cancer, and prostate cancer, and remarkably low levels of free radical damage in nonagenarians. Key dietary features: very high consumption of sweet potatoes (high in purple anthocyanins, caloric restriction-adjacent calorie density), seaweed (iodine, fucoxanthin, sulfated polysaccharides), low caloric density overall. The traditional Okinawan dietary practice of *hara hachi bu* ("eat until 80% full") is behavioral caloric restriction operationalized culturally.
+
+**The westernization reversal**: Post-1990 Okinawa's longevity advantage has largely disappeared in younger generations as diet and lifestyle westernized — validating the dietary causation hypothesis. This is a natural longitudinal experiment that would be impossible to design.
+
+**NCGG (National Center for Geriatrics and Gerontology, Obu, Japan)**: Produces large-scale epidemiological data on aging in Japanese populations, much of it published in Japanese medical literature first and later translated or summarized in English. Their frailty studies, dementia incidence data, and sarcopenia definitions have influenced global geriatric guidelines. The NCGG-SGS (NCGG-Study on Geriatric Syndromes) follows 5,000+ community-dwelling elderly.
+
+**Fermented foods**: Japan's heavy consumption of miso, natto, and other fermented foods is frequently cited in longevity discussions. Natto contains vitamin K2 (menaquinone-7) in concentrated amounts; there is reasonable evidence K2 improves vascular calcification outcomes and may affect bone health. The published RCT evidence for K2 and cardiovascular outcomes comes primarily from Japanese and Dutch cohorts (the Rotterdam Study).
+
+**Japanese pharmacology**: Some compounds studied in Japan have not received equivalent attention in Western literature. Proteoglycan (from salmon nasal cartilage), various Kampo herbal formulations, and specific antioxidant compounds (astaxanthin from Haematococcus algae — a Japanese aquaculture byproduct) have been studied primarily in Japanese clinical trials. Astaxanthin shows anti-inflammatory and mitochondrial-protective properties; it has not been ITP-tested; the evidence base is predominantly sponsored and of modest size.
+
+---
+
+### 37.2 CHINA — BAMA CENTENARIANS AND EMERGING BASIC SCIENCE
+
+**Bama County, Guangxi**: Bama is sometimes called "the longevity village" with one of the highest centenarian-per-capita densities globally (~30 per 100,000 vs. ~5–10 in most developed countries). Multiple Chinese-language studies and some English-language publications have characterized dietary patterns (high in brown rice, corn, hemp seed oil, river fish; low in overall protein), lifestyle (high physical activity into old age, strong social cohesion), and genetic characteristics. The scientific quality varies; several published Chinese studies on Bama centenarians lack the methodological rigor of the Okinawa Centenarian Study.
+
+**Chinese Academy of Sciences aging research**: Several Chinese labs now publish competitive basic aging science in Nature Aging, Cell, and Science. The work on NAD+ biology from the Xiaodong Wang group, CRISPR-based aging studies from IGDB Beijing, and single-cell aging atlases from Beijing Genomics Institute have been incorporated into the mainstream English literature and are cited appropriately throughout this document.
+
+**Traditional Chinese Medicine (TCM) longevity herbs**: The most frequently claimed TCM longevity compounds (Astragalus membranaceus, Goji berry/Lycium barbarum, Panax ginseng, Rhodiola rosea, He Shou Wu/Fo-Ti) have been studied primarily in Chinese-language journals and low-quality English publications. Honest assessment:
+
+- *Astragalus membranaceus*: Contains cycloastragenol (the basis for TA-65); some polysaccharides with immune-modulatory effects. Evidence quality: LOW for longevity. Many Chinese studies are sponsored.
+- *Lycium barbarum (Goji)*: Contains zeaxanthin and polysaccharides; some neuroprotective animal data; human trials primarily on eye health. Evidence: LOW for longevity.
+- *Panax ginseng / ginsenosides*: Ginsenosides (Rg1, Rb1, Rb3 etc.) have multiple mechanistic effects — AMPK activation, mitochondrial protection, anti-inflammatory. Small human trials show metabolic benefits. Evidence: MODERATE for metabolic health, LOW for longevity.
+- *Rhodiola rosea*: Adaptogen; increases C. elegans lifespan ~20% via DAF-16 pathway. Human data primarily on stress/cognition. Evidence: LOW-MODERATE for stress resilience, LOW for longevity.
+- *He Shou Wu (Polygonum multiflorum)*: Claimed to increase longevity in Chinese tradition. Major concern: known hepatotoxicity — causes drug-induced liver injury; multiple case reports and FDA warnings. Evidence: NEGATIVE (harm > benefit at standard doses).
+
+---
+
+### 37.3 SOUTH KOREA — BIOMARKER AND CELL BIOLOGY RESEARCH
+
+Korean research has made significant contributions to two areas specifically relevant to aging:
+
+**Cellular reprogramming**: Korean biotech and academic groups have published competitive work on partial reprogramming factors and alternative reprogramming cocktails. The Kaist and Seoul National University groups have published significant OSK and OKSM mechanistic papers, though most competitive results are published in English.
+
+**Senolytics and biomarker development**: The Korean biogerontology community (particularly groups at Ulsan and POSTECH) has contributed to cGAS-STING pathway biology and senescence-associated secretome characterization.
+
+**Longevity centenarian cohorts**: The Korean Centenarian Study follows ~100 centenarians and their offspring; similar in design to Japanese studies. Publications have appeared in both Korean and English literature. Findings generally align with Japanese centenarian data (FOXO3 variants, lower IGF-1, favorable adipokine profiles).
+
+---
+
+### 37.4 RUSSIA AND SOVIET GERONTOLOGY — UNDERAPPRECIATED CONTRIBUTIONS
+
+**Vladimir Khavinson and bioregulatory peptides**: The work on short peptides (epithalamin, thymalin, pinealon, and related compounds) originated in the Soviet military-medical complex under Khavinson at the St. Petersburg Institute of Bioregulation and Gerontology. This is the source of Epitalon (Section 25). The theoretical framework — that short peptides can reset epigenetic patterns by acting as transcription factor binding analogs — is actually scientifically interesting, even if the specific claims for Epitalon are inadequately substantiated by independent evidence.
+
+**Alexei Olovnikov's telomere hypothesis**: Before Blackburn and Greider's Nobel Prize-winning telomerase work, the Soviet scientist Alexei Olovnikov independently proposed in 1971 (published in Russian, then translated to English in 1973) that chromosomes should shorten with each cell division — the theoretical prediction that preceded experimental confirmation by a decade. This is an often-forgotten contribution to the telomere field.
+
+**Vladimir Dilman's neuroendocrine theory**: Dilman proposed in the 1950s–1970s that aging is driven by progressive hypothalamic resistance to hormonal feedback — essentially a neuroendocrine program theory of aging. His work, mostly published in Russian and translated incompletely, anticipated the HPA axis dysregulation now understood to accelerate aging. Some of his predictions about the benefits of metformin for aging were made decades before the TAME trial was conceived.
+
+---
+
+### 37.5 MEDITERRANEAN — SARDINIA AND THE BLUE ZONES
+
+**Sardinian centenarian cluster**: Sardinia (particularly the Barbagia region) has the world's highest concentration of male centenarians — unusually the sex ratio approaches 1:1, unlike most centenarian populations (which are 85% female). This has been attributed to the relatively egalitarian lifestyle, high levels of physical labor, strong social cohesion and purpose, and possible genetic isolation effects in the mountainous interior.
+
+**AKEA study** (Italian-language primary publication): The Autonomia Kognitiva degli Ottantenni e Anziani study characterized the Sardinian longevity zone. Italian-language publications preceded the English summaries. Dietary features: moderate wine (typically Cannonau, a high-polyphenol red grape), sheep milk cheese (goat/sheep dairy has different fatty acid profiles from cow dairy), whole grains, legumes, olive oil. Social features: strong multi-generational family bonds, working past typical retirement age, strong religious community.
+
+**What the Blue Zones teach us**: Dan Buettner's Blue Zone concept (Okinawa, Sardinia, Loma Linda CA, Nicoya Peninsula Costa Rica, Ikaria Greece) is popular science, but the underlying epidemiology is real. The consistent pattern across all five zones — high plant-food diet, regular low-intensity physical activity, strong social purpose and cohesion, low stress — aligns remarkably with what experimental biology would predict from the mechanisms covered in this document.
+
+---
+
+### 37.6 METHODOLOGICAL ASSESSMENT: WHAT WESTERN SCIENCE MAY BE MISSING
+
+**Likely missing**: Highly specific Japanese dietary studies, Korean centenarian biomarker data, and Russian peptide biology that was published in non-English journals and never systematically translated. Some traditional herbal medicine compounds (ginsenosides, astaxanthin, specific Kampo formulas) may have therapeutic signal that was studied primarily in Japanese/Chinese clinical trials and hasn't been incorporated into NIA ITP testing or Western RCT infrastructure.
+
+**Probably not missing anything transformative**: The major peer-reviewed longevity science — regardless of origin country — almost universally gets published in English-language journals, and the most competitive labs in Japan, China, and Korea are tightly integrated into the global scientific community. The risk of a transformative finding being "hidden" in Japanese or Chinese literature is low. The risk of low-quality, sponsored studies inflating the evidence base for traditional medicine compounds is higher.
+
+**The translation infrastructure gap**: The real gap is that compounds studied extensively in Japanese and Chinese populations (astaxanthin, specific ginsenosides, K2 menaquinone, specific mushroom polysaccharides like beta-glucans from Lentinula edodes) have not been systematically entered into Western Phase 2/3 RCT infrastructure or ITP testing. This represents both a potential opportunity and an important uncertainty.
 

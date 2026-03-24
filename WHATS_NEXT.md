@@ -12,15 +12,14 @@ This document asks: **what could break us out of that?**
 
 These are the active trials most likely to shift the field from "common sense is all we have" to "we have a drug that works." Ordered by expected impact × probability.
 
-### GLP-1 Agonists in Neurodegeneration — The Surprise Front-Runner
+### GLP-1 Agonists in Neurodegeneration — Mixed Results, Prevention Hypothesis Survives
 
-**Why this could be first:** Semaglutide/liraglutide are already FDA-approved, in millions of patients, with mass infrastructure. They just need to show aging-specific benefit.
+**Update (November 2025):** EVOKE and EVOKE+ Phase 3 trials (semaglutide in symptomatic Alzheimer's, n~3,800) **missed the primary cognitive endpoint** (*Lancet*, PMID: 39780249). CSF biomarkers improved slightly, but this did not translate to slowed cognitive decline. This is the same pattern as aducanumab and other amyloid drugs: modifying pathology in established disease does not rescue already-damaged circuits.
 
-- **EVOKE trial** (liraglutide in Alzheimer's) and **ELAD trial** (semaglutide in AD) — results expected **2025-2027**
-- Epidemiological signal: T2D patients on GLP-1RAs show substantially reduced all-cause dementia risk
-- SELECT trial: cardiovascular mortality reduction in non-diabetic obese (already proven)
-- Sabbagh et al. 2026 (*Nature Aging*, PMID: 41419667): comprehensive review calling GLP-1RAs an emerging geroscience modality
-- If cognitive slowing confirmed in RCT → **first broadly accessible geroscience drug, available at every pharmacy today**
+**What survives:** The SELECT trial cardiovascular mortality reduction is real. GLP-1RAs reduce inflammation, amyloid burden, and neuroinflammation in preclinical models. The more promising hypothesis — not yet tested — is GLP-1RAs as *prevention* in preclinical aging. Epidemiological signal: T2D patients on GLP-1RAs show substantially reduced all-cause dementia risk. SELECT trial: cardiovascular mortality reduction in non-diabetic obese (already proven). First aging-specific prevention trial expected 2027–2029.
+
+- Sabbagh et al. 2026 (*Nature Aging*, PMID: 41419667): comprehensive review calling GLP-1RAs an emerging geroscience modality for *prevention*, not treatment
+- **Revised verdict**: Not the first pharmacy-available geroscience drug for neurodegeneration. Still potentially the first for cardiovascular aging. Prevention trial data needed before reassessment.
 
 ### TAME Trial — The Regulatory Paradigm Shift
 
@@ -60,13 +59,15 @@ ITP already showed rapamycin + acarbose is superadditive in male mice (PMID: 361
 
 | Trial | Expected Results | If Positive, Changes... |
 |---|---|---|
-| **GLP-1 in AD (EVOKE/ELAD)** | 2025-2027 | First pharmacy-available geroscience drug |
+| **GLP-1 in AD (EVOKE/ELAD)** | **REPORTED Nov 2025 — NULL** | Prevention trial hypothesis survives; treatment null |
 | **TRIAD (rapamycin in dogs)** | 2027-2030 | Strongest-ever preclinical push for human rapalog trials |
 | **TAME (metformin)** | 2028-2029 | FDA accepts aging as treatable indication |
 | **D+Q Phase 2 Alzheimer's** | 2027-2028 | First cognitive benefit from senolytic |
 | **IL-11 inhibitor (fibrosis)** | 2027-2028 | Proof-of-concept for most exciting preclinical target |
-| **Combination trials** | 2028+ | Multi-hallmark approach tested in humans |
-| **Epigenetic reprogramming** | 2027-2029 (eye) | Most transformative if it works |
+| **Lomecel-B Phase 3** | ~2028 | MSC stem cell; Phase 2b strongly positive (+63m 6MWT) |
+| **Combination trials (rapa+acarbose)** | 2028+ | ITP: 34% male lifespan. No human combination trial yet. |
+| **Epigenetic reprogramming (ER-100)** | 2026-2027 (eye) | Life Bio Phase 1; first OSK safety data in humans |
+| **POLYCAD (spermidine 24mg/day)** | Aug 2026 | 20× dose of failed SmartAge trial; HR 0.74 epi signal |
 
 ---
 

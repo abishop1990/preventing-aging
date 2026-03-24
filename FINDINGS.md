@@ -1,6 +1,6 @@
 # Findings So Far
 
-**Last verified: March 24, 2026 | Sources: PubMed, NIA ITP, ClinicalTrials.gov | Updated with Section 24 findings**
+**Last verified: March 24, 2026 | Sources: PubMed, NIA ITP, ClinicalTrials.gov | Updated through Section 37**
 
 This is the short version. Every claim below was checked against live PubMed data using systematic searches across published meta-analyses, RCTs, and review papers. For the full evidence and citations, see [PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md).
 
@@ -48,11 +48,16 @@ Strong animal data exists. Human trials are either early, small, or have missed 
 
 | Intervention | Mouse Data | Human Reality | Verdict |
 |---|---|---|---|
-| **Rapamycin** | ITP gold standard: +9-22% lifespan | PEARL trial primary endpoint null (2025). Mannick Phase 3 failed. ACCP cautioned against off-label use. Safety OK at low doses. | Waiting for Dog Aging Project (TRIAD) |
-| **Senolytics (D+Q)** | Baker proof definitive — clearing senescent cells extends lifespan 25-35% | No human primary endpoint met. Largest RCT (n=60) missed. New CNS demyelination concern (2026 PNAS). | Very early human stage |
-| **IL-11 inhibition** | Widjaja et al. 2024 *Nature*: anti-IL-11 extended lifespan ~25%. Well-validated. | No human aging trials yet. IL-11 inhibitors exist for fibrosis — translational path plausible. | Most exciting preclinical finding |
-| **Partial epigenetic reprogramming (OSK)** | Multiple labs show age reversal in mice. Altos Labs actively publishing. | Zero human safety data. Sinclair 2020 vision paper not independently replicated. Real cancer risk (dose-dependent). | Years from human testing |
-| **Fasting-mimicking diet (FMD)** | N/A (human-focused) | Brandhorst 2024: ~2.5 year bio-age reduction after 3 cycles. But major COI (Longo owns the product company). | Promising, needs independent replication |
+| **Rapamycin** | ITP gold standard: +23-26% lifespan, both sexes | PEARL trial primary endpoint null (2025). Dog Aging Project (TRIAD) ongoing. Safety OK at low doses. | Awaiting TRIAD results 2027-2030 |
+| **Rapamycin + Acarbose (combination)** | ITP: +34% male / +28% female — largest extension ever seen in ITP | No human combination trial. Acarbose alone: +22% male, +5% female (ITP). FDA-approved drug with 20yr safety data. | Most underappreciated ITP hit; no human trial |
+| **Canagliflozin (SGLT2 inhibitor)** | ITP: +14% male lifespan extension | CVOTs (EMPA-REG, CANVAS, CREDENCE): cardiovascular mortality reduction in T2D. Mechanism beyond glucose control. | Aging-specific trial not yet designed |
+| **Senolytics (D+Q)** | Baker 2011: clearing senescent cells extends lifespan 25-35% | No primary endpoint met in humans. D+Q reaches brain (Phase 1 AD, 2025). CNS demyelination concern (PNAS 2026). | Phase 2 cognitive trial designing now |
+| **IL-11 inhibition** | Widjaja 2024 *Nature*: anti-IL-11 extended lifespan ~25% | LASN01 Phase 1 safety complete; no aging trial yet. CALICO $596M deal. Most exciting preclinical target. | Aging trial 2027-2029 est. |
+| **Canakinumab (anti-IL-1β)** | N/A (direct human) | CANTOS: 15% MACE reduction + 67% lung cancer incidence reduction in post-MI patients. Fatal infection trade-off. | Healthy aging trial not run; proven in disease |
+| **Urolithin A (mitophagy)** | ~19% mouse lifespan extension (unpublished/preclinical) | ATLAS trial: muscle endurance benefit. MitoImmune 2025: naive T cell expansion. CLARITY cognitive trial pending. | Phase 3 needed; mechanism strong |
+| **Partial epigenetic reprogramming (OSK)** | Multiple labs: age reversal in mice. Altos Labs publishing. | Life Bio ER-100 Phase 1 started Q1 2026 (optic neuropathy). Zero systemic aging human data yet. | Eye indication first; systemic aging 2030+ |
+| **Lomecel-B (MSC stem cell therapy)** | N/A | Phase 2b: +63m 6-minute walk test, 30.8% frailty reversal vs. 14.8% placebo. Best stem cell RCT result to date. | Phase 3 required before BLA |
+| **Fasting-mimicking diet (FMD)** | Mice: ~10-15% lifespan extension | Phase 2: IGF-1 -15%, insulin -30%, biomarker-based age reduction. No mortality RCT. COI: Longo/L-Nutra. | Independent replication with hard endpoints needed |
 
 ---
 
@@ -70,6 +75,9 @@ These are widely hyped but have failed verification:
 | **Resveratrol (as direct SIRT1 activator)** | Pfizer showed original assay was an artifact. GSK/Sirtris clinical program failed and was abandoned. Poor bioavailability (~1%). May have indirect benefits via AMPK but the original claim is dead. |
 | **Fisetin** | Single unreplicated mouse lifespan study. Never tested by NIA ITP. Only human study (n=10) was negative. FIESTA trial results unpublished after years. |
 | **TRIIM trial (GH+DHEA+metformin)** | n=9, no controls, not blinded, not replicated. TRIIM-X results never published. Using growth hormone to fight aging contradicts the strong evidence that *reduced* GH/IGF-1 extends lifespan. |
+| **TA-65 / telomerase activators** | The best RCT shows ~25 base pairs/year difference — against a background of 5,000–15,000 bp total. No lifespan data. Mendelian randomization shows longer telomeres raise cancer risk (PMID: 28604675). High commercial COI. |
+| **He Shou Wu (Fo-Ti)** | Widely sold as a longevity herb. Well-documented hepatotoxicity; multiple FDA warnings and case reports of drug-induced liver injury. Evidence: **negative**. |
+| **HBOT for aging** | n=35, no control group, no independent replication. Claims of telomere lengthening not validated. |
 
 ---
 
@@ -113,15 +121,18 @@ Trials and results that could change the picture:
 
 | What | When | Why It Matters |
 |---|---|---|
-| **Dog Aging Project (TRIAD)** | Results pending | Largest rapamycin lifespan RCT in a mammal. If positive, changes the calculus for human trials. |
-| **POLYCAD trial** (spermidine 24mg/day) | Aug 2026 | Tests ~20× higher dose than failed SmartAge trial. Epidemiology is strong (HR 0.74). |
-| **IL-11 inhibitor human trials** | Being designed | If the mouse lifespan extension translates, this is the biggest finding in the field. |
-| **TAME** (metformin) | Unknown | Has been pending for a decade. Even if positive, exercise blunting is a problem. |
-| **Altos Labs / OSK reprogramming** | Years away | Preclinical. If they solve the safety problem, this is the most transformative approach. |
-| **AKG ABLE trial** (Singapore) | 2025–2026 | First properly powered double-blind epigenetic clock trial for AKG. If positive, a low-cost intervention with strong mechanism. |
-| **Klotho gene therapy Phase 1** | Q3 2025 (ALS) | AAV9-klotho extended mouse lifespan 20%. First human safety data will be critical. |
-| **TNAP inhibitors for brain aging** | ~3–5 years | The GPLD1/TNAP mechanism needs a translatable drug; existing TNAP inhibitors need BBB-penetrating reformulation. |
-| **GLP-1 prevention trials** | 2027–2029 | The real test: do GLP-1RAs delay neurodegeneration in *preclinical* aging, not treat established disease? |
+| **Dog Aging Project (TRIAD)** | First data ~2027 | Largest rapamycin lifespan RCT in a mammal. ~470 dogs, lifespan primary endpoint. |
+| **IL-11 inhibitor aging trial** | ~2027–2029 | LASN01 Phase 1 safety cleared. CALICO $596M bet. Most exciting preclinical longevity target. |
+| **Senolytics Phase 2 (D+Q cognitive)** | ~2027–2028 | Dasatinib confirmed to reach the brain (2025). First cognitive endpoint senolytic trial. |
+| **POLYCAD trial** (spermidine 24mg/day) | Aug 2026 | ~20× higher dose than failed SmartAge. Epidemiology: HR 0.74 for all-cause mortality. |
+| **Acarbose aging trial** | Unscheduled | Most underappreciated unmet need. 20-year FDA safety record. Needs a funder. |
+| **TAME** (metformin) | 2028–2029 | Regulatory wedge: if positive, FDA accepts aging as a treatable indication. |
+| **Life Bio ER-100 (OSK reprogramming)** | 2026–2027 (Phase 1) | First partial reprogramming in humans. Eye indication. Safety data will shape the field. |
+| **AKG ABLE trial** (Singapore) | 2025–2026 | First properly powered epigenetic clock RCT for AKG. Low-cost intervention with plausible mechanism. |
+| **TNAP inhibitors (brain aging)** | ~3–5 years | GPLD1/TNAP mechanism (Bieri 2026 Cell): exercise→liver→GPLD1→cleaves TNAP→restores BBB. Drugable. |
+| **GLP-1 prevention trials** | 2027–2029 | The real test: GLP-1RAs as *prevention* in preclinical aging — not treatment of manifest disease. |
+| **CLARITY trial** (Urolithin A, cognition) | 2026 | If cognitive endpoints confirmed, adds brain to the UA muscle/immune evidence. |
+| **Combination geroscience trials** | 2026–2028 | ITP shows rapa+acarbose = superadditive. No human multi-hallmark trial yet exists. Biggest gap. |
 
 ---
 
@@ -139,4 +150,4 @@ The science is real. The mechanisms are understood. But the gap between "we can 
 
 ---
 
-*For the full 1,500-line research document with all citations, mechanisms, clinical trial details, and 23 topic sections, see [PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md).*
+*For the full 3,200+ line research document with all citations, mechanisms, and 37 topic sections, see [PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md).*

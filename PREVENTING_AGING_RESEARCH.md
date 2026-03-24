@@ -171,6 +171,8 @@ The central question: Can cells be genuinely reset to a youthful state?
 <a name="senolytics"></a>
 ## 3. SENOLYTICS & CELLULAR SENESCENCE
 
+*→ See also Section 26 (advanced senolytic vaccines, LINE-1/NRTIs, senomorphics) and Section 30 (CAR-T senolytics, thymic immunosenescence).*
+
 ### What Are Senescent Cells?
 
 Cellular senescence is a stable, irreversible cell cycle arrest triggered by telomere shortening, DNA damage, oncogene activation, or oxidative stress. Senescent cells resist apoptosis (death) despite ongoing damage.
@@ -253,6 +255,8 @@ Regulated by: **NF-κB** (master inflammation switch), mTORC1, and the **cGAS-ST
 
 <a name="nad-mtor"></a>
 ## 4. NAD+, SIRTUINS & mTOR PATHWAYS
+
+*→ See also Section 29 (NIA ITP comprehensive review: rapamycin, acarbose, canagliflozin hits and failures) and Section 36 (methionine restriction, mTOR, dietary protein).*
 
 ### NAD+ Decline with Age
 
@@ -363,6 +367,8 @@ SGLT2 inhibitors (empagliflozin, dapagliflozin, canagliflozin) have the **best e
 <a name="telomeres"></a>
 ## 5. TELOMERE BIOLOGY
 
+*→ See Section 28 for the full deep-dive: TERT gene therapy, TA-65 evidence assessment, commercial landscape red flags, AGE assay accuracy, and CRISPR telomere editing.*
+
 ### The End-Replication Problem
 
 Telomeres are repetitive DNA sequences (TTAGGG) capping chromosome ends, protected by the **shelterin protein complex**. Each cell division loses 50-200 base pairs due to the end-replication problem — the biochemical inability of DNA polymerase to fully copy chromosome ends.
@@ -419,6 +425,8 @@ Emerging synergistic approach: Clear senescent cells (senolytics) → then telom
 
 <a name="cr-fasting"></a>
 ## 6. CALORIC RESTRICTION & FASTING
+
+*→ See also Section 36 (methionine restriction, FMD clinical data, protein-mortality paradox across the lifespan).*
 
 ### CR in Model Organisms
 
@@ -502,6 +510,8 @@ Rapamycin pharmacologically mimics CR's mTOR suppression — produces even large
 
 <a name="mitochondria"></a>
 ## 7. MITOCHONDRIAL BIOLOGY & INTERVENTIONS
+
+*→ See also Section 31 for Urolithin A / Mitopure Phase 2b human trial data (ATLAS trial, MitoImmune 2025).*
 
 ### How Mitochondrial Dysfunction Drives Aging
 
@@ -816,6 +826,8 @@ UC Berkeley: **Diluting old blood (neutral blood exchange / therapeutic plasma e
 <a name="inflammaging"></a>
 ## 12. INFLAMMAGING & IMMUNE AGING
 
+*→ See also Section 30 (thymic rejuvenation, immunosenescence, CAR-T senolytics) and Section 35 (CANTOS trial, NLRP3 inhibitor pipeline, GDF-15 biomarker).*
+
 ### Core Concepts
 
 **Inflammaging** (Claudio Franceschi): Chronic, sterile, low-grade inflammation that rises with age. Distinct from acute inflammation — it's a persistent background hum of NF-κB activation and cytokine secretion.
@@ -901,6 +913,8 @@ The FDA does not currently recognize "aging" as a disease indication. However:
 
 <a name="centenarians"></a>
 ## 14. CENTENARIAN STUDIES: NATURE'S BLUEPRINT
+
+*→ See also Section 34 (IGF-1/FOXO pathway: daf-2 genetics, Laron syndrome, FOXO3 GWAS in centenarians) and Section 37 (international centenarian populations: Okinawa, Sardinia, Bama County).*
 
 ### What Centenarians Teach Us
 
@@ -2235,7 +2249,7 @@ This is the most positive stem cell aging RCT result to date. The mechanism is p
 
 ---
 
-## SECTION 28: TELOMERE BIOLOGY — WHAT ACTUALLY WORKS
+## 28. TELOMERE BIOLOGY — WHAT ACTUALLY WORKS
 
 *Added March 2026 | Evidence basis: Jaskelioff 2011, Haycock 2017, Vlachos 2016, Alder 2015; commercial claims independently assessed*
 
@@ -2408,7 +2422,7 @@ For anyone self-experimenting with TA-65 or commercial telomere supplements: the
 
 ---
 
-## SECTION 29: NIA INTERVENTIONS TESTING PROGRAM — COMPREHENSIVE REVIEW
+## 29. NIA INTERVENTIONS TESTING PROGRAM — COMPREHENSIVE REVIEW
 
 *Added March 2026 | Evidence basis: Miller et al. series in Aging Cell; Harrison et al. series; primary ITP publications*
 
@@ -2541,7 +2555,7 @@ The ITP has failed ~60% of tested compounds. Key failures:
 
 ---
 
-## SECTION 30: THYMIC REJUVENATION AND IMMUNOSENESCENCE
+## 30. THYMIC REJUVENATION AND IMMUNOSENESCENCE
 
 *Added March 2026 | Evidence basis: TRIIM trial (PMID 31496122), Amor et al. 2020, Fahy et al.; comprehensive immunosenescence literature*
 
@@ -2640,7 +2654,7 @@ Current status: preclinical proof-of-concept. No human aging trial. The manufact
 
 ---
 
-## SECTION 31: EXTRACELLULAR MATRIX AGING, AGEs, AND MITOPHAGY
+## 31. EXTRACELLULAR MATRIX AGING, AGEs, AND MITOPHAGY
 
 *Added March 2026 | Evidence basis: Spiegel glucosepane work (Yale), Vlassara AGE restriction studies, Amazentis ATLAS trial (PMID 35584623); Amor et al. 2020*
 
@@ -2714,7 +2728,7 @@ The concept of breaking existing AGE cross-links is mechanistically elegant: ins
 
 ---
 
-## SECTION 32: CIRCADIAN RHYTHMS, SEX DIFFERENCES, AND SOCIAL DETERMINANTS OF AGING
+## 32. CIRCADIAN RHYTHMS, SEX DIFFERENCES, AND SOCIAL DETERMINANTS OF AGING
 
 *Added March 2026 | Evidence basis: Kondratov 2006, Holt-Lunstad meta-analyses, WHI trial reanalysis, Fabian/Spiegel clock gene studies*
 
@@ -2824,7 +2838,7 @@ This section is unusual in a longevity science document — but the evidence is 
 
 ---
 
-## SECTION 33: THE GLYMPHATIC SYSTEM — SLEEP AS BRAIN MAINTENANCE
+## 33. THE GLYMPHATIC SYSTEM — SLEEP AS BRAIN MAINTENANCE
 
 *Added March 2026 | Evidence basis: Xie et al. 2013 Science (PMID 24136970); Iliff et al. 2012 (PMID 22896057); Lucey 2021 cohort data; Bhatt 2022 sleep position work*
 
@@ -2910,7 +2924,7 @@ No approved glymphatic-targeting therapy exists. Research directions include:
 
 ---
 
-## SECTION 34: THE IGF-1/FOXO PATHWAY — FROM WORM GENETICS TO HUMAN CENTENARIANS
+## 34. THE IGF-1/FOXO PATHWAY — FROM WORM GENETICS TO HUMAN CENTENARIANS
 
 *Added March 2026 | Evidence basis: Kenyon 1993 C. elegans (PMID 8247153); Holzenberger 2003 mouse (PMID 12520305); Guevara-Aguirre 2011 Laron syndrome (PMID 21389293); Flachsbart 2009 FOXO3 meta-analysis (PMID 23269461)*
 
@@ -2992,7 +3006,7 @@ If reduced IGF-1/FOXO suppression extends lifespan in worms and mice, we'd expec
 
 ---
 
-## SECTION 35: ANTI-INFLAMMAGING DRUG PIPELINE — CANTOS, IL-1β, AND GDF-15
+## 35. ANTI-INFLAMMAGING DRUG PIPELINE — CANTOS, IL-1β, AND GDF-15
 
 *Added March 2026 | Evidence basis: CANTOS main trial (PMID 28654312); CANTOS cancer sub-study (PMID 29059438); LoDoCo2 (PMID 30728706); GDF-15 mortality cohorts*
 
@@ -3079,7 +3093,7 @@ This creates a complex interpretation: chronically elevated baseline GDF-15 (ref
 
 ---
 
-## SECTION 36: METHIONINE RESTRICTION, DIETARY PROTEIN, AND LONGEVITY
+## 36. METHIONINE RESTRICTION, DIETARY PROTEIN, AND LONGEVITY
 
 *Added March 2026 | Evidence basis: Miller et al. 2005 MetR mice (PMID 15454406); Levine et al. 2014 protein-mortality curve (PMID 24606898); Brandhorst et al. 2015 FMD mice (PMID 26094889); FGF21 mechanism (PMID 20473289)*
 
@@ -3166,7 +3180,7 @@ The potentially relevant dietary mechanisms (beyond simply avoiding meat-related
 
 ---
 
-## SECTION 37: INTERNATIONAL PERSPECTIVES — EASTERN AND NON-ENGLISH LONGEVITY RESEARCH
+## 37. INTERNATIONAL PERSPECTIVES — EASTERN AND NON-ENGLISH LONGEVITY RESEARCH
 
 *Added March 2026 | Covers: Japanese gerontology, Chinese centenarian populations, Korean research, Soviet/Russian contributions, Mediterranean epidemiology*
 

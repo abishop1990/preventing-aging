@@ -1,6 +1,6 @@
 # What Could Change the Picture
 
-**Last updated: March 2026**
+**Last updated: July 13, 2026 (targeted trial-status update)**
 
 After verifying every major claim in longevity science against PubMed, the honest finding is that lifestyle interventions (exercise, sleep, diet, social connection) remain the only things with strong human evidence. The promising drugs (rapamycin, senolytics, IL-11 inhibition, epigenetic reprogramming) have either failed in human trials or haven't been properly tested yet.
 
@@ -23,7 +23,7 @@ These are the active trials most likely to shift the field from "common sense is
 
 ### TAME Trial — The Regulatory Paradigm Shift
 
-Still enrolling: 3,000 participants, ages 65-79, 14 US sites, composite aging endpoint. First results **~2028-2029**.
+**Status correction (July 13, 2026): TAME has not launched or begun enrollment.** Its official sponsor, the American Federation for Aging Research, says the six-year study will occur “once launched” and identifies “raising funds to launch” as the current need. Its 3,000-participant, 14-site composite-endpoint design remains a proposal; no results timeline is supportable until it launches. The previously cited NCT03435640 is an unrelated terminated oncology trial, not TAME.
 
 TAME's primary value is regulatory, not scientific. A positive result would establish "aging" as an FDA-approvable indication, opening the floodgates for every other geroscience trial. Even if metformin's effect is modest, the regulatory precedent would be transformative.
 
@@ -45,9 +45,9 @@ D+Q Phase 1 Alzheimer's (n=5, PMID: 40274471): **dasatinib confirmed to reach th
 
 **But no senolytic has entered Phase 3** — bottlenecked on senescent cell biomarker validation. Mayo Clinic found current p16 primer designs cross-detect isoforms, potentially invalidating trial results (Farr et al. 2025, PMID: 39823170). First Phase 3 realistically **2027-2028** pending biomarker standardization.
 
-### Epigenetic Reprogramming — Still Pre-Human
+### Epigenetic Reprogramming — First-in-Human Safety Study Is Recruiting
 
-Life Biosciences (Sinclair spinout): working toward FDA IND for ocular indication. **No Phase 1 results published** as of March 2026. Altos Labs: publishing foundational science, no trials announced. First human data **2027-2029** for eye disease; systemic aging indication **2030+**.
+Life Biosciences' ER-100 is now the first registered human partial-reprogramming study: NCT07290244 is recruiting 18 people with open-angle glaucoma or non-arteritic anterior ischemic optic neuropathy. The registry lists a March 2, 2026 start and a May 2027 primary-completion estimate. This is an AAV-delivered OSK safety/tolerability study in an eye disease, **not** a systemic aging trial; no human safety or efficacy results have been reported. Altos Labs remains preclinical. Systemic-aging use remains much farther away.
 
 ### Combination Geroscience Trials — The Industry is Organizing
 
@@ -61,12 +61,12 @@ ITP already showed rapamycin + acarbose is superadditive in male mice (PMID: 361
 |---|---|---|
 | **GLP-1 in AD (EVOKE/ELAD)** | **REPORTED Nov 2025 — NULL** | Prevention trial hypothesis survives; treatment null |
 | **TRIAD (rapamycin in dogs)** | 2027-2030 | Strongest-ever preclinical push for human rapalog trials |
-| **TAME (metformin)** | 2028-2029 | FDA accepts aging as treatable indication |
+| **TAME (metformin)** | Unknown — not launched | Proposed regulatory test; sponsor is still fundraising |
 | **D+Q Phase 2 Alzheimer's** | 2027-2028 | First cognitive benefit from senolytic |
 | **IL-11 inhibitor (fibrosis)** | 2027-2028 | Proof-of-concept for most exciting preclinical target |
 | **Lomecel-B Phase 3** | ~2028 | MSC stem cell; Phase 2b strongly positive (+63m 6MWT) |
 | **Combination trials (rapa+acarbose)** | 2028+ | ITP: 34% male lifespan. No human combination trial yet. |
-| **Epigenetic reprogramming (ER-100)** | 2026-2027 (eye) | Life Bio Phase 1; first OSK safety data in humans |
+| **Epigenetic reprogramming (ER-100)** | Primary completion estimated May 2027 | Recruiting 18-person ocular safety study; no result yet |
 | **POLYCAD (spermidine 24mg/day)** | Aug 2026 | 20× dose of failed SmartAge trial; HR 0.74 epi signal |
 
 ---
@@ -115,6 +115,8 @@ If exercise is the #1 intervention but not everyone can do it (disability, frail
 
 **Bottom line**: Exercise mimetics remain 5-10+ years from clinical application. Exercise itself remains irreplaceable. MOTS-c is the one to watch.
 
+**Important 2026 caution on rapamycin + exercise:** RAPA-EX-01 (PMID: 41985884) randomized 40 sedentary adults aged 65–85 to weekly sirolimus 6 mg or placebo during a 13-week home exercise program. Sirolimus did not improve the primary functional endpoint; prespecified sensitivity analyses favored placebo, and total adverse events were higher (99 vs. 63). It was small and exploratory, so it does not settle all doses or schedules, but it does not support the popular claim that pulsed rapamycin augments exercise adaptation.
+
 ---
 
 ## 4. New Models: Bypassing the Pharma/FDA Bottleneck
@@ -138,7 +140,7 @@ If the regulatory system prevents proper testing, can new trial models go around
 The single most impactful change would be **FDA biomarker qualification for DunedinPACE or GrimAge2** as a surrogate endpoint. This would allow shorter, cheaper trials using biological age as the outcome instead of waiting for disease/death — cutting trial costs by 10-100x and timelines from decades to years.
 
 **What's happening:**
-- **Hevolution Foundation** ($1B+ annually, Saudi PIF-backed, CEO Mehmood Khan): largest new funder targeting the generic drug trial gap. **Hevolution provided the funding that unblocked TAME enrollment** after years of stagnation — without them, the field's flagship trial would still be waiting. (Khan 2023, *Cold Spring Harb Perspect Med*, PMID: 37037599)
+- **TAME funding remains unresolved:** AFAR's current official status page says it is still raising funds to launch TAME. Therefore, claims that enrollment has already been unblocked should not be relied on.
 - **ICFSR Task Force** (PMID: 41863810): Pfizer, Calico, Hevolution building minimum common dataset for geroscience trials
 - **Adaptive platform trials** (like RECOVERY for COVID): test multiple aging drugs in one infrastructure — proposed but not yet launched for aging
 - **TAME as regulatory wedge**: if positive, establishes aging as an FDA-approvable composite indication
@@ -196,9 +198,9 @@ Not a longevity drug — but the data keeps expanding beyond metabolic disease:
 
 Already in millions of people. The question is whether aging-specific benefit exists beyond metabolic effects. Answer in 2-3 years.
 
-### Alpha-Ketoglutarate — First Human RCT Actively Recruiting
+### Alpha-Ketoglutarate — Enrolled, but Still No Results
 
-AKG is a TCA cycle intermediate that declines ~10-fold between ages 40-80. Cofactor for TET demethylases (epigenetic regulation). The **ABLE trial** (Singapore, PMID: 37217632) is a proper double-blind RCT using epigenetic clocks as primary outcome. Recruitment confirmed feasible (PMID: 40819772). Results expected 2025-2026. AKG supplements are already sold commercially.
+AKG is a TCA cycle intermediate that declines ~10-fold between ages 40-80. Cofactor for TET demethylases (epigenetic regulation). The **ABLE trial** (Singapore, NCT05706389; PMID: 37217632) enrolled 120 participants and is now listed as active, not recruiting. Its registry entry lists primary completion in August 2025 and final study completion in January 2027; no results have been posted. Until a results paper or registry results appear, AKG remains unproven despite its availability as a supplement.
 
 ### Klotho — Human Genetics Getting Stronger
 

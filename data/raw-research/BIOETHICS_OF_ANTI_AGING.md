@@ -38,7 +38,7 @@ The distinction is under serious attack. Traditional medicine treats disease; it
 
 ### The Regulatory Gap
 
-Under current FDA definitions, aging is not a disease, so drugs cannot receive approval for "treating aging." This is why the TAME trial (metformin for aging) is being run with composite disease endpoints (cardiovascular disease, cancer, dementia) as its primary outcomes rather than aging itself. The treatment/enhancement line is therefore currently drawn at a regulatory level: anything targeting aging is by default an "enhancement" and therefore cannot be the primary endpoint of a drug approval trial. Khaltourina et al. (2020) — see Section 2 below — directly challenged this by arguing that aging meets ICD-11 disease criteria, which would have regulatory downstream consequences.
+Under current FDA definitions, aging is not a disease, so drugs cannot receive approval for "treating aging." This is why the proposed TAME trial (metformin for aging) uses composite disease endpoints (cardiovascular disease, cancer, dementia) rather than aging itself. As of July 2026, TAME had not launched; the design remains informative, not trial evidence. The treatment/enhancement line is therefore currently drawn at a regulatory level: anything targeting aging is by default an "enhancement" and therefore cannot be the primary endpoint of a drug approval trial. Khaltourina et al. (2020) — see Section 2 below — directly challenged this by arguing that aging meets ICD-11 disease criteria, which would have regulatory downstream consequences.
 
 ---
 

@@ -156,7 +156,7 @@ The central question: Can cells be genuinely reset to a youthful state?
 
 **Important caveats — updated with 2024-2026 verification:**
 
-> **Evidence quality: HIGH for mouse data; ZERO human safety data exists for OSK/OSKM partial reprogramming.**
+> **Evidence quality: HIGH for mouse data; no human safety or efficacy results yet for OSK/OSKM partial reprogramming.** A first-in-human ocular safety trial is recruiting (NCT07290244; 18 planned participants).
 
 - Not all aging changes are epigenetic (mutations, protein aggregates, structural damage remain)
 - **Clock reversal ≠ functional rejuvenation**: Ying et al. 2025 (*Nature Aging*) showed chronological age prediction and mortality prediction are essentially uncorrelated (R=0.12). Moving a clock number does not prove rejuvenation.
@@ -319,30 +319,32 @@ Resveratrol was Sinclair's original "sirtuin activator" (2003 *Nature*). However
 
 **Blagosklonny's Hyperfunction Theory**: Aging is caused by quasi-programmed mTOR/growth pathway hyperfunction in post-reproductive life. Rapamycin suppresses this directly.
 
-**Human trials — updated with 2024-2025 results:**
+**Human trials — updated with 2024-2026 results:**
 
 > **Evidence quality: HIGH for mouse lifespan extension; LOW-MODERATE for human aging benefits (no primary endpoint met in any human trial to date).**
 
 - **Mannick et al. (2014, 2018, *STM*)**: Everolimus improved vaccine response in elderly — but **the pivotal Phase 3 trial (2021, *Lancet Healthy Longev*, n=1024) FAILED its primary endpoint**: RTB101 did not reduce clinically symptomatic respiratory illness (26% vs 25%, OR 1.07, p=0.65). resTORbio folded after this failure. The initial immune-boosting findings have **not been replicated**.
 - **PEARL trial (2025, Moel et al., *Aging*)**: 48-week RCT of 5mg or 10mg weekly rapamycin in healthy adults. **Primary endpoint (visceral adiposity) was null** (p=0.942). Safety was acceptable — AEs similar to placebo. Some positive secondary signals in women only (lean mass, pain). Notable COI: all authors are AgelessRx employees/shareholders.
+- **RAPA-EX-01 (Stanfield et al., 2026, *J Cachexia Sarcopenia Muscle*, PMID: 41985884)**: 40 sedentary adults aged 65–85 received 6 mg sirolimus weekly or placebo while following the same 13-week home exercise program. The intention-to-treat primary endpoint did not significantly differ (chair-stand difference -2.13 repetitions, 95% CI -4.61 to 0.34; p=0.089); prespecified complete-case and per-protocol analyses significantly favored placebo. Total adverse events were higher with sirolimus (99 vs. 63), including one possibly drug-related pneumonia. This small exploratory RCT does not establish harm for all schedules, but it does **not** support using weekly sirolimus to augment exercise adaptation in older adults.
 - **Dog Aging Project (TRIAD)**: Study design paper published Feb 2025 (*Geroscience*). Large-scale RCT in middle-aged companion dogs. **No efficacy or lifespan results yet** — still in progress. The earlier 2017 pilot (24 dogs, 10 weeks) showed cardiac function signals only.
 - **Alzheimer's pilot (Gonzales et al. 2025, *Commun Med*)**: 1 mg/day for 8 weeks in 10 MCI patients — rapamycin was **not detectable in CSF**, no cognitive benefit, systolic BP and HbA1c increased.
 - **ACCP formal caution (2025)**: American College of Clinical Pharmacology issued a position statement noting **no regulatory approval and no rigorous evidence** supports sirolimus for aging prevention.
-- Off-label use (5-10 mg/week) continues growing in longevity medicine despite these null results
+- Off-label use (5-10 mg/week) continues growing in longevity medicine despite these null results. PEARL's short-term tolerability finding should not be generalized to all intermittent regimens after the contrary RAPA-EX-01 safety/functional signal.
 
 ### The TAME Trial — Perpetually Pending
 
 **TAME (Targeting Aging with Metformin)**, led by Nir Barzilai (Einstein):
 - ~3,000 participants, ages 65-79
 - Primary endpoint: composite of first cancer, CVD, dementia, or death
-- **Historic significance**: First FDA-endorsed trial explicitly treating **aging itself** as the target indication — a landmark regulatory precedent
+- **Historic significance if launched**: proposed nationwide test of a composite aging-related endpoint; it does not create an FDA aging indication by itself.
 
 > **Evidence quality for metformin as longevity drug: LOW and weakening.**
 
-- **Trial status**: Still described as "ongoing" in 2025-2026 reviews. No results published. No public timeline for completion. Has been "about to start" for roughly a decade.
+- **Trial status (verified July 13, 2026)**: **not launched and not enrolling.** AFAR's official TAME page says the trials will run for six years “once launched” and names “raising funds to launch” as the need. Thus no results timeline is supportable. NCT03435640, previously listed here as TAME, is actually a terminated oncology study and must not be used as TAME's identifier.
 - **ITP mouse data**: Metformin was **NOT positive** by the ITP's primary analysis (log-rank test). A 2024 reanalysis (Jiang et al., *GeroScience*) found only a marginal male-only effect on early mortality using an alternative statistical test. Far weaker than rapamycin, acarbose, or canagliflozin.
 - **RCT meta-analysis (Griffin et al. 2017, *Diabetologia*)**: 13 RCTs, ~4,000 patients — **no significant reduction in all-cause mortality** (RR 0.96, 95% CI 0.84-1.09) or CV death.
 - **MET-PREVENT trial (Witham et al. 2025, *Lancet Healthy Longev*)**: RCT in frail elderly (n=72) — **primary outcome NULL** (no effect on walk speed). Concerning: 34% hospitalization rate in metformin group vs. 8% placebo.
+- **METFORAGING (Serrano-Villar et al. 2026, *eClinicalMedicine*, PMID: 42023167)**: 96-week double-blind pilot in 40 non-diabetic adults aged 50+ living with controlled HIV. The prespecified primary endpoint, PhenoAge epigenetic-age acceleration, was **NULL** (adjusted difference -1.02 years, 95% CI -5.30 to 3.26; p=0.627). The study closed below its 60-person target, so this is not a general-population answer; it is nevertheless a longer-duration randomized null result for metformin's clock-reversal claim.
 - **DPP 21-year follow-up (Heckman-Stoddard et al. 2025)**: Metformin did NOT reduce cancer incidence (HR 0.90, CI 0.73-1.10).
 - **Exercise blunting — MAJOR CONCERN**: Multiple RCTs confirm metformin blunts aerobic exercise adaptations:
   - Konopka et al. 2019 (*Aging Cell*): attenuated VO2max gains and skeletal muscle mitochondrial respiration
@@ -905,7 +907,7 @@ The Wyss-Coray 2019 *Nature Medicine* study profiling ~3,000 proteins across 4,2
 ### FDA Regulatory Landscape
 
 The FDA does not currently recognize "aging" as a disease indication. However:
-- **TAME trial** established that composite aging endpoints (multi-disease delay) may be approvable
+- **TAME's proposed design** illustrates how a composite multi-disease endpoint could be tested; it has not yet established FDA approvability or an aging indication
 - If TAME succeeds, it opens a pathway for anti-aging drug approvals
 - Regulatory breakthrough is considered as important as any single scientific discovery
 
@@ -1090,6 +1092,46 @@ George Church (Harvard/MIT/Broad) has identified a list of gene targets for comb
 <a name="ai-longevity"></a>
 ## 17. AI & MACHINE LEARNING IN LONGEVITY
 
+> **Evidence quality: LOW for AI as a route to human longevity benefit.** AI can accelerate target selection, molecule design, and trial operations; it has not yet demonstrated that it can slow human aging or improve the ultimate clinical success rate of aging therapies.
+
+### 2026 Reality Check: What Has Actually Reached Patients
+
+**Insilico Medicine / rentosertib (ISM001-055)** is the clearest substantive AI-drug-discovery result so far. In a peer-reviewed, multicentre, double-blind Phase 2a trial, 71 people with idiopathic pulmonary fibrosis—a severe age-related fibrotic disease—were randomized for 12 weeks to three doses of the AI-discovered TNIK inhibitor or placebo (Xu et al., *Nature Medicine* 2025, PMID: 40461817; NCT05938920).
+
+- The **primary endpoint was safety**, not clinical efficacy, and treatment-emergent adverse-event rates were similar across groups.
+- At the highest dose, mean forced vital capacity changed by **+98.4 mL** (95% CI 10.9 to 185.9), versus **-20.3 mL** (95% CI -116.1 to 75.6) with placebo. This is a promising secondary efficacy signal, not confirmatory proof: the study was small, short, and had 16/71 treatment discontinuations.
+- The target and molecule were both identified/designed with Insilico's AI systems. The study was company-sponsored and several authors were company employees, so independent replication and a longer Phase 2b/3 study are essential.
+
+**Verdict:** This is tangible evidence that an AI-originated discovery can reach a well-conducted human randomized trial and generate a plausible disease signal. It is **not** evidence that AI can yet prevent aging, and it has not reached Phase 3 or regulatory approval.
+
+### The Equally Important Negative Case: BioAge
+
+**BioAge Labs** uses machine learning on longitudinal human biobank data to identify targets in metabolic aging. Its APJ agonist, azelaprag, is a valuable reality check. BioAge discontinued the STRIDES Phase 2 obesity study in December 2024 after liver transaminitis occurred in some azelaprag-treated participants, then terminated the program in January 2025 ([company announcement](https://www.globenewswire.com/news-release/2025/01/28/3016452/0/en/BioAge-Labs-Announces-Company-Updates-on-APJ-NLRP3-and-Platform-Programs.html)). The company continues to advance other platform-derived programs, but azelaprag should not be counted as a clinical success.
+
+**Lesson:** Human aging datasets and AI can make a target more plausible; they do not solve dose-limiting toxicity or establish clinical benefit. A platform should be judged drug by drug, using prespecified human endpoints and full safety disclosure—not by its target-discovery story.
+
+### AI Diagnostics: A Concrete Use Case, With an Implementation Warning
+
+AI-enabled diagnostic devices are closer to practical preventive medicine than AI-originated longevity therapies, but their evidence needs to be judged on a different chain: **technical performance → clinician action → patient outcome**. Success at an earlier link does not establish the next one.
+
+**Eko AI-enabled digital auscultation** provides a useful, non-longevity example. In a prospective study of 357 primary-care patients aged 50 or older at risk for heart disease, the AI-augmented device had higher sensitivity for moderate-to-severe valvular heart disease than routine analogue auscultation (**92.3% vs. 46.2%; p=0.01**) but lower specificity (**86.9% vs. 95.6%; p<0.001**). It identified 12 previously undiagnosed moderate-to-severe cases versus six identified by routine auscultation (Rancier et al., *European Heart Journal – Digital Health* 2026, PMID: 41660663; PMCID: PMC12873438). Several authors were current or former Eko employees, so this is meaningful but not independent validation.
+
+The much more important real-world check is the UK **TRICORDER** pragmatic cluster-randomised implementation trial (205 primary-care practices; 12,725 recorded examinations). In intention-to-treat analysis, giving practices AI-enabled stethoscopes did **not** increase the rate of newly coded heart-failure diagnoses over 12 months (**IRR 0.94, 95% CI 0.86–1.02**; PMID: 41619752; DOI: 10.1016/S0140-6736(25)02156-7). Device use was associated with more detection of heart failure, atrial fibrillation, and valvular disease, but rollout alone did not change the population-level primary endpoint.
+
+**Interpretation:** This is a tangible AI-medtech result, not a failure of all AI diagnostics. It shows why a convincing detection study is insufficient for an aging or prevention claim: uptake, referral pathways, confirmatory testing, treatment access, and patient outcomes all determine whether earlier detection produces longer or healthier lives. There is no evidence here that an AI stethoscope slows biological aging, reduces mortality, or prevents cardiovascular events.
+
+### AI Target Discovery Is Hypothesis Generation, Not an Intervention Result
+
+In 2026, an Insilico-led multi-omic/causal-genetics analysis prioritized 29 high-confidence and 16 previously unrecognized targets shared across aging and 12 age-related diseases (PMID: 42295090), including IL6/IL6R, NLRP3, NOS2, TLR4, and GLP1R. The Mendelian-randomization component strengthens the biological rationale for several targets already covered in this report. It does **not** demonstrate that modulating any of them improves human aging; the authors include multiple Insilico employees, and the analysis is a target-prioritization study rather than a therapeutic trial.
+
+### What Would Change the Verdict
+
+1. A replicated, adequately powered Phase 2b/3 trial of an AI-originated drug with a hard disease endpoint—not merely a biomarker or a post-hoc signal.
+2. Published prospective validation that an AI aging clock improves clinical decisions or predicts intervention response beyond standard risk models.
+3. An AI-prioritized aging target that improves a human functional or disease endpoint in an independently run RCT.
+
+Until then, AI is best understood as a **research-acceleration tool**, not an anti-aging intervention.
+
 ### AI-Based Biological Age Clocks
 
 Beyond Horvath's manually curated clocks, deep learning models now identify non-obvious aging patterns across multi-omic data:
@@ -1163,7 +1205,7 @@ Multiple groups using AI to screen existing drugs for aging-related benefits:
 
 **Buck Institute for Research on Aging**: Only independent biomedical institute focused exclusively on aging. Campisi, Verdin, Lithgow, Ellerby.
 
-**NIH National Institute on Aging (NIA)**: ~$4B annual budget; ITP, TAME co-funding, Nathan Shock Centers. The primary US public funder.
+**NIH National Institute on Aging (NIA)**: ~$4B annual budget; ITP, Nathan Shock Centers, and geroscience infrastructure. The primary US public funder. TAME itself had not launched as of July 2026.
 
 **Hevolution Foundation** (Saudi Arabia): New entrant with ~$1B/year budget for longevity research — potentially the largest single funder globally. CEO: Mehmood Khan.
 
@@ -1288,7 +1330,7 @@ Multiple groups using AI to screen existing drugs for aging-related benefits:
 
 | Trial | Intervention | Status |
 |-------|-------------|--------|
-| TAME | Metformin | Enrolling; results ~2030 |
+| TAME | Metformin | **Not launched; sponsor still fundraising (July 2026)** |
 | PEARL | Rapamycin | **Published 2025: primary endpoint NULL** |
 | TRIIM-X | GH + DHEA + metformin | **No results published after 6+ years** |
 | Dog Aging Project (TRIAD) | Rapamycin in dogs | Design published 2025; **no efficacy results yet** |
@@ -1312,12 +1354,12 @@ Multiple groups using AI to screen existing drugs for aging-related benefits:
 - SGLT2 inhibitors: Best existing human clinical data of any aging-pathway drug (EMPA-REG, CANVAS, DAPA-HF: 25-35% cardiovascular death reduction)
 
 **Moderate confidence (strong animal data, but human trials have NOT yet met primary endpoints):**
-- Rapamycin: ITP gold standard in mice (+9-22% lifespan). But PEARL trial primary endpoint NULL, Mannick Phase 3 FAILED, ACCP cautioned against off-label use. Safety appears OK at low doses.
+- Rapamycin: ITP gold standard in mice (+9-22% lifespan). But PEARL trial primary endpoint NULL, Mannick Phase 3 FAILED, and RAPA-EX-01 did not improve exercise adaptation in older adults and had more adverse events. ACCP cautioned against off-label use.
 - Senolytics (D+Q): Baker mouse proof definitive. But no human primary endpoint met. New CNS safety concern (demyelination, 2026 PNAS). Largest RCT (n=60 bone) missed primary endpoint.
 - FMD (Longo): Promising bio-age reduction signal but major COI; needs independent replication at scale
 
 **Promising but unproven (human evidence is weak, absent, or negative):**
-- Partial epigenetic reprogramming (OSK): Most exciting mechanistically; zero human safety data yet
+- Partial epigenetic reprogramming (OSK): Most exciting mechanistically; the first 18-person ocular safety study is recruiting (NCT07290244), but no human safety or efficacy result exists yet
 - NAD+ precursors (NMN/NR): NAD+ elevation proven; but **two 2024 meta-analyses found NO functional benefits in humans**. Hype far exceeds evidence.
 - Spermidine: Strong epidemiology (HR 0.74) but SmartAge trial **primary endpoint FAILED** at 0.9mg/day. Awaiting POLYCAD (24mg/day, 2026).
 - Urolithin A: Consistent biomarker effects but **primary endpoints repeatedly missed**. Most data from manufacturer-funded studies.
@@ -1351,7 +1393,7 @@ Multiple groups using AI to screen existing drugs for aging-related benefits:
 7. **Manage chronic stress** — meditation, yoga, cognitive behavioral therapy
 8. **Sauna if available** — 4x/week, 15-20 min at ~80-100°C
 9. **Know your APOE status** — if ε4, prioritize cardiovascular and Alzheimer's prevention from middle age
-10. **Watch the trials**: Rapamycin, senolytics, and reprogramming therapies are the leading edge — results from TAME (~2030) will shape the field
+10. **Watch the trials**: Rapamycin, senolytics, and reprogramming therapies are the leading edge. TAME remains worth watching as a proposed regulatory test, but it has not launched and has no supportable result date.
 
 ### The Bottom Line
 
@@ -1363,7 +1405,7 @@ Humanity is at an extraordinary inflection point. For the first time in history,
 - We can **somewhat reverse** biological aging in humans (TRIIM trial, exercise studies)
 - The first dedicated longevity drugs are entering Phase 2/3 trials
 - The first AI-designed drug reached Phase 2 (Insilico)
-- The first FDA-endorsed aging-targeting trial is enrolling (TAME)
+- A proposed large aging-targeting trial (TAME) still lacks the funding required to launch
 - The largest private longevity investment in history has been made ($3B+ to Altos Labs)
 
 The question is no longer **whether** aging can be significantly slowed or reversed, but **when** the interventions will be safe, effective, accessible, and approved.
@@ -1805,7 +1847,7 @@ The **SmartAge trial** failed at a lower dose (~1.2 mg/day food-equivalent sperm
 
 #### Alpha-Ketoglutarate (AKG) (Updated)
 
-The **ABLE trial** (Singapore, PMID: 37217632) — a double-blind RCT using epigenetic clocks as primary outcome — confirmed feasibility (PMID: 40819772) and results are expected 2025–2026. AKG is a TCA cycle intermediate that declines ~10-fold between ages 40–80 and serves as a cofactor for TET dioxygenases (DNA demethylation) and histone demethylases. Buck Institute preclinical data shows lifespan extension in model organisms. **Key watch**: ABLE trial results. If epigenetic age reversal is confirmed in a properly powered double-blind trial, this becomes a serious candidate.
+The **ABLE trial** (Singapore, NCT05706389; PMID: 37217632) is a double-blind RCT using epigenetic clocks as primary outcome. It enrolled 120 participants (recruitment feasibility: PMID 40819772) and is listed as active, not recruiting; the registry gives August 2025 for primary completion and January 2027 for final completion, with no posted results. AKG is a TCA cycle intermediate that declines ~10-fold between ages 40–80 and serves as a cofactor for TET dioxygenases (DNA demethylation) and histone demethylases. Buck Institute preclinical data shows lifespan extension in model organisms. **Key watch**: published ABLE results. Until then, supplementation remains unproven.
 
 #### Lithium Microdosing (New Entry)
 
@@ -1850,7 +1892,7 @@ The finding that taurine does *not* reliably decline with age in humans (see Sec
 | **KL-VS amyloid protection** | HIGH (biomarker) | Lower Aβ positivity in KL-VS heterozygotes | 39529379 |
 | **Spermidine SmartAge** | LOW | Failed at lower dose | — |
 | **Spermidine POLYCAD** | Pending | 24 mg/day, results Aug 2026 | — |
-| **AKG ABLE trial** | Pending | Results 2025–2026 | 37217632 |
+| **AKG ABLE trial** | Pending | 120 enrolled; registry final completion Jan 2027; no results posted | 37217632 |
 | **Lithium microdosing** | LOW-MODERATE | Epidemiological signal; no RCT proven | — |
 
 ---
@@ -2144,7 +2186,7 @@ The VITAL trial cognitive sub-study (2022, large RCT) showed **no effect of EPA/
 
 ---
 
-### 27.4 RAPAMYCIN — PEARL TRIAL UPDATE (2024–2025)
+### 27.4 RAPAMYCIN — HUMAN TRIAL UPDATE (2024–2026)
 
 The PEARL trial (AgelessRx, n=114, 48 weeks, published 2024–2025):
 - **Safety**: Well-tolerated at both 5 mg/week and 10 mg/week doses
@@ -2152,9 +2194,11 @@ The PEARL trial (AgelessRx, n=114, 48 weeks, published 2024–2025):
 - **Both sexes on 5 mg**: Improved subjective emotional well-being and general health
 - **Primary aging biomarkers**: No universal improvement; no lifespan data (trial too short)
 
+**RAPA-EX-01 (Stanfield et al. 2026, PMID: 41985884)** tested a distinct question: can once-weekly 6 mg sirolimus improve the response to a 13-week exercise program in older adults? In 40 sedentary adults aged 65–85, it did not improve the primary chair-stand outcome in the intention-to-treat analysis; complete-case and per-protocol sensitivity analyses favored placebo. The sirolimus group had more total adverse events (99 vs. 63), including one possibly drug-related pneumonia. This is a small, short study, but it is direct human evidence against treating rapamycin as an exercise enhancer.
+
 The Dog Aging Project TRIAD trial (210 of 580 dogs enrolled as of 2025, first 3-year completions expected) represents the most important rapamycin lifespan RCT in a mammal now running. NIH awarded $7M in 2025 to accelerate enrollment. First efficacy data expected 2026–2027.
 
-**Honest summary**: PEARL establishes safety and modest functional signals. Dog TRIAD is the pivotal experiment. Off-label human use appears safe at weekly pulsed doses based on PEARL and observational data, but carries no proven lifespan benefit yet.
+**Honest summary**: PEARL provides a limited short-term tolerability signal and modest secondary signals, not evidence that weekly rapamycin is broadly safe or effective. RAPA-EX-01 adds a small but clinically relevant negative functional/safety signal. Dog TRIAD is the pivotal lifespan experiment; off-label human use carries no proven lifespan benefit.
 
 ---
 
@@ -2208,7 +2252,7 @@ This is the most positive stem cell aging RCT result to date. The mechanism is p
 
 ### 27.7 GENE THERAPY AND CRISPR FOR AGING — UPDATED STATUS
 
-**Life Biosciences ER-100** (AAV-delivered OSK partial reprogramming for optic neuropathy): FDA IND cleared; Phase 1 in Q1 2026. This is the first partial reprogramming program entering human trials. Safety data from this trial will be critical for the field.
+**Life Biosciences ER-100** (AAV-delivered OSK partial reprogramming for optic neuropathy): FDA IND cleared; NCT07290244 is recruiting 18 participants with open-angle glaucoma or non-arteritic anterior ischemic optic neuropathy. The registry lists a March 2, 2026 start and estimated primary completion in May 2027. This is the first partial-reprogramming program in human testing, but it is an ocular safety/tolerability study—not evidence of systemic rejuvenation—and no human result is available.
 
 **Retro Biosciences** (Sam Altman-backed, ~$5B valuation attempt in 2025): AI-optimized Yamanaka factor variants (with OpenAI collaboration) show 50× higher reprogramming marker expression vs. wild-type *in vitro*. Animal studies underway; Australia human trials expected 2025–2026.
 
@@ -2502,7 +2546,7 @@ The ITP has failed ~60% of tested compounds. Key failures:
 
 **RESVERATROL**: Null at 300 ppm and 1,200 ppm in both sexes. This definitively closed the chapter on resveratrol as a longevity drug. The SIRT1 activation claims from Sinclair's early work have not translated to lifespan extension in the most rigorous test available. PMID: 23147680
 
-**METFORMIN**: ITP result: null at standard doses in both sexes. This surprises many people given the enormous observational enthusiasm for metformin as a longevity drug and the TAME (Targeting Aging with Metformin) trial now underway. Possible explanations: ITP mice eat ad libitum (metformin's AMPK activation may be redundant in ad libitum-fed mice); dose may have been suboptimal; genetic background differences. The TAME trial (n=3,000, NCT03435640) will provide the definitive human answer. The ITP null should temper enthusiasm but does not close the question.
+**METFORMIN**: ITP result: null at standard doses in both sexes. This surprises many people given the enormous observational enthusiasm for metformin and TAME's proposed 3,000-participant design. Possible explanations: ITP mice eat ad libitum (metformin's AMPK activation may be redundant in ad libitum-fed mice); dose may have been suboptimal; genetic background differences. **As of July 13, 2026, TAME has not launched and no ClinicalTrials.gov identifier for TAME is available; NCT03435640 is an unrelated oncology trial.** The ITP null should temper enthusiasm but does not close the question.
 
 **GREEN TEA EXTRACT (EGCG)**: Null. Multiple doses, both sexes. Another polyphenol class failure.
 
@@ -2528,7 +2572,7 @@ The ITP has failed ~60% of tested compounds. Key failures:
 
 **The timing effect**: Most ITP compounds work best when started in midlife (9–14 months, equivalent to ~35–50 human years). Compounds started late in life (20+ months) show diminished effects. Mechanistic implication: many aging interventions are PREVENTIVE, not restorative. You cannot simply administer acarbose to a 90-year-old and expect the same benefit as starting at 50.
 
-**The metformin paradox**: The ITP null for metformin, combined with strong observational data in diabetic patients, suggests that metformin's apparent "longevity" benefit in human observational studies may reflect selection bias (diabetic patients on metformin are healthier than untreated diabetics), active disease management, or effects specific to diabetic physiology. TAME will clarify this.
+**The metformin paradox**: The ITP null for metformin, combined with strong observational data in diabetic patients, suggests that metformin's apparent "longevity" benefit in human observational studies may reflect selection bias (diabetic patients on metformin are healthier than untreated diabetics), active disease management, or effects specific to diabetic physiology. A TAME-scale randomized study could clarify this, but TAME itself has not launched.
 
 **The combination signal**: Rapamycin + acarbose producing 34% male extension is the field's best preclinical evidence that combining mechanistically distinct interventions is a winning strategy. This underpins the growing interest in longevity drug cocktails.
 
@@ -2538,7 +2582,7 @@ The ITP has failed ~60% of tested compounds. Key failures:
 
 | Compound | Male Extension | Female Extension | Human Status |
 |---|---|---|---|
-| **Rapamycin (eRAPA)** | ~23-26% | ~23-26% | PEARL trial ongoing |
+| **Rapamycin (eRAPA)** | ~23-26% | ~23-26% | PEARL published: primary endpoint null; RAPA-EX-01 negative for exercise enhancement |
 | **Acarbose** | ~22% | ~5% | FDA-approved; no aging RCT |
 | **17α-Estradiol** | ~11-19% | 0% | No human aging trial |
 | **Canagliflozin** | ~14% | ~1% | Approved; CVOTs positive |
@@ -2546,7 +2590,7 @@ The ITP has failed ~60% of tested compounds. Key failures:
 | **Rapa + Acarbose** | ~34% | ~28% | No human trial |
 | **Glycine** | ~0% | ~6% | Safe; no aging RCT |
 | **Resveratrol** | 0% | 0% | DEBUNKED |
-| **Metformin** | 0% | 0% | TAME trial ongoing |
+| **Metformin** | 0% | 0% | TAME proposed; not launched as of July 2026 |
 | **Statins** | 0% | 0% | No longevity benefit |
 | **Green tea / EGCG** | 0% | 0% | DEBUNKED |
 | **Curcumin** | 0% | 0% | DEBUNKED |

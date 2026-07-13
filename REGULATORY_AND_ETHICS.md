@@ -1,6 +1,6 @@
 # Regulatory and Ethical Landscape of Aging Research
 
-**Last verified: March 2026 | Sources: PubMed, FDA.gov, federal court records**
+**Core review: March 2026 | Targeted TAME status update: July 13, 2026 | Sources: PubMed, FDA.gov, federal court records, AFAR**
 
 This section covers the laws, regulations, ethical debates, and institutional structures that shape what aging interventions get tested, approved, and made available — and why the evidence landscape looks the way it does.
 
@@ -44,7 +44,7 @@ The key paper driving this: Khaltourina et al. 2020 (*Mechanisms of Ageing and D
 The most evidence-based longevity drug candidates (rapamycin, metformin, acarbose) are all **off-patent generics**. This creates a structural market failure:
 
 - **No patent = no pharma incentive** — a company cannot recoup $100M+ in trial costs for a drug anyone can manufacture
-- **TAME has been stuck for a decade** because no pharma company will fund a metformin aging trial. It relies on NIA, Hevolution Foundation, and philanthropic donors.
+- **TAME has been stuck for a decade** because no pharma company will fund a metformin aging trial. As of July 2026, its sponsor AFAR says it is still raising funds to launch; it has not enrolled participants.
 - **PEARL was funded by AgelessRx** — a tiny longevity medicine company where all authors are employees/shareholders
 - **Alternative funding models**: NIA grants, Hevolution Foundation (Saudi PIF-backed), Cures Within Reach (nonprofit generic repurposing), philanthropic foundations. All undersized relative to need.
 

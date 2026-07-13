@@ -36,7 +36,7 @@ Design paper: Justice JN, Niedernhofer L, Robbins PD, et al. **"Development of C
 
 **What TAME success would mean:** If TAME demonstrates that metformin delays the multi-disease composite endpoint, it would create a **regulatory template** — a demonstrated pathway for drugs targeting aging biology. Subsequent drugs would not be starting from zero in negotiations with FDA. The composite multimorbidity endpoint could become accepted practice. This would not make aging a "disease," but it would make "preventing age-related multimorbidity" a legitimate drug indication.
 
-**Current status (as of March 2026):** TAME began enrollment across 14 academic sites in 2023. Target: ~3,000 participants, ages 65-79 without major chronic disease. Funded by the American Federation for Aging Research (AFAR), NIA, and the **Hevolution Foundation**. Expected completion: approximately 2027-2028 for primary data.
+**Current status (verified July 13, 2026):** **TAME has not launched or begun enrollment.** AFAR's official TAME page says the six-year trials will occur “once launched” and lists “raising funds to launch” as the current need. The 14-site, ~3,000-participant design remains proposed, and no completion date is supportable. NCT03435640, previously cited in this repository for TAME, is an unrelated terminated oncology study.
 
 ### What It Would Actually Take for FDA to Accept an Aging Indication
 
@@ -97,10 +97,10 @@ Vyas et al. 2023 used GrimAge as an exploratory endpoint in cognitive decline (P
 ### Practical Timeline for FDA Biomarker Qualification
 
 A realistic sequence:
-1. **2027-2028**: TAME completes, provides DunedinPACE-to-multimorbidity linkage data
-2. **2028-2030**: Stakeholder consortium (AFAR + Hevolution + NIA + academic centers) assembles Biomarker Qualification Submission for DunedinPACE
-3. **2030-2033**: FDA review process (typically 2-3 years for BQP submissions)
-4. **~2033 earliest**: DunedinPACE potentially qualified as an aging trial endpoint for drug development, enabling shorter Phase 2 aging trials
+1. **TAME launch + six years**: a TAME result could provide DunedinPACE-to-multimorbidity linkage data, but no launch date has been announced
+2. **After supporting clinical data exist**: a stakeholder consortium could assemble a Biomarker Qualification Submission for DunedinPACE
+3. **Then**: FDA review process (typically 2-3 years for BQP submissions)
+4. **No defensible calendar estimate**: DunedinPACE qualification requires both a submitted package and evidence that has not yet been generated
 
 This timeline could compress significantly if TAME data is unambiguous and FDA engages proactively.
 
@@ -171,7 +171,7 @@ This paper, written by Hevolution's CEO, is the primary published articulation o
 
 ### Hevolution's Key Investments
 
-**Primary grant: TAME trial.** Hevolution provided significant new funding to unblock TAME enrollment after years of funding gaps. Without Hevolution, TAME would likely still be waiting for funding in 2026.
+**TAME funding claim corrected:** AFAR's July 2026 status page says it is still raising funds to launch TAME. Whatever prior contributions have been made, they have not produced a launched or enrolling trial; claims that Hevolution unblocked enrollment are unsupported by the sponsor's current status.
 
 **Grants program:** Open grants to academic investigators for geroscience research, including basic aging biology, biomarker development, and trial infrastructure. Dozens of grants to NIA-affiliated investigators, Buck Institute, Einstein, Mayo Clinic, and international centers.
 
@@ -186,7 +186,7 @@ Khan's paper is explicit: the field is entering its "translational phase" and th
 - Long time horizons (10+ year trials)
 - Integration across basic science, biomarker qualification, trial design, and regulatory strategy
 
-Without Hevolution, the TAME trial — the only trial ever designed to test the geroscience hypothesis in humans — would have been indefinitely delayed. The funding gap is not rhetorical; it is documented in multiple publications noting that TAME spent years assembled but not funded because no pharma company would support a metformin trial.
+TAME illustrates the generic-drug funding gap: it has spent years assembled without launching because no pharma company will support a metformin aging trial. AFAR's current fundraising status is direct evidence that the gap remains unresolved.
 
 **Structural concern:** Hevolution is a Saudi sovereign wealth fund-backed foundation. Its sustainability, independence from political interference, and alignment with academic research norms are questions that have been raised privately in the geroscience community but not yet directly addressed in the peer-reviewed literature.
 
@@ -361,7 +361,7 @@ Drawing on all the above, a minimally functional regulatory system would require
 
 | Milestone | Key Paper/Institution | Realistic Year | Status |
 |-----------|----------------------|----------------|--------|
-| TAME primary data | Justice/Barzilai, AFAR/Hevolution | 2027-2028 | Enrolling |
+| TAME primary data | Justice/Barzilai, AFAR | Unknown: trial has not launched | Fundraising / not enrolling |
 | Kritchevsky Delphi endpoint consensus finalized | PMID: 39989956 (preprint 2025) | 2025-2026 | Preprint, under review |
 | FDA guidance on aging composite endpoints | FDA/NIA | 2030 | Not initiated |
 | DunedinPACE Biomarker Qualification Submission | No designated leader | 2028-2030 | Not initiated |

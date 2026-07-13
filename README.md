@@ -6,11 +6,11 @@ Research into the science of why we age and what can actually be done about it �
 
 **[FINDINGS.md](./FINDINGS.md)** — What we know so far. The short version with evidence ratings.
 
-**[PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md)** — The full research document (~3,200+ lines, 37 sections, all citations). Sections 24–37 added March 2026 covering: nootropics, peptides, stem cells, gene therapy, senolytic vaccines, telomere biology, NIA ITP comprehensive review, thymic rejuvenation, ECM/AGEs, Urolithin A, circadian rhythms, sex differences, social determinants, glymphatic system, IGF-1/FOXO pathway, anti-inflammaging drug pipeline, methionine restriction, and international perspectives.
+**[PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md)** — The full research document (~3,200+ lines, 37 sections, all citations). Covers nootropics, peptides, stem cells, gene therapy, senolytic vaccines, telomere biology, NIA ITP, thymic rejuvenation, ECM/AGEs, Urolithin A, circadian rhythms, sex differences, social determinants, glymphatic system, IGF-1/FOXO, anti-inflammaging drugs, methionine restriction, international perspectives, and a July 2026 AI-medtech reality check.
 
 **[REGULATORY_AND_ETHICS.md](./REGULATORY_AND_ETHICS.md)** — Why the evidence looks the way it does. FDA classification, supplement loopholes, stem cell crackdowns, international comparison, and the structural thesis.
 
-**[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 78 interventions (machine-readable). Updated March 2026.
+**[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 81 interventions (machine-readable). Targeted update July 2026.
 
 ## What This Is
 
@@ -31,6 +31,6 @@ The science is real. The translation gap is wide. The supplement industry has ou
 
 ## Sources
 
-Verified March 2026 against: PubMed, NIA Interventions Testing Program, ClinicalTrials.gov
+Core review verified March 2026; targeted updates verified July 13, 2026 against: PubMed, NIA Interventions Testing Program, ClinicalTrials.gov, and official sponsor disclosures.
 
 Key journals: *Nature*, *Nature Aging*, *Cell*, *Science*, *GeroScience*, *Aging Cell*, *JAMA Network Open*, *Lancet Healthy Longevity*

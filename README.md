@@ -12,6 +12,8 @@ Research into the science of why we age and what can actually be done about it �
 
 **[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 81 interventions (machine-readable). Targeted update July 2026.
 
+**[EVIDENCE_MAINTENANCE.md](./EVIDENCE_MAINTENANCE.md)** — Source standards, review cadence, and the local PMID/trial-ID verifier.
+
 ## What This Is
 
 A living document tracking the state of longevity science, focused on **preventing aging mechanisms** — not immortality fantasy, but real molecular biology verified against published literature.

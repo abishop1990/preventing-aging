@@ -686,7 +686,7 @@ Tissue-resident stem cells decline in both number and functional capacity with a
 Mesenchymal stem cells (from bone marrow, adipose, cord blood) act primarily via **paracrine signaling** — they secrete anti-inflammatory cytokines, growth factors, and exosomes rather than engrafting.
 
 **Longeveron** (NASDAQ: LGVN) is the leading clinical-stage MSC aging company:
-- **Lomecel-B** (cord-derived MSCs): Phase 2 trials in aging frailty and mild Alzheimer's disease
+- **Lomecel-B** (bone-marrow-derived MSCs from young adult donors): Phase 2 trials in aging frailty and mild Alzheimer's disease
 - HERA trial showed improvements in 6-minute walk and physical function
 - Most clinically advanced MSC aging program
 
@@ -1627,29 +1627,27 @@ This section captures findings that emerged or were validated after the main rep
 
 GLP-1 receptor agonists (semaglutide, liraglutide, tirzepatide) have accumulated aging-adjacent evidence faster than almost any other drug class. The picture is now complex: strong for cardiovascular and metabolic aging, weaker for neurodegeneration.
 
-#### SELECT Trial: Cardiovascular Mortality in Non-Diabetic Obesity (CONFIRMED)
+#### SELECT Trial: Composite Cardiovascular Events in Secondary Prevention (CONFIRMED)
 
 > **Evidence quality: HIGH.** Phase 3 RCT, n=17,604, ~40 months follow-up.
 
-Semaglutide 2.4 mg/week in adults with elevated BMI but no diabetes, with established cardiovascular disease:
+Semaglutide 2.4 mg/week in adults with established cardiovascular disease, overweight/obesity, and no diabetes:
 - Primary endpoint (CV death, non-fatal MI, or stroke): **6.5% vs. 8.0% placebo (HR 0.80, 95% CI 0.72–0.90, p<0.001)** — 20% relative risk reduction
-- Cardioprotective effects were **independent of weight loss**, suggesting non-metabolic mechanisms
+- The trial was secondary prevention; it does not establish benefit in people without established cardiovascular disease.
 - PMID: 37952131
 
-This is not a longevity trial, but it is the first large Phase 3 RCT demonstrating mortality benefit from a GLP-1RA in non-diabetic individuals — the primary population of interest for longevity medicine.
+This is not a longevity trial. It provides strong evidence for a hard composite cardiovascular endpoint in a defined high-risk population, but cardiovascular mortality alone was not reduced by 20% and the result should not be generalized to primary prevention or healthy aging.
 
 #### EVOKE and EVOKE+ Trials: Semaglutide in Symptomatic Alzheimer's Disease — PRIMARY ENDPOINT NULL
 
 > **Evidence quality: HIGH (Phase 3 RCT, n~3,800). Result: NEGATIVE for primary endpoint.**
 
-Published November 2025, *The Lancet*. Two parallel Phase 3 trials:
+Published May 2026, *The Lancet* (PMID: 41865758). Two parallel Phase 3 trials:
 - EVOKE (n=1,855) and EVOKE+ (n=1,953): Adults 55–85 with MCI or mild AD dementia due to confirmed amyloid pathology
-- **Primary outcome (CDR-SB cognitive decline): NOT MET**
-  - EVOKE: −0.06 difference (semaglutide 2.2 vs. placebo 2.2)
-  - EVOKE+: 0.15 difference — not significant
-- **CSF biomarker signals present but did not translate to cognition**: Aβ42, phosphorylated tau, neuroinflammation markers all improved modestly
+- **Primary clinical outcome (CDR-SB): NOT MET**
+- The trial did not establish clinical efficacy on cognition or function in early symptomatic AD.
 
-**Critical interpretation**: Semaglutide modulates AD pathology biomarkers but **failed to slow cognitive decline in symptomatic disease**. This is consistent with the amyloid hypothesis failure pattern — drugs that clear pathology in established disease do not rescue already-damaged circuits. The hypothesis worth testing: GLP-1RAs may prevent neurodegeneration in preclinical stages, not treat it once manifest. PMID: 39780249.
+**Critical interpretation**: Semaglutide **failed to slow clinical decline in symptomatic disease**. The hypothesis worth testing is prevention in preclinical disease, not treatment once symptoms are manifest. PMID: 41865758. PMID: 39780249 is the published trial-design paper.
 
 #### ELAD Trial: Liraglutide in Mild-to-Moderate AD — MIXED SECONDARY SIGNALS
 
@@ -1693,7 +1691,7 @@ GLP-1R activation in the aging brain operates via:
 - Autophagy enhancement (via AMPK/mTOR axis)
 
 **Overall GLP-1RA verdict for longevity**:
-- ✅ CV mortality reduction in non-diabetic obese: proven (SELECT, Phase 3)
+- ✅ Composite MACE reduction in secondary prevention for people with established CVD and overweight/obesity without diabetes (SELECT, Phase 3)
 - ✅ Epigenetic clock reversal: first human RCT data (though HIV population, post-hoc)
 - ❌ Cognitive decline in symptomatic AD: failed primary endpoint (EVOKE/EVOKE+)
 - ⚠️ Brain atrophy: secondary signal from Phase 2b only (ELAD)
@@ -1878,8 +1876,8 @@ The finding that taurine does *not* reliably decline with age in humans (see Sec
 
 | Intervention / Finding | Evidence Quality | Key Result | PMID |
 |---|---|---|---|
-| **Semaglutide CV mortality (SELECT)** | HIGH | 20% CV risk reduction in non-diabetic obese | 37952131 |
-| **Semaglutide in AD (EVOKE/EVOKE+)** | HIGH | **PRIMARY ENDPOINT NULL** | 39780249 |
+| **Semaglutide MACE (SELECT)** | HIGH | 20% reduction in composite CV death/nonfatal MI/nonfatal stroke in established CVD | 37952131 |
+| **Semaglutide in AD (EVOKE/EVOKE+)** | HIGH | **PRIMARY CLINICAL ENDPOINT NULL** | 41865758 |
 | **Liraglutide brain volume (ELAD)** | MODERATE | ~50% less atrophy (secondary only) | 41326666 |
 | **GLP-1 epigenetic clocks (HIV RCT)** | MODERATE-HIGH | −3.1 to −4.9 biological years | 40791720 |
 | **GPLD1/TNAP axis (Bieri 2026)** | HIGH (preclinical) | Exercise→liver→BBB → druggable target | 41713415 |
@@ -2151,7 +2149,7 @@ Cognitive aging is the longevity domain most aggressively marketed to consumers 
 
 | Intervention | Aging Prevention? | Symptom Support? | Evidence Grade | Best Data |
 |---|---|---|---|---|
-| **Magnesium L-Threonate** | ✅ Possible | ✅ Yes | HIGH | RCT: ~7.5-year cognitive age reduction |
+| **Magnesium L-Threonate** | ✅ Possible | ✅ Yes | LOW-MODERATE | One 6-week RCT: estimated cognitive-age composite improved |
 | **Creatine** | ❌ Weak | ✅ Memory strain | MODERATE | Meta-analysis: +0.31 memory effect size; global cognition null |
 | **Lion's Mane** | ❌ No | ✅ Possible (MCI) | LOW-MODERATE | Preclinical strong; RCT weak |
 | **Bacopa monnieri** | ❌ No | ✅ Stress/mood | LOW-MODERATE | Anxiety benefit > cognition; recent RCT null |
@@ -2160,23 +2158,23 @@ Cognitive aging is the longevity domain most aggressively marketed to consumers 
 
 ---
 
-### 27.2 MAGNESIUM L-THREONATE — THE STRONGEST SUPPLEMENT EVIDENCE
+### 27.2 MAGNESIUM L-THREONATE — EARLY COGNITIVE SIGNAL, NOT HIGH-CONFIDENCE AGING EVIDENCE
 
-> **Evidence quality: HIGH.** Only cognitive supplement with a randomized trial showing reversal of cognitive age.
+> **Evidence quality: LOW-MODERATE.** One short randomized placebo-controlled trial found a favorable estimated cognitive-age composite; it is not evidence of cognitive rejuvenation or slower aging.
 
 Magnesium L-Threonate (Magtein) uses L-threonic acid as a carrier that crosses the blood-brain barrier more efficiently than other magnesium forms, increasing brain magnesium levels and enhancing NMDA receptor activity and synaptic plasticity.
 
-**2024–2025 RCT data**: A double-blind, placebo-controlled trial in healthy adults with subjective sleep dissatisfaction showed:
+**2025 RCT data (PMID: 41601871)**: A double-blind, placebo-controlled trial in 100 adults aged 18–45 with self-reported dissatisfied sleep showed:
 - **~7.5-year reduction in estimated brain cognitive age** vs. placebo at 6 weeks
 - Improved working memory and episodic memory
 - Faster reaction time
 - Some sleep quality improvements (HRV, HR)
 
-This is the strongest single cognitive supplement RCT finding in the literature for a healthy adult population. The effect size is modest but the direction (cognitive age reversal, not just symptom improvement) and the rigorous design are notable.
+This is an interesting single-study signal, but the cohort was young, the duration was six weeks, and “cognitive age” was an estimated composite rather than an epigenetic clock or clinical disease endpoint. It cannot establish cognitive rejuvenation, dementia prevention, or a benefit over other magnesium formulations.
 
 **Caveats**: 6-week duration is short; "cognitive age" is an estimated composite, not an epigenetic clock measurement; independent replication is needed; this is one trial.
 
-**Recommendation**: The evidence is strong enough to consider. Low cost, excellent safety profile, broader benefits (sleep, anxiety, metabolic) from magnesium repletion at large.
+**Recommendation**: Do not treat this as an evidence-based cognitive-aging intervention. Independent replication in older adults, longer follow-up, and clinically meaningful endpoints are needed.
 
 ---
 
@@ -2196,7 +2194,7 @@ The PEARL trial (AgelessRx, n=114, 48 weeks, published 2024–2025):
 
 **RAPA-EX-01 (Stanfield et al. 2026, PMID: 41985884)** tested a distinct question: can once-weekly 6 mg sirolimus improve the response to a 13-week exercise program in older adults? In 40 sedentary adults aged 65–85, it did not improve the primary chair-stand outcome in the intention-to-treat analysis; complete-case and per-protocol sensitivity analyses favored placebo. The sirolimus group had more total adverse events (99 vs. 63), including one possibly drug-related pneumonia. This is a small, short study, but it is direct human evidence against treating rapamycin as an exercise enhancer.
 
-The Dog Aging Project TRIAD trial (210 of 580 dogs enrolled as of 2025, first 3-year completions expected) represents the most important rapamycin lifespan RCT in a mammal now running. NIH awarded $7M in 2025 to accelerate enrollment. First efficacy data expected 2026–2027.
+The Dog Aging Project TRIAD trial has a target enrollment of 580 dogs. Its 2025 protocol reported 158 enrolled at the time of writing; later funding was intended to support expansion. No official current completion announcement or efficacy result was located, so a precise results date should not be asserted.
 
 **Honest summary**: PEARL provides a limited short-term tolerability signal and modest secondary signals, not evidence that weekly rapamycin is broadly safe or effective. RAPA-EX-01 adds a small but clinically relevant negative functional/safety signal. Dog TRIAD is the pivotal lifespan experiment; off-label human use carries no proven lifespan benefit.
 
@@ -2226,9 +2224,9 @@ Published *Nature Aging* + *Lancet Digital Health* 2024–2025. Plasma proteomic
 
 *Nature Medicine* 2025. Structural MRI features quantify biological age for 7 organs (brain, heart, liver, adipose, spleen, kidney, pancreas) non-invasively. AUC >0.8 for dementia prediction. Not routine yet ($1,000+ scan) but approaching clinical utility.
 
-#### P-tau217 — FDA-Approved AD Biomarker (May 2025)
+#### P-tau217 — FDA-Cleared AD Biomarker (May 2025)
 
-The Lumipulse G pTau217/β-Amyloid 1-42 plasma ratio was FDA-approved in May 2025 for adults 55+ with cognitive concern. Accuracy: 89–91% for brain amyloid pathology detection. Key fact: **~12% of 55-59 year-olds are already p-tau217 positive** (preclinical AD). This blood test allows detection of neurodegenerative aging trajectory 10–20 years before symptoms. It is not a general aging clock but it is the most actionable new aging biomarker to enter clinical practice in years.
+The Lumipulse G pTau217/β-Amyloid 1-42 plasma ratio received FDA **510(k) clearance** in May 2025. It is intended as an aid to assess amyloid pathology in adults aged 55 and older with signs or symptoms of cognitive impairment who are being evaluated for AD or other causes of cognitive decline. It is not a general aging clock, a population screening test, or evidence that a person’s neurodegenerative trajectory can be predicted decades before symptoms.
 
 #### GlycanAge — IgG Glycosylation
 
@@ -2238,13 +2236,13 @@ IgG glycosylation patterns (the "glycan biological age") reflect chronic inflamm
 
 ### 27.6 STEM CELL THERAPIES FOR COGNITIVE AGING — LOMECEL-B UPDATE
 
-**Longeveron's Lomecel-B (Laromestrocel)** — allogeneic mesenchymal stem cells derived from young donors — published Phase 2b results in *Cell Stem Cell* (early 2026):
+**Longeveron's Lomecel-B (Laromestrocel)** — allogeneic bone-marrow-derived mesenchymal stem cells from young adult donors — published Phase 2b results in *Cell Stem Cell* (2026; PMID: 41747733):
 - **n=148, ages 70+, mild-to-moderate frailty, 12-month follow-up**
 - **Primary outcome**: Single IV infusion improved 6-minute walk test by **63.4 meters vs. placebo** at month 9
-- **30.8% of treated patients reversed to "non-frail" status** vs. 14.8% placebo
+- **30.8% of treated participants improved to Clinical Frailty Scale grade 2–3** vs. 14.8% with placebo
 - **FDA path**: Phase 3 likely required before BLA submission; patent issued 2025 for inflammaging indication
 
-This is the most positive stem cell aging RCT result to date. The mechanism is paracrine anti-inflammatory: MSCs don't engraft permanently but secrete extracellular vesicles and growth factors that reset local inflammation. The caveat: this is Phase 2b from a single company; independent replication in Phase 3 is essential.
+This is a promising single Phase 2b frailty result, not evidence that stem cells reverse aging or extend lifespan. The 6-minute-walk effect was dose-dependent, but several other physical-function measures were not statistically significant. The study was funded by Longeveron and disclosed company leadership/equity conflicts; independent replication and Phase 3 confirmation are essential.
 
 **Why most MSC trials fail**: In vitro expansion causes MSC senescence, loss of potency, and altered secretome. Lot-to-lot variability is high. Aging is multifactorial and a single paracrine injection cannot address all hallmarks. Longeveron's approach (using young donor cells to maximize secretome potency) may have solved the expansion problem.
 
@@ -2280,16 +2278,16 @@ This is the most positive stem cell aging RCT result to date. The mechanism is p
 | **MOTS-c** | MODERATE (animal) | None | No IND; preclinical only |
 | **Humanin** | MODERATE (genetics) | None | No trials; delivery unsolved |
 | **Epitalon** | LOW | None | No independent replication |
-| **Magnesium L-Threonate** | HIGH | 7.5-yr cognitive age RCT | Needs replication; short follow-up |
+| **Magnesium L-Threonate** | LOW-MODERATE | One 6-week estimated-cognitive-age composite RCT | Young cohort; needs independent replication and clinical endpoints |
 | **Omega-3 (cognition)** | LOW | VITAL: null | Large trial is negative |
-| **Lomecel-B (MSC)** | HIGH | Phase 2b: +63m 6MWT, frailty reversal | Phase 3 needed |
+| **Lomecel-B (MSC)** | MODERATE | Phase 2b: +63.4m 6MWT at month 9 in highest-dose group | Company-funded; independent Phase 3 replication needed |
 | **Life Bio ER-100 (OSK)** | MODERATE | Phase 1 starting Q1 2026 | Safety data pending |
 | **OMICmAge clock** | HIGH | Validated n=30k+ | Clock reversal ≠ longevity |
 | **Organ-specific clocks** | HIGH | n=tens of thousands | Therapeutic targeting TBD |
 | **P-tau217** | HIGH | FDA-approved | AD-specific only |
 | **GlycanAge** | MODERATE | Validated biomarker | Narrow scope (inflammaging) |
 | **IL-11 inhibitors** | HIGH (preclinical) | LASN01 Phase 1 (safety) | Aging trial 2027-2029 |
-| **Rapamycin (PEARL)** | MODERATE | Phase 2: safety + modest efficacy | TRIAD dog data pending 2026-27 |
+| **Rapamycin (PEARL)** | MODERATE | Phase 2: safety + modest efficacy | TRIAD efficacy data not yet dated publicly |
 
 ---
 
@@ -2321,7 +2319,7 @@ In adults, telomerase is active in stem cells, germ cells, and some immune cells
 
 The Blasco laboratory at the CNIO (Madrid) has produced the most rigorous academic data in this space:
 
-**Jaskelioff et al. 2011 (PMID: 21531975)**: AAV-mediated TERT delivery to aging mice extended median lifespan by approximately 21% in late-life-treated animals (treated at 12–24 months). Critically, cancer rates did NOT significantly increase. This paper is real, replicated in the Blasco group's follow-up work, and represents the strongest preclinical case for TERT therapy.
+**Jaskelioff et al. 2011 (PMID: 21531975)** used a genetically engineered telomerase-deficient mouse model and pharmacologic telomerase reactivation; it did not test AAV delivery or report the AAV lifespan result. The relevant AAV study is **Bernardes de Jesus et al. 2012 (PMID: 22585399)**: AAV9-mediated mouse TERT increased median lifespan by 24% when given at one year and 13% when given at two years, without a statistically significant increase in cancer in that mouse experiment. This remains preclinical proof of principle, not human safety evidence.
 
 **What the mouse data shows:** TERT reactivation in aged tissues reduces markers of cellular senescence, improves tissue regeneration, and extends healthspan as well as lifespan. Organ-level improvements were seen in muscle, liver, gut, kidney, and brain.
 
@@ -2453,7 +2451,7 @@ For anyone self-experimenting with TA-65 or commercial telomere supplements: the
 
 | Intervention | Evidence Quality | Works (Humans)? | Key Data | COI |
 |---|---|---|---|---|
-| **TERT AAV gene therapy** | MODERATE (preclinical) | Unknown | +21% lifespan in aging mice; no cancer increase (PMID 21531975) | Founder-led |
+| **TERT AAV gene therapy** | MODERATE (preclinical) | Unknown | AAV9-mTERT: +24% median lifespan at one year, +13% at two years; no increased cancer in that mouse study (PMID 22585399) | Founder-led |
 | **TA-65 / cycloastragenol** | LOW | No | ~25 bp/yr TL effect; no lifespan data; sponsored studies | HIGH |
 | **Danazol (telomere syndrome)** | MODERATE | Modest (DC only) | Modest hematopoietic benefit; no TL lengthening (PMID 27959824) | None |
 | **Libella TERT therapy** | VERY LOW | Unproven | No peer-reviewed human data | HIGH |
@@ -3031,7 +3029,7 @@ If reduced IGF-1/FOXO suppression extends lifespan in worms and mice, we'd expec
 
 **FOXO3 activators**: Small molecules that directly activate FOXO3 or reduce AKT-mediated FOXO3 phosphorylation are in preclinical development. No clinical-stage FOXO3 activator exists as of early 2026. The challenge: FOXO3 has important roles in cancer suppression but also in immune cell function and hematopoiesis; systemic FOXO3 activation could have off-target effects.
 
-**GLP-1 receptor agonists and IGF-1**: Interestingly, semaglutide and related GLP-1RAs substantially reduce IGF-1 as part of their metabolic effects. Whether this contributes to their cardiovascular mortality reduction (SELECT trial) via this pathway is speculative but biologically plausible.
+**GLP-1 receptor agonists and IGF-1**: Whether semaglutide-related changes in IGF-1 contribute to the composite MACE reduction in SELECT is speculative. SELECT does not establish a mechanism or a cardiovascular-mortality-specific effect.
 
 ---
 

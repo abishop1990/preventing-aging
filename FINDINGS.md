@@ -56,7 +56,7 @@ Strong animal data exists. Human trials are either early, small, or have missed 
 | **Canakinumab (anti-IL-1β)** | N/A (direct human) | CANTOS: 15% MACE reduction + 67% lung cancer incidence reduction in post-MI patients. Fatal infection trade-off. | Healthy aging trial not run; proven in disease |
 | **Urolithin A (mitophagy)** | ~19% mouse lifespan extension (unpublished/preclinical) | ATLAS trial: muscle endurance benefit. MitoImmune 2025: naive T cell expansion. CLARITY cognitive trial pending. | Phase 3 needed; mechanism strong |
 | **Partial epigenetic reprogramming (OSK)** | Multiple labs: age reversal in mice. Altos Labs publishing. | ER-100 is recruiting 18 people in a first-in-human ocular safety study. No safety, efficacy, or systemic-aging result exists. | First clinical test, not evidence of rejuvenation |
-| **Lomecel-B (MSC stem cell therapy)** | N/A | Phase 2b: +63m 6-minute walk test, 30.8% frailty reversal vs. 14.8% placebo. Best stem cell RCT result to date. | Phase 3 required before BLA |
+| **Lomecel-B (MSC stem cell therapy)** | N/A | One Phase 2b frailty RCT: +63.4 m in 6-minute walk distance at month 9 in the highest-dose group; more participants improved to Clinical Frailty Scale grade 2–3 (30.8% vs. 14.8%). | Promising, company-funded result; independent replication and Phase 3 needed |
 | **Fasting-mimicking diet (FMD)** | Mice: ~10-15% lifespan extension | Phase 2: IGF-1 -15%, insulin -30%, biomarker-based age reduction. No mortality RCT. COI: Longo/L-Nutra. | Independent replication with hard endpoints needed |
 
 ---
@@ -68,7 +68,7 @@ These are widely hyped but have failed verification:
 | Intervention | What Went Wrong |
 |---|---|
 | **NMN/NR supplements** | Two 2024 meta-analyses (342 + 513 adults): **zero functional benefits** vs. placebo. NAD+ goes up; nothing measurable improves. "Exaggeration of benefits may exist in the field." (PMIDs: 40275690, 39116016) |
-| **Semaglutide in symptomatic Alzheimer's (EVOKE)** | Phase 3 trials (n~3,800): **primary cognitive endpoint not met** (Nov 2025). CSF biomarkers improved slightly. Does not slow cognitive decline in established AD. PMID: 39780249. |
+| **Semaglutide in symptomatic Alzheimer's (EVOKE)** | Phase 3 trials (n~3,800): **primary cognitive/functional endpoint not met** (published May 2026). Does not slow clinical decline in established AD. PMID: 41865758. |
 | **Taurine (human biomarker hypothesis)** | 2023 Singh *Science* paper claimed taurine declines with age in humans. **This was not confirmed in 2025**: Marcangeli et al. (*Aging Cell*, PMID: 40472098) found no age-related decline in 137 men aged 20–93. Mouse lifespan data stands (10–12%), human mechanism is uncertain. |
 | **Metformin (for non-diabetics)** | ITP mouse data negative. RCT meta-analysis (13 trials): no mortality benefit. In METFORAGING (n=40, 96 weeks), the prespecified PhenoAge endpoint was null. Blunts exercise adaptations (multiple RCTs). **TAME has not launched**; the sponsor is still raising funds. |
 | **GDF11** | Initially hyped as circulating rejuvenation factor. 2023: actually **exacerbates cardiac injury**. Field "at an impasse." Largely debunked. |
@@ -87,11 +87,11 @@ These are widely hyped but have failed verification:
 
 ### New Null Result: Semaglutide (GLP-1) Failed in Symptomatic Alzheimer's
 
-The EVOKE and EVOKE+ Phase 3 trials (n~3,800) tested semaglutide in people with established MCI or mild AD dementia. **Primary endpoint (cognitive decline) was not met.** CSF biomarkers (amyloid, tau, inflammation) improved modestly, but this did not translate to cognitive benefit. *Lancet*, November 2025. PMID: 39780249.
+The EVOKE and EVOKE+ Phase 3 trials (n~3,800) tested oral semaglutide in people with early symptomatic AD. **Their primary clinical endpoint was not met.** The results were published in *The Lancet* in May 2026 (PMID: 41865758); PMID: 39780249 is the earlier trial-design paper, not the outcome report. The trials do not support semaglutide as a treatment for established symptomatic AD.
 
 This is a pattern the field has seen repeatedly: drugs that modify pathology in established disease do not rescue already-damaged circuits. The more promising hypothesis: GLP-1RAs as *prevention* in preclinical aging, not treatment of manifest neurodegeneration.
 
-**What GLP-1RAs do have**: The SELECT trial (Phase 3, n=17,604) confirmed 20% cardiovascular mortality reduction in non-diabetic obese people. A randomized trial also showed GLP-1 treatment reversed epigenetic clock age by 3–5 years (HIV population, post-hoc analysis; PMID: 40791720). The cardiovascular evidence is real and strong.
+**What GLP-1RAs do have**: In SELECT (Phase 3, n=17,604), semaglutide reduced the prespecified composite of cardiovascular death, nonfatal MI, or nonfatal stroke by 20% in people with established cardiovascular disease and overweight/obesity but no diabetes (HR 0.80; PMID: 37952131). This is strong secondary-prevention evidence, not evidence of a 20% reduction in cardiovascular mortality alone or of general longevity benefit. A randomized trial also reported post-hoc epigenetic-clock changes in people with HIV-associated lipohypertrophy (PMID: 40791720).
 
 ### New Druggable Target: GPLD1/TNAP Axis (Exercise → Brain)
 
@@ -145,7 +145,7 @@ Trials and results that could change the picture:
 
 | What | When | Why It Matters |
 |---|---|---|
-| **Dog Aging Project (TRIAD)** | First data ~2027 | Largest rapamycin lifespan RCT in a mammal. ~470 dogs, lifespan primary endpoint. |
+| **Dog Aging Project (TRIAD)** | No announced results date | Lifespan-primary rapamycin RCT in companion dogs; protocol target is 580 dogs. No efficacy result reported. |
 | **IL-11 inhibitor aging trial** | ~2027–2029 | LASN01 Phase 1 safety cleared. CALICO $596M bet. Most exciting preclinical longevity target. |
 | **Senolytics Phase 2 (D+Q cognitive)** | ~2027–2028 | Dasatinib confirmed to reach the brain (2025). First cognitive endpoint senolytic trial. |
 | **POLYCAD trial** (spermidine 24mg/day) | Aug 2026 | ~20× higher dose than failed SmartAge. Epidemiology: HR 0.74 for all-cause mortality. |

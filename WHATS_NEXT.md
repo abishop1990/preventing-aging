@@ -14,9 +14,9 @@ These are the active trials most likely to shift the field from "common sense is
 
 ### GLP-1 Agonists in Neurodegeneration — Mixed Results, Prevention Hypothesis Survives
 
-**Update (November 2025):** EVOKE and EVOKE+ Phase 3 trials (semaglutide in symptomatic Alzheimer's, n~3,800) **missed the primary cognitive endpoint** (*Lancet*, PMID: 39780249). CSF biomarkers improved slightly, but this did not translate to slowed cognitive decline. This is the same pattern as aducanumab and other amyloid drugs: modifying pathology in established disease does not rescue already-damaged circuits.
+**Update (published May 2026):** EVOKE and EVOKE+ Phase 3 trials (oral semaglutide in early symptomatic Alzheimer's disease, n~3,800) **missed their primary clinical endpoint** (*Lancet*, PMID: 41865758). PMID: 39780249 is the study-design paper, not the outcome report. The trials did not show slowed cognitive or functional decline in established symptomatic disease.
 
-**What survives:** The SELECT trial cardiovascular mortality reduction is real. GLP-1RAs reduce inflammation, amyloid burden, and neuroinflammation in preclinical models. The more promising hypothesis — not yet tested — is GLP-1RAs as *prevention* in preclinical aging. Epidemiological signal: T2D patients on GLP-1RAs show substantially reduced all-cause dementia risk. SELECT trial: cardiovascular mortality reduction in non-diabetic obese (already proven). First aging-specific prevention trial expected 2027–2029.
+**What survives:** SELECT showed a 20% reduction in its composite MACE endpoint (cardiovascular death, nonfatal MI, or nonfatal stroke) in people with established cardiovascular disease and overweight/obesity without diabetes—not a 20% reduction in cardiovascular mortality alone. GLP-1RAs reduce inflammation, amyloid burden, and neuroinflammation in preclinical models. The more promising hypothesis — not yet tested — is GLP-1RAs as *prevention* in preclinical aging. Epidemiological dementia associations remain non-randomized evidence. First aging-specific prevention trial timing is uncertain.
 
 - Sabbagh et al. 2026 (*Nature Aging*, PMID: 41419667): comprehensive review calling GLP-1RAs an emerging geroscience modality for *prevention*, not treatment
 - **Revised verdict**: Not the first pharmacy-available geroscience drug for neurodegeneration. Still potentially the first for cardiovascular aging. Prevention trial data needed before reassessment.
@@ -25,15 +25,15 @@ These are the active trials most likely to shift the field from "common sense is
 
 **Status correction (July 13, 2026): TAME has not launched or begun enrollment.** Its official sponsor, the American Federation for Aging Research, says the six-year study will occur “once launched” and identifies “raising funds to launch” as the current need. Its 3,000-participant, 14-site composite-endpoint design remains a proposal; no results timeline is supportable until it launches. The previously cited NCT03435640 is an unrelated terminated oncology trial, not TAME.
 
-TAME's primary value is regulatory, not scientific. A positive result would establish "aging" as an FDA-approvable indication, opening the floodgates for every other geroscience trial. Even if metformin's effect is modest, the regulatory precedent would be transformative.
+TAME's primary value is regulatory as well as scientific. A positive result could support a composite multimorbidity-prevention endpoint, but it would **not by itself** establish “aging” as an FDA-approvable indication or automatically create labels for other geroscience therapies. Any such change would require separate FDA action and evidence for a defined indication.
 
 TAME biomarker infrastructure (23-protein panel) is already being deployed cross-study (Delhaes et al. 2026, PMID: 41655127).
 
 ### Dog Aging Project TRIAD — First Mammalian Lifespan Trial Outside a Lab
 
-Design published Feb 2025 (PMID: 39951177). **~470 dogs, rapamycin vs. placebo, lifespan as primary endpoint.** Fully enrolled and running.
+Design published Feb 2025 (PMID: 39951177). TRIAD is a randomized rapamycin-versus-placebo trial with lifespan as its primary endpoint and a **target enrollment of 580 dogs**. The protocol reported 158 enrolled at the time of writing; no current official completion announcement or efficacy result was located.
 
-Dogs share human living environments and diseases. If rapamycin extends dog lifespan, it provides the strongest preclinical evidence ever assembled to push human trials. First mortality data could emerge **2027**; definitive results **2028-2030**.
+Dogs share human living environments and diseases. If rapamycin extends dog lifespan, it would provide unusually relevant translational evidence for a human trial. No results date should be treated as committed until enrollment and follow-up are publicly confirmed.
 
 ### IL-11 Inhibitors — Waiting for Fibrosis Data
 
@@ -59,12 +59,12 @@ ITP already showed rapamycin + acarbose is superadditive in male mice (PMID: 361
 
 | Trial | Expected Results | If Positive, Changes... |
 |---|---|---|
-| **GLP-1 in AD (EVOKE/ELAD)** | **REPORTED Nov 2025 — NULL** | Prevention trial hypothesis survives; treatment null |
-| **TRIAD (rapamycin in dogs)** | 2027-2030 | Strongest-ever preclinical push for human rapalog trials |
+| **GLP-1 in AD (EVOKE/ELAD)** | **REPORTED May 2026 — NULL** | Symptomatic-disease treatment null; prevention remains untested |
+| **TRIAD (rapamycin in dogs)** | No announced results date | Target enrollment 580; no efficacy result reported |
 | **TAME (metformin)** | Unknown — not launched | Proposed regulatory test; sponsor is still fundraising |
 | **D+Q Phase 2 Alzheimer's** | 2027-2028 | First cognitive benefit from senolytic |
 | **IL-11 inhibitor (fibrosis)** | 2027-2028 | Proof-of-concept for most exciting preclinical target |
-| **Lomecel-B Phase 3** | ~2028 | MSC stem cell; Phase 2b strongly positive (+63m 6MWT) |
+| **Lomecel-B Phase 3** | Not announced | Promising single company-funded Phase 2b frailty RCT; independent replication needed |
 | **Combination trials (rapa+acarbose)** | 2028+ | ITP: 34% male lifespan. No human combination trial yet. |
 | **Epigenetic reprogramming (ER-100)** | Primary completion estimated May 2027 | Recruiting 18-person ocular safety study; no result yet |
 | **POLYCAD (spermidine 24mg/day)** | Aug 2026 | 20× dose of failed SmartAge trial; HR 0.74 epi signal |
@@ -125,7 +125,7 @@ If the regulatory system prevents proper testing, can new trial models go around
 
 | Model | Scale | What It's Generating | Verdict |
 |---|---|---|---|
-| **Dog Aging Project (TRIAD)** | 40,000+ dogs enrolled | Rapamycin lifespan RCT in companion dogs. Faster aging clock (8-10 yr lifespan). Published in *Nature*. | **Best alternative model.** Results could shift human trial landscape. |
+| **Dog Aging Project (TRIAD)** | Large longitudinal Dog Aging Project Pack; TRIAD target is 580 dogs | Rapamycin lifespan RCT in companion dogs. Protocol published in *GeroScience*. | Valuable translational model; no efficacy result yet. |
 | **AgelessRx PEARL** | ~100 participants | Decentralized RCT for rapamycin. Published. Primary endpoint null. | Proved decentralized trials are feasible. COI issues. |
 | **N-of-1 + wearables** | Thousands tracked | CosinorAge from 80,000 wearable users predicts healthspan (PMID: 38834756). Activity profiles stratify mortality risk. | Data exists but fragmented. No coordination. |
 | **Epigenetic clock community trials** | Small pilots | Fitzgerald et al. 2021 (PMID: 33844651): first RCT showing epigenetic age reversal from lifestyle. | Rapid readout. Scalable. Most promising format for citizen science. |
@@ -192,7 +192,7 @@ The Conboy lab's key insight: parabiosis works not by adding young factors but b
 ### GLP-1 Agonists (Semaglutide) — Aging-Adjacent Data Emerging
 
 Not a longevity drug — but the data keeps expanding beyond metabolic disease:
-- SELECT trial: cardiovascular mortality reduction in non-diabetic obese
+- SELECT trial: 20% reduction in composite MACE in people with established CVD and overweight/obesity without diabetes
 - Extensive preclinical neuro data: reduced neuroinflammation, amyloid, tau, alpha-synuclein (62 studies reviewed, PMID: 40252880)
 - **First dedicated aging biomarker trial** registered: semaglutide effects on lean mass, physical function, and epigenetic aging in older adults with insulin resistance (PMID: 39269759)
 

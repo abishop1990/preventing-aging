@@ -23,8 +23,8 @@ The FDA has never approved a drug with "aging" as the indication. Under current 
 The TAME trial (Targeting Aging with Metformin) is as much a regulatory play as a clinical trial. Barzilai designed it specifically to create an FDA precedent:
 
 - **Primary endpoint is multimorbidity** — time to first new diagnosis of CVD, cancer, dementia, or death — avoiding the need to claim "aging" as an indication
-- **FDA granted an IND exemption** — the first time FDA formally engaged with a trial targeting aging biology as its mechanism
-- If TAME succeeds, it creates a **regulatory template**: drugs could be labeled for preventing/delaying age-related multimorbidity, which functions as a proxy for "targeting aging"
+- **Regulatory aim, not an established precedent** — TAME's proposed multimorbidity endpoint avoids seeking an “aging” indication directly. The trial has not launched and has not created an FDA aging indication.
+- If TAME succeeds, it could inform a regulatory template for preventing/delaying age-related multimorbidity. It would not automatically create an FDA indication for “aging” or labels for other drugs.
 
 Citations: Barzilai et al. 2016 *Cell Metab* (PMID: 27304507); Justice et al. 2016 *J Gerontol A* (PMID: 27535966); Justice et al. 2018 *Geroscience* (PMID: 30151729)
 

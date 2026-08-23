@@ -1,8 +1,10 @@
 # Preventing Aging
 
-Research into the science of why we age and what can actually be done about it — verified against PubMed, trimmed of hype.
+Evidence-based research and operating guides for preserving health, function, appearance, and energy over time — verified against primary literature and trimmed of hype.
 
 ## Start Here
+
+**[HUMAN_OPTIMIZATION.md](./HUMAN_OPTIMIZATION.md)** — The umbrella operating system for a generally healthy adult: sleep, physical capacity, food, energy, appearance, relationships, preventive care, optional performance aids, and the things that do not earn a place in the routine.
 
 **[FINDINGS.md](./FINDINGS.md)** — What we know so far. The short version with evidence ratings.
 
@@ -10,15 +12,25 @@ Research into the science of why we age and what can actually be done about it �
 
 **[REGULATORY_AND_ETHICS.md](./REGULATORY_AND_ETHICS.md)** — Why the evidence looks the way it does. FDA classification, supplement loopholes, stem cell crackdowns, international comparison, and the structural thesis.
 
+**[PERSONAL_CARE.md](./PERSONAL_CARE.md)** — The detailed cadence for skin, hair/scalp, body, nail, foot, and oral care. It supports the umbrella routine while keeping prescriptions and diagnosed-condition modules from becoming universal recommendations.
+
 **[DIET_AND_EXERCISE.md](./DIET_AND_EXERCISE.md)** — Evidence-based operating routines for diet and exercise: the core weekly plan, food and protein targets, aerobic and strength programming, progression, safety boundaries, and a deep review of the underlying trials and guidelines.
 
 **[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 81 interventions (machine-readable). Targeted update July 2026.
+
+**[data/personal-care-evidence.csv](./data/personal-care-evidence.csv)** — Structured evidence ratings for the personal-care stack, including regulatory status, priority, and verification date.
+
+**[data/personal-care-adversarial-audit.csv](./data/personal-care-adversarial-audit.csv)** — Claim-by-claim primary case, independent refutation attempt, final verdict, and action for every existing personal-care claim and candidate addition.
+
+**[data/human-optimization-evidence.csv](./data/human-optimization-evidence.csv)** — Structured inclusion, limitation, cadence, and source record for the umbrella routine.
+
+**[data/human-optimization-adversarial-audit.csv](./data/human-optimization-adversarial-audit.csv)** — Independent KEEP/DOWNGRADE/REJECT review of the umbrella claims, including the strongest challenge and final scope.
 
 **[EVIDENCE_MAINTENANCE.md](./EVIDENCE_MAINTENANCE.md)** — Source standards, review cadence, and the local PMID/trial-ID verifier.
 
 ## What This Is
 
-A living document tracking the state of longevity science, focused on **preventing aging mechanisms** — not immortality fantasy, but real molecular biology verified against published literature.
+This is a living evidence project with two connected jobs: track the science of aging mechanisms, and turn the strongest broadly applicable human evidence into an ordinary operating routine. It is not immortality fantasy and it is not a product stack.
 
 Every major claim has been checked against live PubMed data (meta-analyses, RCTs, systematic reviews). Claims are rated:
 
@@ -29,7 +41,7 @@ Every major claim has been checked against live PubMed data (meta-analyses, RCTs
 
 ## The Short Answer
 
-After systematic verification: **almost no anti-aging drug has met a primary endpoint in a human trial.** Exercise, sleep, and caloric moderation remain the only interventions with strong human evidence for slowing biological aging. The most exciting preclinical findings (IL-11 inhibition, rapamycin, senolytics, epigenetic reprogramming) have either failed to translate or haven't been tested in humans yet.
+After systematic verification: **almost no anti-aging drug has met a primary endpoint in a human trial.** The practical high-evidence routine is built from ordinary health maintenance—sleep, aerobic and strength capacity, food quality, avoiding tobacco, minimizing alcohol, oral and UV care, relationships, and preventive services. The most exciting preclinical findings (IL-11 inhibition, rapamycin, senolytics, epigenetic reprogramming) have either failed to translate or have not been tested adequately in humans.
 
 The science is real. The translation gap is wide. The supplement industry has outpaced the evidence. And much of this is because **the regulatory system isn't designed to test whether we can slow aging** — see [REGULATORY_AND_ETHICS.md](./REGULATORY_AND_ETHICS.md) for why.
 

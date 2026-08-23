@@ -7,7 +7,13 @@ param(
         "REGULATORY_AND_ETHICS.md",
         "RECOMMENDATIONS.md",
         "DIET_AND_EXERCISE.md",
-        "data/evidence-tracker.csv"
+        "HUMAN_OPTIMIZATION.md",
+        "PERSONAL_CARE.md",
+        "data/evidence-tracker.csv",
+        "data/human-optimization-evidence.csv",
+        "data/human-optimization-adversarial-audit.csv",
+        "data/personal-care-evidence.csv",
+        "data/personal-care-adversarial-audit.csv"
     )
 )
 

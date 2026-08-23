@@ -2,15 +2,26 @@
 
 ## Project Purpose
 
-This is a living research document tracking the science of preventing aging mechanisms. All claims must be verified against published literature (PubMed, NIA ITP, ClinicalTrials.gov). The goal is evidence-based rigor, not hype.
+This is a living evidence project tracking both the science of preventing aging mechanisms and the broadly applicable practices that maintain human health, function, appearance, and energy. All claims must be verified against published literature or authoritative evidence-based guidance. The goal is evidence-based rigor, not hype.
 
 ## Repo Structure
 
 - `FINDINGS.md` — Front-page summary. The "what we know" distillation. Keep concise and current.
 - `PREVENTING_AGING_RESEARCH.md` — Full research document (~1,500+ lines, 23 sections). Deep dive with all citations, mechanisms, trial details.
+- `HUMAN_OPTIMIZATION.md` — Umbrella cadence-based operating system for a generally healthy adult. Keep the universal core separate from optional goal-specific aids and diagnosed-condition care.
+- `DIET_AND_EXERCISE.md` — Detailed operating and evidence guide for food and physical training; the umbrella guide should link here rather than reproduce every rationale.
+- `PERSONAL_CARE.md` — Cadence-based evidence guide for recurring skin, hair/scalp, body, nail, foot, and oral care. Keep it organized as an operating routine rather than a review of a supplied product list; low-evidence options stay outside the scheduled core.
 - `README.md` — Entry point. Points to FINDINGS.md and the full report.
+- `data/human-optimization-evidence.csv` — Structured evidence, cadence, scope, and exclusion decisions for the umbrella routine.
+- `data/human-optimization-adversarial-audit.csv` — Independent challenge record for the claims admitted to or rejected from the umbrella routine.
+- `data/personal-care-evidence.csv` — Structured personal-care evidence ratings and review dates.
+- `data/personal-care-adversarial-audit.csv` — Independent challenge record and final disposition for current claims and candidate additions.
 
 When updating findings, always update BOTH `FINDINGS.md` (summary) and `PREVENTING_AGING_RESEARCH.md` (detail). They must stay in sync.
+
+When updating a personal-care conclusion, update `PERSONAL_CARE.md` and `data/personal-care-evidence.csv`; also update `data/personal-care-adversarial-audit.csv` when a claim is added, materially challenged, downgraded, or rejected. Do not add routine instructions for prescription drugs or periodontal treatment that conflict with a current label or clinician plan.
+
+When updating the umbrella routine, update `HUMAN_OPTIMIZATION.md` and `data/human-optimization-evidence.csv` together; update `data/human-optimization-adversarial-audit.csv` when a claim is added, materially challenged, downgraded, or rejected. An intervention belongs in the universal core only when it is broadly applicable, tied to a meaningful outcome, supported by credible human evidence or evidence-based preventive guidance, and worth its burden. Keep condition-specific treatment and low-actionability testing outside the core even when the intervention can be effective in an indicated population.
 
 ## Research Methodology
 

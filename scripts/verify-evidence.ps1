@@ -6,6 +6,7 @@ param(
         "WHATS_NEXT.md",
         "REGULATORY_AND_ETHICS.md",
         "RECOMMENDATIONS.md",
+        "DIET_AND_EXERCISE.md",
         "data/evidence-tracker.csv"
     )
 )

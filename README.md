@@ -10,6 +10,8 @@ Research into the science of why we age and what can actually be done about it �
 
 **[REGULATORY_AND_ETHICS.md](./REGULATORY_AND_ETHICS.md)** — Why the evidence looks the way it does. FDA classification, supplement loopholes, stem cell crackdowns, international comparison, and the structural thesis.
 
+**[DIET_AND_EXERCISE.md](./DIET_AND_EXERCISE.md)** — Evidence-based operating routines for diet and exercise: the core weekly plan, food and protein targets, aerobic and strength programming, progression, safety boundaries, and a deep review of the underlying trials and guidelines.
+
 **[data/evidence-tracker.csv](./data/evidence-tracker.csv)** — Structured evidence ratings for 81 interventions (machine-readable). Targeted update July 2026.
 
 **[EVIDENCE_MAINTENANCE.md](./EVIDENCE_MAINTENANCE.md)** — Source standards, review cadence, and the local PMID/trial-ID verifier.

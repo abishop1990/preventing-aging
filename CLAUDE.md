@@ -2,16 +2,18 @@
 
 ## Project Purpose
 
-This is a living evidence project tracking both the science of preventing aging mechanisms and the broadly applicable practices that maintain human health, function, appearance, and energy. All claims must be verified against published literature or authoritative evidence-based guidance. The goal is evidence-based rigor, not hype.
+This is a living research project about delaying or reversing biological aging and extending healthy life. Aging biology, human healthspan, and the evidence needed to translate between them are the primary scope. General health, diet/exercise, and personal-care routines are supporting guides. Apply the claim-specific appraisal and update workflow in EVIDENCE_MAINTENANCE.md; use RESEARCH_INBOX.md to record searches and decisions.
 
 ## Repo Structure
 
 - `FINDINGS.md` — Front-page summary. The "what we know" distillation. Keep concise and current.
-- `PREVENTING_AGING_RESEARCH.md` — Full research document (~1,500+ lines, 23 sections). Deep dive with all citations, mechanisms, trial details.
+- `PREVENTING_AGING_RESEARCH.md` — Full research document. Deep dive with all citations, mechanisms, trial details.
 - `HUMAN_OPTIMIZATION.md` — Umbrella cadence-based operating system for a generally healthy adult. Keep the universal core separate from optional goal-specific aids and diagnosed-condition care.
 - `DIET_AND_EXERCISE.md` — Detailed operating and evidence guide for food and physical training; the umbrella guide should link here rather than reproduce every rationale.
 - `PERSONAL_CARE.md` — Cadence-based evidence guide for recurring skin, hair/scalp, body, nail, foot, and oral care. Keep it organized as an operating routine rather than a review of a supplied product list; low-evidence options stay outside the scheduled core.
-- `README.md` — Entry point. Points to FINDINGS.md and the full report.
+- `README.md` — Entry point and scope. Leads with findings, research, and evidence maintenance.
+- `RESEARCH_INBOX.md` — Prioritized review queue, search plan, and decision records.
+- `EVIDENCE_MAINTENANCE.md` — Canonical appraisal rules, review cadence, migration guidance, and publishing checks.
 - `data/human-optimization-evidence.csv` — Structured evidence, cadence, scope, and exclusion decisions for the umbrella routine.
 - `data/human-optimization-adversarial-audit.csv` — Independent challenge record for the claims admitted to or rejected from the umbrella routine.
 - `data/personal-care-evidence.csv` — Structured personal-care evidence ratings and review dates.
@@ -38,42 +40,35 @@ This keeps costs efficient while maintaining quality on the synthesis and judgme
 
 ### Evidence Verification
 
-Every claim in the report must have an evidence quality rating:
+Assess each claim in its stated species/population, intervention, and outcome. Follow EVIDENCE_MAINTENANCE.md rather than the legacy combined scale.
 
-- **HIGH** — Replicated human RCT data, or definitive NIA ITP multi-site animal data
-- **MODERATE** — Strong animal data + early human trials with positive signals, or strong epidemiology
-- **LOW** — Single studies, unreplicated, human trials that missed primary endpoints, or manufacturer-funded only
-- **DEBUNKED** — Contradicted by subsequent evidence
+Record result direction separately from confidence (HIGH / MODERATE / LOW / VERY LOW, with reasons). A rigorous null result is not automatically LOW; industry funding is a conflict to assess, not an automatic downgrade. Strong animal evidence does not establish human benefit. NO DIRECT EVIDENCE IDENTIFIED requires a documented search and does not mean ineffective. Use NOT ASSESSED when appraisal is incomplete.
 
-When verifying a claim, check:
-1. Has the original finding been independently replicated?
-2. Was it tested by the NIA ITP (for mouse lifespan claims)?
-3. Have human RCTs met their PRIMARY endpoints (not just secondary/exploratory)?
-4. Are there conflicts of interest (company-funded studies, author equity)?
-5. Have meta-analyses been published? What do they conclude?
+Check study design and bias, uncertainty, independent replication, endpoint prespecification and multiplicity, adverse effects, relevance to the exact claim, and conflicts of interest. State which full papers or abstracts were inspected. Legacy grades remain pending reappraisal; do not silently relabel all rows.
 
 ### Fetching Evidence
 
-Use the `mcp__fetch__fetch` tool to pull live data from:
+Use available search, retrieval, or connected research tools to inspect primary sources, including:
 - `https://pubmed.ncbi.nlm.nih.gov/?term=<query>&sort=date` — PubMed search
 - `https://pubmed.ncbi.nlm.nih.gov/<PMID>/` — Specific paper abstracts
 - ClinicalTrials.gov for trial status (may require alternative access if blocked)
 
-Always cite: Author, Year, Journal, PMID.
+For research, cite author, year, journal, PMID/DOI when available, and a direct source URL. For registry and regulatory facts, cite the canonical record and access date. Record publication date, search window, and claim/status verification dates separately.
 
 ## Writing Style
 
-- Lead with the evidence rating (blockquote format: `> **Evidence quality: X.**`)
+- Lead with the claim context and outcome-specific confidence, for example `> **Context: mice; outcome: lifespan; confidence: X (rationale).**`
 - State what the data actually shows, not what we hope it shows
 - Flag conflicts of interest explicitly
-- When a claim is weak, say so directly — "primary endpoint null," "not replicated," "manufacturer-funded"
-- No hype. No hedging toward optimism. If the evidence is negative, report it as negative.
+- State limitations precisely. A null primary endpoint, lack of replication, and manufacturer funding are different facts and should not be treated as interchangeable judgments.
+- Apply equal scrutiny to positive, negative, and skeptical claims. Report estimates and uncertainty without forcing either an optimistic or pessimistic narrative.
 - Keep FINDINGS.md readable in 5 minutes. Push detail to the full report.
 
 ## Key Context
 
-- The supplement industry has wildly outpaced the evidence (NMN, resveratrol, fisetin)
-- Almost no anti-aging drug has met a primary endpoint in a human trial as of March 2026
-- Exercise remains the strongest evidence-based intervention by a wide margin
-- Mouse-to-human translation has been the consistent failure point
-- The user's framing is "preventing aging mechanisms," not "immortality"
+- The user's framing is preventing aging mechanisms and preserving healthy life, not a general optimization catalog.
+- Separate discoveries worth investigating from interventions justified for human use.
+- Do not equate biomarkers, disease-specific clinical outcomes, and slowed biological aging.
+- Regulatory status, funding incentives, evidence quality, and personal applicability are separate judgments.
+- The October 2026 scope cleanup is not a new literature review. Preserve historical verification dates until the claims are checked.
+- Review current sources before repeating trial statuses, forecasts, or claims that a field has no human results.

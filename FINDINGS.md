@@ -2,7 +2,9 @@
 
 **Core review: March 24, 2026 | Targeted update: July 13, 2026 | Sources: PubMed, NIA ITP, ClinicalTrials.gov**
 
-This is the short version. Every claim below was checked against live PubMed data using systematic searches across published meta-analyses, RCTs, and review papers. For the full evidence and citations, see [PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md).
+This is the existing research synthesis. For detail and citations, see [PREVENTING_AGING_RESEARCH.md](./PREVENTING_AGING_RESEARCH.md).
+
+> **Editorial scope update: October 30, 2026; no new literature review.** Findings and trial statuses below retain their historical review dates and require claim-specific reappraisal. Legacy strength labels mix species, outcomes, and confidence. Read them under [EVIDENCE_MAINTENANCE.md](./EVIDENCE_MAINTENANCE.md); see [RESEARCH_INBOX.md](./RESEARCH_INBOX.md) for the review queue. A clinical or biomarker benefit is not automatically evidence of slowed biological aging.
 
 ---
 
@@ -27,9 +29,9 @@ These are not independent — they form feedback loops. Upstream failures (DNA d
 
 ---
 
-## What Actually Works (Human Evidence)
+## Human Health, Function, and Biomarker Findings
 
-These interventions have replicated human RCT data showing measurable effects on aging biology:
+These entries address different outcomes and include different study designs. Each claim needs to be read in its original population and endpoint; the table does not establish a uniform effect on biological aging. The headline comparisons and legacy strength labels are prioritized for reappraisal.
 
 | Intervention | What the Data Shows | Strength |
 |---|---|---|
@@ -61,9 +63,9 @@ Strong animal data exists. Human trials are either early, small, or have missed 
 
 ---
 
-## What Doesn't Work (or Evidence Is Negative)
+## Negative, Mixed, and Insufficient Evidence
 
-These are widely hyped but have failed verification:
+These entries include null trials, challenged mechanisms, and inadequate evidence. Those are different conclusions: a study that misses an endpoint does not by itself establish ineffectiveness for every dose, population, or outcome.
 
 | Intervention | What Went Wrong |
 |---|---|
@@ -160,17 +162,13 @@ Trials and results that could change the picture:
 
 ---
 
-## The Uncomfortable Truth
+## What These Findings Can Establish
 
-After verifying every major claim against PubMed:
+For each intervention, distinguish a change in mechanism or biomarker, a benefit on a particular clinical outcome, and an effect on human aging or lifespan. The first two do not automatically establish the third.
 
-**Almost no anti-aging drug has met a primary endpoint in a human clinical trial.**
+The purpose of this repository is to identify which claims are supported, which remain uncertain, and which new results would change those judgments. Strong practical health evidence belongs in the supporting guides; promising early research belongs in the research record with its limits visible.
 
-The things that actually slow aging in humans — exercise, sleep, caloric moderation, not smoking — are free. The supplement industry (NMN, resveratrol, fisetin) has wildly outpaced the evidence. The most exciting mouse results (rapamycin, senolytics, reprogramming) have either failed to translate or haven't been tested in humans yet.
-
-The science is real. The mechanisms are understood. But the gap between "we can reverse aging in a mouse" and "we can reverse aging in a human" remains wide.
-
-**What to do today:** Maximize VO2 max. Lift weights. Sleep well. Eat mostly plants, not too much. Maintain relationships. Then watch the trials.
+Before relying on a headline, check the original source, exact endpoint, population, uncertainty, harms, and verification date. The [research inbox](./RESEARCH_INBOX.md) tracks the next review priorities.
 
 ---
 

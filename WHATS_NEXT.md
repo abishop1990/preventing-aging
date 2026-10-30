@@ -2,15 +2,17 @@
 
 **Last updated: July 13, 2026 (targeted trial-status update)**
 
-After verifying every major claim in longevity science against PubMed, the honest finding is that lifestyle interventions (exercise, sleep, diet, social connection) remain the only things with strong human evidence. The promising drugs (rapamycin, senolytics, IL-11 inhibition, epigenetic reprogramming) have either failed in human trials or haven't been properly tested yet.
+> **Editorial scope update: October 30, 2026; no new trial-status review.** Dates, recruitment descriptions, and projected readouts below are historical and pending verification. A trial completion estimate is not a results-publication date. Use [RESEARCH_INBOX.md](./RESEARCH_INBOX.md) for the current review queue.
 
-This document asks: **what could break us out of that?**
+This document records research questions and programs that could change the evidence about aging biology and human healthspan. Evaluate each program against its intended endpoint, population, uncertainty, and safety; avoid treating all disease-treatment and aging claims as the same question.
+
+This document asks: **which results would change what we know about aging and its treatment?**
 
 ---
 
 ## 1. Trials That Could Change Everything
 
-These are the active trials most likely to shift the field from "common sense is all we have" to "we have a drug that works." Ordered by expected impact × probability.
+These are programs selected in the prior review for their potential relevance. Their current status and projected timing need verification; the ordering is editorial, not a quantified estimate of success.
 
 ### GLP-1 Agonists in Neurodegeneration — Mixed Results, Prevention Hypothesis Survives
 

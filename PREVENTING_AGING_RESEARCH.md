@@ -1,9 +1,9 @@
-# PREVENTING AGING: A COMPREHENSIVE RESEARCH REPORT
-## The Science of Why We Age and What Can Be Done About It (2025)
+# PREVENTING AGING: RESEARCH REPORT
+## Aging Biology, Human Healthspan, and Translation
 
-> **Research compiled from 20+ parallel deep-research sessions covering all major areas of longevity science.**
-> **Knowledge base: published literature and developments through August 2025.**
-> **Sections: 1–21 core science + Section 22 (Biological Immortality in Nature) + Section 23 (Self-Experimenters & Extreme Longevity Practices)**
+> **Review history:** originally compiled around literature through August 2025, with later March 2026 and targeted July 2026 revisions. Coverage varies by section.
+> **Editorial scope update: October 30, 2026; no new literature review.** Existing scientific claims, forecasts, and legacy ratings have not been comprehensively reverified. Apply the claim-specific framework in [EVIDENCE_MAINTENANCE.md](./EVIDENCE_MAINTENANCE.md) and consult [RESEARCH_INBOX.md](./RESEARCH_INBOX.md) for pending reviews.
+> **Interpretation:** distinguish preclinical mechanisms, human biomarkers, clinical benefit, and evidence about human aging itself. Study results are specific to the tested intervention and population.
 
 ---
 
@@ -3301,4 +3301,3 @@ Korean research has made significant contributions to two areas specifically rel
 **Probably not missing anything transformative**: The major peer-reviewed longevity science — regardless of origin country — almost universally gets published in English-language journals, and the most competitive labs in Japan, China, and Korea are tightly integrated into the global scientific community. The risk of a transformative finding being "hidden" in Japanese or Chinese literature is low. The risk of low-quality, sponsored studies inflating the evidence base for traditional medicine compounds is higher.
 
 **The translation infrastructure gap**: The real gap is that compounds studied extensively in Japanese and Chinese populations (astaxanthin, specific ginsenosides, K2 menaquinone, specific mushroom polysaccharides like beta-glucans from Lentinula edodes) have not been systematically entered into Western Phase 2/3 RCT infrastructure or ITP testing. This represents both a potential opportunity and an important uncertainty.
-

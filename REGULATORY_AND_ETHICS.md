@@ -4,6 +4,8 @@
 
 This section covers the laws, regulations, ethical debates, and institutional structures that shape what aging interventions get tested, approved, and made available — and why the evidence landscape looks the way it does.
 
+> **Editorial note: October 30, 2026.** This page retains historical policy claims and interpretations; they have not been reverified in the scope cleanup. The [review queue](./RESEARCH_INBOX.md) prioritizes checking current rules and separating documented facts from causal claims about funding, patents, and institutional incentives. Access or approval status must not be substituted for a claim-specific efficacy assessment.
+
 ---
 
 ## The Core Problem: Aging Is Not a Disease
